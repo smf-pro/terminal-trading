@@ -1,0 +1,18 @@
+name: Data USD Scraper
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: data-usd
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: data-usd.py
+      label: data-usd
+      timeout_minutes: 10
+    secrets: inherit

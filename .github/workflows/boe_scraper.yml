@@ -1,0 +1,18 @@
+name: BoE Scraper
+on:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: boe
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: boe_cloud.py
+      label: boe
+      timeout_minutes: 10
+    secrets: inherit

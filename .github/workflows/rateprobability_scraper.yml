@@ -1,0 +1,18 @@
+name: Rate Probability Scraper
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: rateprobability
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: rateprobability_cloud.py
+      label: rateprobability
+      timeout_minutes: 10
+    secrets: inherit

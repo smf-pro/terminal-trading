@@ -1,0 +1,18 @@
+name: Data NZD Scraper
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: data-nzd
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: data-nzd.py
+      label: data-nzd
+      timeout_minutes: 10
+    secrets: inherit

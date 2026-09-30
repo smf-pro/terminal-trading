@@ -1,0 +1,28 @@
+# A lancer UNE SEULE FOIS a la main : copie le docs/ actuel du depot prive
+# vers ce depot public (pour que le site existe des le depart).
+name: seed-docs
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.PRIVATE_REPO }}
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+      - name: Copier docs/
+        run: |
+          mkdir -p docs
+          rsync -a private/docs/ docs/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A docs
+          git diff --cached --quiet && { echo "Rien a copier."; exit 0; }
+          git commit -m "Seed docs [skip ci]"
+          git push

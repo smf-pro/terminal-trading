@@ -1,0 +1,19 @@
+name: COT Scraper
+on:
+  schedule:
+    - cron: "0 22 * * 5"
+    - cron: "0 8 * * 6"
+  workflow_dispatch: {}
+concurrency:
+  group: cot
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_cloud.py
+      label: cot
+      timeout_minutes: 10
+    secrets: inherit

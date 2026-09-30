@@ -1,0 +1,18 @@
+name: BoJ Scraper
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: boj
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: boj_cloud.py
+      label: boj
+      timeout_minutes: 10
+    secrets: inherit

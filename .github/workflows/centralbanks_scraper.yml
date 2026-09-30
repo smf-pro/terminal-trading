@@ -1,0 +1,18 @@
+name: Central Banks Scraper
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: centralbanks
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: centralbanks_cloud.py
+      label: centralbanks
+      timeout_minutes: 10
+    secrets: inherit

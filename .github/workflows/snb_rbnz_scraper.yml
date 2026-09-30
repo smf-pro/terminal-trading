@@ -1,0 +1,18 @@
+name: SNB RBNZ Scraper
+on:
+  schedule:
+    - cron: "15 */2 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: snb_rbnz
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: snb_rbnz_cloud.py
+      label: snb_rbnz
+      timeout_minutes: 10
+    secrets: inherit
