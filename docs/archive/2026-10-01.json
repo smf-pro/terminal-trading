@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "date_recuperation": "2026-10-01T15:34:31.935358+00:00",
+      "extrait": "Ladies and gentlemen Welcome to the Karl Brunner Distinguished Lecture. This year marks the tenth anniversary of the event. For this special occasion we have invited a truly outstanding speaker: Mario Draghi. I am very honoured that Mario Draghi has accepted our invitation. But this year is also special for a different reason: This is also the last Karl ...",
+      "impact": "low",
+      "titre": "Schlegel: Tenth Karl Brunner Distinguished Lecture - Introduction of Mario Draghi",
+      "date_publication": "2026-10-01T15:33:31.935358+00:00",
+      "source": "snb.ch",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429500-schlegel-tenth-karl-brunner-distinguished-lecture-introduction"
+    },
+    {
       "extrait": "[Dealer's Voice] The Japanese yen is surging. While there are growing concerns about intervention, no information about intervention or rate checks has been heard at this time.",
       "date_recuperation": "2026-10-01T14:46:25.472401+00:00",
       "source": "@Min_FX",
