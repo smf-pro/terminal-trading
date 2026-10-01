@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T19:51:31.930732+00:00",
     "cb_articles": "2026-10-01T20:43:10.226539+00:00",
-    "il_articles": "2026-10-01T21:08:49.709190+00:00"
+    "il_articles": "2026-10-01T21:25:09.409877+00:00"
   },
   "ff_news": [
     {
@@ -549,6 +549,18 @@
     }
   ],
   "il_articles": [
+    {
+      "url": "https://investinglive.com/news/nz-consumer-confidence-slips-to-97-6-as-oil-spike-weighs-inflation-expectations-ease/",
+      "contenu": "Summary\n\nANZ-Roy Morgan NZ consumer confidence edged down to 97.6 in September from 98.0. Two-year inflation expectations eased to 4.5%, the lowest since March 2025, but weekly data showed sentiment fading and price fears rising as oil spiked mid-month.\n\nThe survey adds little to lift the New Zealand dollar, which has fallen to its lowest level in 11 months over the past 24 hours. Softer headline inflation expectations would ordinarily ease pressure on the RBNZ, but the late-month rise in expectations as oil climbed is the more relevant signal for traders, given fuel costs feed quickly into household price perceptions. If crude stays elevated, the combination of weaker sentiment and firmer inflation expectations leaves the RBNZ facing a less comfortable trade-off between growth and prices. For the currency, a weak NZD is itself one of the supports ANZ cites for exporters and tourism, which may limit official concern about further depreciation.\n\nNew Zealand consumers began September steadier than they finished it, with a mid-month oil spike eroding confidence and nudging price fears back up beneath a calm-looking monthly average.\n\nANZ-Roy Morgan consumer confidence fell 0.4 points to 97.6 in September, still below 100 but about 17 points above April's low\n\nCurrent conditions rose to 87.3 from 83.4; future conditions fell to 104.5 from 107.7\n\nTwo-year inflation expectations eased to 4.5% from 4.7%, the lowest since March 2025; house price expectations fell to 2.4%\n\nNet 12-month economic outlook worsened to minus 16 from minus 12; five-year outlook eased to +10 from +13\n\nWeekly data showed confidence weakening and inflation expectations rising as oil prices spiked mid-month\n\nANZ sees the recovery continuing but gradual and fragile, with the RBNZ unlikely to tolerate fast growth\n\nNew Zealand consumer confidence edged lower in September as a sharp rise in oil prices appeared to sap sentiment over the course of the month, according to the ANZ-Roy Morgan survey released on Friday.\n\nThe headline index slipped to 97.6 from 98.0 in August, leaving it just below the 100 mark that separates optimism from pessimism. That is still around 17 points above April's low, when the index sank to around 80, suggesting households have regained much of the ground lost earlier in the year but are struggling to push further.\n\nThe detail was mixed. The current conditions index rose to around 87 from about 83, while the future conditions index fell to around 104.5 from roughly 108. A net 19% of respondents said they were worse off than a year ago, an improvement from 21%, and a net 20% expect to be better off in a year, slightly lower than in August. Views on the economy over the next 12 months deteriorated, with the net balance falling to minus 16 from minus 12, while the five-year outlook eased to +10 from +13. Sentiment on buying major household items improved by 5 points but remains negative, at a net minus 7.\n\nTwo-year-ahead inflation expectations fell to 4.5% from 4.7%, the lowest reading since March 2025, and house price expectations eased to 2.4%, the lowest since July 2024.\n\nANZ noted, however, that the monthly averages may mask a shift within September. Oil prices rose sharply during the month, peaking around mid-September before partly retracing, and a weekly breakdown of the survey showed confidence starting the month stronger than it finished, with inflation expectations ending the month higher. The bank cautioned that weekly cuts of the sample give only a rough estimate.\n\nANZ described the economy as a mixed bag. Strong prices for key goods exports and a low New Zealand dollar are supporting exporters and tourism, but the housing market is losing momentum, monetary stimulus is being withdrawn, unemployment remains elevated and cost-of-living pressures persist. The bank expects the recovery to continue but to be gradual and fragile, noting the Reserve Bank of New Zealand is unlikely to tolerate a sharp pickup in growth that could threaten inflation.",
+      "titre": "NZ consumer confidence slips to 97.6 as oil spike weighs, inflation expectations ease",
+      "date_publication": "2026-10-01T21:25:09.409877+00:00",
+      "date_recuperation": "2026-10-01T21:25:27.082055+00:00",
+      "ignore": false,
+      "categorie": "news",
+      "tags": [
+        "NZD"
+      ]
+    },
     {
       "date_recuperation": "2026-10-01T21:10:32.115820+00:00",
       "ignore": false,
