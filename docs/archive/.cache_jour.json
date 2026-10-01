@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T09:42:33.470019+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T08:30:38.249472+00:00"
+    "il_articles": "2026-10-01T09:56:56.321559+00:00"
   },
   "ff_news": [
     {
@@ -216,6 +216,19 @@
     }
   ],
   "il_articles": [
+    {
+      "ignore": false,
+      "tags": [
+        "Oil",
+        "Oil Technical Analysis"
+      ],
+      "categorie": "commodities",
+      "url": "https://investinglive.com/commodities/oil-shoots-higher-as-the-market-starts-to-lose-patience-with-the-prolonged-us-iran-stalemate/",
+      "titre": "Oil shoots higher as the market starts to lose patience with the prolonged US-Iran stalemate",
+      "date_publication": "2026-10-01T09:56:56.321559+00:00",
+      "contenu": "Summary\n\nOil quickly recovered its overnight losses as the lack of progress in US-Iran talks keeps the market on edge. A breakthrough would likely trigger a sharp decline, while a prolonged stalemate or renewed escalation should keep prices supported.\n\nFUNDAMENTAL\n        OVERVIEW\n\nCrude oil weakened\n        into the US session close yesterday and extended the losses during the Asian\n        session. There were no bearish catalysts, so it might just have been a\n        technical move. In fact, this morning prices shot higher and erased all the\n        losses.\n\nThe market might\n        be losing patience since we haven’t got any new development on the US-Iran side.\n        Iran's government spokesperson yesterday said that the Foreign Minister\n        Araghchi presented to the cabinet \"a US proposal\", although no further\n        details were given.\n\nTrump told\n        reporters that he must decide whether to “blow them up or make a deal” with\n        Iran, adding that the conflict would end “very soon, one way or the other”. He’s\n        been using these same words for several months already, so it’s not something\n        new.\n\nLooking ahead, it goes without saying that a breakthrough in US-Iran negotiations would\n        send oil prices quickly lower, while a prolonged stalemate or even a\n        re-escalation will keep the market supported into new highs.\n\nCRUDE OIL\n        TECHNICAL ANALYSIS – DAILY TIMEFRAME\n\nOn the daily chart, we can\n        see thatcrude oil(CFD contract) might be\n            forming a range near the lower bound of the channel. If the price pulls back into\n            the lower bound of the channel, we can expect the buyers to step in, with a\n            defined risk below it, to position for a rally into the 110.00 resistance. The\n            sellers, on the other hand, will look for a break lower to pile in for a drop\n            into the 68.00 support next, with the 80.00 handle as the first target.\n\nCRUDE OIL TECHNICAL\n        ANALYSIS – 4 HOUR TIMEFRAME\n\nOn the 4 hour chart, we can\n        see the price broke above the minor downward trendline and extended the gains\n        as the buyers piled in with more conviction, targeting the 96.77 level. If the\n        price gets there, we can expect the sellers to step in, with a defined risk\n        above the level, to position for a drop into the lower bound of the channel.\n        The buyers, on the other hand, will want to see the price breaking higher to\n        increase the bullish bets into the 110.00 resistance next.\n\nCRUDE OIL TECHNICAL\n        ANALYSIS – 1 HOUR TIMEFRAME\n\nOn the 1 hour chart, we can\n        see the price broke above the minor resistance zone around the 91.40 level. If\n        we get a pullback, we can expect the buyers to step in around the\n        resistance-turned-support to keep pushing into new highs. The sellers, on the\n        other hand, will want to see the price falling back below the support to extend\n        the drop into the lower bound of the channel. The red lines define theaverage daily rangefor today.\n\nUPCOMING CATALYSTS\n\nTodaywe\n            get the US ISM Manufacturing PMI and the latest US Jobless Claims figures. Tomorrow,\n            we conclude the week with the US NFP report. The focus, though, will remain on\n            US-Iran developments.",
+      "date_recuperation": "2026-10-01T10:00:30.084635+00:00"
+    },
     {
       "titre": "Stocks feel the pinch as 10-year Treasury yields hit 5.33%, highest since 2007",
       "tags": [
