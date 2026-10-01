@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "ignore": false,
+      "date_publication": "2026-10-01T10:03:33.619950+00:00",
+      "impact": "medium",
+      "date_recuperation": "2026-10-01T10:04:33.619950+00:00",
+      "url": "https://www.forexfactory.com/news/1429445-trump-administration-has-been-taking-steps-to-turn",
+      "extrait": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations RTRS Cites Sources",
+      "titre": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations  RTRS Cites Source",
+      "source": "@LiveSquawk"
+    },
+    {
       "source": "challengergray.com",
       "ignore": false,
       "titre": "US Job Cuts Fall in September; Hiring Plans Up 3% Over 2025 On Weak Early Seasonal Hiring",
@@ -211,6 +221,19 @@
     }
   ],
   "il_articles": [
+    {
+      "ignore": false,
+      "date_publication": "2026-10-01T10:05:31.807178+00:00",
+      "url": "https://investinglive.com/news/us-layoffs-ease-in-september-but-weak-hiring-keeps-nfp-in-focus/",
+      "date_recuperation": "2026-10-01T10:05:26.251820+00:00",
+      "categorie": "news",
+      "titre": "US layoffs ease in September, but weak hiring keeps NFP in focus",
+      "contenu": "Summary\n\nLayoffs are easing but softer seasonal hiring leaves plenty riding on US jobs report on Friday\n\nUS-based employers announced 43,281 job cuts in September, down 18% from August and 20% from a year earlier. This marks the lowest total for the month since 2022, when 29,989 job cuts were recorded. Tech continues to lead layoffs, posting 10,799 cuts in September - up 77% from August.\n\nBut through the first nine months of 2026, total announced layoffs are down 39% compared with the same period last year. On the surface, that seems to be fairly reassuring.\n\nBut when you look at hiring, that is where things get more interesting with this month's Challenger report. Employers announced plans to hire 90,787 workers in September, down 23% from a year ago and marking the weakest September total since 2011.\n\nPerhaps more importantly, Challenger noted that the usual early surge in holiday-season hiring has been notably absent this time around.\n\nThat puts even more attention on Friday's non-farm payrolls (NFP) report. Analyst estimates show payrolls expected to rise by around 90,000 in September, with the unemployment rate holding at 4.1%. That follows yesterday's ADP report which showedprivate payrolls rising by 90,000, above the 70,000 expected.\n\nAs a reminder, neither the ADP nor Challenger reports are a direct proxy for the NFP reading. But together, they suggest employers are cautious rather than aggressively pulling back.\n\nWith surging bond yields already keeping broader markets on edge, the Friday reaction to the US jobs report could really bite. 10-year Treasury yields are threatening a firm break above 5.30% today as inflation, energy prices and fiscal concerns keep the bond vigilantes firmly in control.\n\nA strong NFP print could give bond sellers another reason to push yields higher and keep the pressure on equities. Meanwhile, a soft number may offer Treasuries some bit part relief but with the long-end facing pressures well beyond the labour market, it may take a genuinely weak report to change the  tone in the bond market; in turn for broader markets too.",
+      "tags": [
+        "USD",
+        "market overview"
+      ]
+    },
     {
       "ignore": false,
       "tags": [
