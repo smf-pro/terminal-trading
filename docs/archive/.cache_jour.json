@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T11:08:31.082333+00:00",
+    "ff_news": "2026-10-01T11:34:33.582141+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T11:18:06.014496+00:00"
   },
   "ff_news": [
+    {
+      "source": "@DeItaone",
+      "date_publication": "2026-10-01T11:34:33.582141+00:00",
+      "impact": "low",
+      "extrait": "Fed's Kashkari: Economy Keeps Surprising Me How Resilient It Is",
+      "ignore": false,
+      "titre": "Fed's Kashkari: Economy Keeps Surprising Me How Resilient It Is",
+      "url": "https://www.forexfactory.com/news/1429458-feds-kashkari-economy-keeps-surprising-me-how-resilient",
+      "date_recuperation": "2026-10-01T11:35:33.582141+00:00"
+    },
     {
       "date_publication": "2026-10-01T11:08:31.082333+00:00",
       "extrait": "BUNDESBANK PRESIDENT JOACHIM NAGEL TO OMFIF EVENT: WE HAVE TO DO MORE TO FOSTER DOMESTIC DEMAND, PARTICULARLY THROUGH DOMESTIC INVESTMENT #joachimnagel #bundesbank #ecb #europeancentralbank #ecb #eurozoneMORE BBK'S NAGEL: GERMAN FISCAL SPENDING WILL FEED THROUGH TO THE REAL ECONOMY #joachimnagel #bundesbank #ecb #europeancentralbank #ecb #eurozone",
