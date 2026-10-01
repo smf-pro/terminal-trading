@@ -921,7 +921,8 @@
       "url": "https://investinglive.com/news/germany-september-unemployment-change-12k-vs-1k-expected/"
     },
     {
-      "ignore": false,
+      "titre": "What are the main events for today?",
+      "categorie": "news",
       "tags": [
         "EUR"
       ],
