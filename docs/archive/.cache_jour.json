@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T19:51:31.930732+00:00",
     "cb_articles": "2026-10-01T17:31:27.288635+00:00",
-    "il_articles": "2026-10-01T20:09:56.337480+00:00"
+    "il_articles": "2026-10-01T20:16:40.693748+00:00"
   },
   "ff_news": [
     {
@@ -538,6 +538,18 @@
     }
   ],
   "il_articles": [
+    {
+      "tags": [
+        "Oil"
+      ],
+      "date_publication": "2026-10-01T20:16:40.693748+00:00",
+      "ignore": false,
+      "titre": "Oil Tanker struck by unknown projectile in Strait of Hormuz, fire reported, crew safe",
+      "categorie": "commodities",
+      "contenu": "Summary\n\nA tanker in the Strait of Hormuz was hit by an unknown projectile and caught fire on 1 October, UK Maritime Trade Operations said, citing a third-party report. Crew are safe, but damage and environmental impact are unknown. Ships urged to be careful.\n\nAnother Iranian attack on a tanker in the world's most important oil chokepoint is likely to add to the geopolitical risk premium in crude, with Brent and WTI the first markets to react. How much depends on what comes next: a single contained incident with no spill would likely see any spike fade, while follow-on strikes or any slowdown in tanker traffic would put supply security, rather than demand, back at the centre of oil pricing. Tanker freight rates and war-risk insurance premiums for Gulf voyages are also likely to come under upward pressure, which raises delivered costs for Asian importers even if physical flows continue. Traders will watch for any attribution of the attack, because a state-linked culprit would carry far greater escalation risk than an isolated incident.\n\nA projectile strike set a\n\nUKMTO received a third-party report of a tanker struck by an unknown projectile while transiting the Strait of Hormuz\n\nThe strike caused a fire on board the vessel\n\nThe incident was logged at 1750 GMT on 1 October and classified as an attack (UKMTO reference 147-26)\n\nThe crew were reported safe\n\nDamage to the vessel and any environmental impact were unknown at the time of the report\n\nVessels were advised to transit with caution and report suspicious activity to UKMTO while authorities investigate\n\nA tanker transiting the Strait of Hormuz was struck by an unidentified projectile on Thursday, setting off a fire on board, according to an advisory from the United Kingdom Maritime Trade Operations (UKMTO).\n\nThe maritime security agency said it was relaying a third-party report of the incident, which it logged at 1750 GMT on 1 October and classified as an attack. The advisory did not name the vessel, its owner, its flag or its cargo, and it did not identify who fired the projectile or from where. I think we can all guess that Iran might have been involved. It wasn't North Korea, that's for sure ;-)\n\nThe crew were reported safe. However, UKMTO said the extent of the damage to the tanker and any environmental impact had not been established at the time of its report, leaving open questions about whether the vessel can continue its voyage and whether any cargo has been released.\n\nUKMTO urged vessels in the area to transit with caution and to report any suspicious activity to the agency while authorities investigate.\n\nThe Strait of Hormuz is one of the world's most important routes for seaborne oil and gas, so any attack on commercial shipping there tends to draw close attention from energy traders and shipping insurers.\n\nThe episode is likely to keep the security of the shipping lane at the centre of market attention.",
+      "url": "https://investinglive.com/commodities/oil-tanker-struck-by-unknown-projectile-in-strait-of-hormuz-fire-reported-crew-safe/",
+      "date_recuperation": "2026-10-01T20:20:32.367521+00:00"
+    },
     {
       "date_publication": "2026-10-01T20:09:56.337480+00:00",
       "categorie": "technical-analysis",
