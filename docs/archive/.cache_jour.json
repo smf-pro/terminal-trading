@@ -1,11 +1,31 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T13:19:43.952786+00:00",
+    "ff_news": "2026-10-01T13:32:30.588577+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T13:30:25.418137+00:00"
   },
   "ff_news": [
+    {
+      "impact": "low",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "date_publication": "2026-10-01T13:32:30.588577+00:00",
+      "url": "https://www.forexfactory.com/news/1429477-canada-modest-growth-sustained-in-september-but-spike",
+      "date_recuperation": "2026-10-01T13:33:30.588577+00:00",
+      "extrait": "There was mixed news on the performance of Canada’s manufacturing economy during September. Output rose, whilst employment growth was sustained, but confidence in the outlook weakened considerably and overall sales fell due to tariffs. Meanwhile, input costs rose to the greatest degree since July 2022 as supply-side challenges intensified over the month. ...",
+      "titre": "Canada: Modest growth sustained in September but spike in cost inflation and fall in confidence signalled"
+    },
+    {
+      "source": "ecb.europa.eu",
+      "impact": "low",
+      "ignore": false,
+      "date_publication": "2026-10-01T13:31:31.377944+00:00",
+      "url": "https://www.forexfactory.com/news/1429476-lagarde-where-ai-risks-meet",
+      "date_recuperation": "2026-10-01T13:32:31.377944+00:00",
+      "extrait": "It is a pleasure to welcome you to the tenth annual conference of the European Systemic Risk Board (ESRB), as we mark 15 years since its creation. The ESRB was born of a hard lesson laid bare by the global financial crisis and reinforced by Europe’s sovereign debt crisis. Risks had been building across institutions and markets, while the view of any one ...",
+      "titre": "Lagarde: Where AI risks meet"
+    },
     {
       "titre": "Fed's Barkin: Federal Deficits adding to upward pressure on yields",
       "extrait": "RICHMOND FED'S BARKIN: FEDERAL DEFICITS ADDING TO UPWARD PRESSURE ON YIELDS #Barkin #FederalReserve #economy",
