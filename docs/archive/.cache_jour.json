@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T19:40:32.209385+00:00",
+    "ff_news": "2026-10-01T19:51:31.930732+00:00",
     "cb_articles": "2026-10-01T17:31:27.288635+00:00",
     "il_articles": "2026-10-01T17:53:49.418508+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1429556-feds-bowman-sees-no-urgent-need-for-more",
+      "source": "@FirstSquawk",
+      "date_recuperation": "2026-10-01T19:52:31.930732+00:00",
+      "date_publication": "2026-10-01T19:51:31.930732+00:00",
+      "titre": "Fed's Bowman sees no urgent need for more rate moves this year",
+      "extrait": "Fed's Bowman Sees No Urgent Need For More Rate Moves This Year.",
+      "ignore": false,
+      "impact": "low"
+    },
     {
       "date_recuperation": "2026-10-01T19:41:32.209385+00:00",
       "source": "@financialjuice",
