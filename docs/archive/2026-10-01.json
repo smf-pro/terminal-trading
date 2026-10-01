@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "source": "challengergray.com",
+      "ignore": false,
+      "titre": "US Job Cuts Fall in September; Hiring Plans Up 3% Over 2025 On Weak Early Seasonal Hiring",
+      "date_recuperation": "2026-10-01T09:43:33.470019+00:00",
+      "date_publication": "2026-10-01T09:42:33.470019+00:00",
+      "url": "https://www.forexfactory.com/news/1429439-us-job-cuts-fall-in-september-hiring-plans",
+      "impact": "low",
+      "extrait": "U.S.-based employers announced 43,281 job cuts in September, down 18% from the 52,881 announced in August. It is down 20% from the 54,064 layoff plans announced in the same month last year and is the lowest total for the month since 2022, when 29,989 job cuts were recorded, according to a report released Thursday from global outplacement and executive ..."
+    },
+    {
       "source": "ec.europa.eu",
       "url": "https://www.forexfactory.com/news/1429438-euro-area-unemployment-at-64",
       "extrait": "In August 2026, the euro area seasonally adjusted unemployment rate was 6.4%, stable compared with July 2026 and up from 6.3% in August 2025. The EU unemployment rate was 6.1% in August 2026, also stable compared with July 2026 and up from 6.0% in August 2025. These figures are published by Eurostat, the statistical office of the European Union. Eurostat ...",
