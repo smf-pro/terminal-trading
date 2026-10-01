@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T11:34:33.582141+00:00",
+    "ff_news": "2026-10-01T11:48:26.119628+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T11:18:06.014496+00:00"
   },
   "ff_news": [
+    {
+      "date_recuperation": "2026-10-01T11:49:26.119628+00:00",
+      "date_publication": "2026-10-01T11:48:26.119628+00:00",
+      "titre": "Fed's Kashkari: My view on supply shocks and inflation has evolved",
+      "ignore": false,
+      "impact": "low",
+      "url": "https://www.forexfactory.com/news/1429460-feds-kashkari-my-view-on-supply-shocks-and",
+      "extrait": "Fed's Kashkari: My view on supply shocks and inflation has evolvedFed's Kashkari: If it's 5yrs of supply shocks, it becomes Fed's job.Fed's Kashkari: I don't think labor market pain is needed to achieve goalFed's Kashkari: FOMC atmosphere has been remarkably consistent under Warsh",
+      "source": "@financialjuice"
+    },
     {
       "source": "@DeItaone",
       "date_publication": "2026-10-01T11:34:33.582141+00:00",
