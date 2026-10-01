@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T12:01:35.044668+00:00",
+    "ff_news": "2026-10-01T12:30:30.201822+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T12:19:58.523536+00:00"
+    "il_articles": "2026-10-01T12:30:06.474182+00:00"
   },
   "ff_news": [
+    {
+      "titre": "US Unemployment Insurance Weekly Claims",
+      "url": "https://www.forexfactory.com/news/1429465-us-unemployment-insurance-weekly-claims",
+      "date_publication": "2026-10-01T12:30:30.201822+00:00",
+      "ignore": false,
+      "impact": "low",
+      "date_recuperation": "2026-10-01T12:31:30.201822+00:00",
+      "source": "dol.gov",
+      "extrait": "In the week ending September 26, the advance figure for seasonally adjusted initial claims was 197,000, a decrease of 1,000 from the previous week's revised level. The previous week's level was revised up by 1,000 from 197,000 to 198,000. The 4-week moving average was 200,000, a decrease of 2,500 from the previous week's revised average. The previous week's ..."
+    },
     {
       "titre": "Financial conditions: what’s priced in? − speech by Catherine L. Mann",
       "extrait": "The conflict in the Middle East has generated significant volatility and financial market repricing in the UK, relating to uncertainty around the evolution of the conflict, the outlook for UK inflation, and our monetary policy response. Financial conditions are an essential mechanism through which monetary policy transmits and therefore form an important ...",
@@ -276,6 +286,18 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "US weekly initial jobless claims 197K vs 200K expected",
+      "url": "https://investinglive.com/news/us-weekly-initial-jobless-claims-197k-vs-200k-expected/",
+      "date_publication": "2026-10-01T12:30:06.474182+00:00",
+      "ignore": false,
+      "contenu": "Summary\n\nInitial jobless claims for the week ending Sept 26, 2026\n\nPrior was 197K\n\nFour-week moving average vs 202.2K prior\n\nContinuing claims vs 1.725m expected\n\nPrior continuing claims 1.719m\n\nFor background, initial jobless claims measure new applications for unemployment insurance in the United States, providing a timely indication of layoffs and changes in labor market conditions. Published weekly by the Department of Labor, the report is closely watched because it can reveal shifts in employment before monthly payroll and unemployment figures become available. Claims measure applications for benefits, rather than the total number of unemployed people.\n\nThe prior week’s reading of 197,000 placed claims at a historically low level, suggesting employers remained reluctant to shed workers. Such a reading is consistent with limited layoffs, although it does not necessarily indicate strong hiring. Businesses can retain existing employees while reducing recruitment, leaving people who are already unemployed facing a more difficult search for work. The distinction matters when assessing the overall strength of the labor market.\n\nWeekly claims can fluctuate because of holidays, weather disruptions, factory shutdowns and the timing of applications. Seasonal adjustment attempts to remove predictable calendar effects, but individual readings can still be noisy. Economists therefore monitor the four-week moving average to judge whether a change represents a sustained trend. Revisions to earlier estimates also matter when comparing consecutive releases.\n\nContinuing claims provide complementary information by tracking people claiming benefits beyond their initial application. Read alongside initial claims, they help distinguish between an increase in job losses and persistent unemployment among benefit recipients. Low initial claims alongside elevated continuing claims can suggest that layoffs remain contained while finding another job is becoming harder.\n\nAgainst the previous reading of 197,000, a modest increase would not, by itself, establish a deterioration in employment conditions. The more meaningful signal would be a persistent rise across several weeks, particularly if accompanied by weaker payroll growth or higher unemployment. Another low reading would reinforce evidence of restrained layoffs, while leaving the pace of hiring unresolved.",
+      "categorie": "news",
+      "date_recuperation": "2026-10-01T12:30:33.503784+00:00",
+      "tags": [
+        "USD"
+      ]
+    },
     {
       "url": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-hits-three-month-high-as-eurusd-breaks-below-1-1300/",
       "date_recuperation": "2026-10-01T12:21:35.115679+00:00",
