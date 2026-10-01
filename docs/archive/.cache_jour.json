@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T12:30:30.201822+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T12:30:06.474182+00:00"
+    "il_articles": "2026-10-01T12:58:00.294379+00:00"
   },
   "ff_news": [
     {
@@ -286,6 +286,18 @@
     }
   ],
   "il_articles": [
+    {
+      "url": "https://investinglive.com/commodities/goldman-and-jpmorgan-gulf-oil-is-flowing-again-so-why-is-brent-still-pricing-a-war/",
+      "tags": [
+        "Oil"
+      ],
+      "ignore": false,
+      "categorie": "commodities",
+      "contenu": "Summary\n\nThe US oil escort convoy is working. Oil is getting out of the Middle East again. Goldman sees Brent falling to $85 by year-end\n\nTwo of the biggest oil desks on the Street landed on the same conclusion this week: the Persian Gulf has figured out how to export oil in a war zone.\n\nGoldman Sachs estimates that Gulf exports, including what it calls \"dark exports,\" hit 23.3 mb/d last week. That's right back at the 2025 average after volumes doubled in September. JPMorgan's count is more conservative. Its 10-day average is 20.5 mb/d, or 89% of 2025 levels, and its note is titled \"The final 11%.\" Most of the gap comes down to how much of the dark fleet you're willing to count. The direction is the same either way.\n\nThis recovery happened despite a lot going wrong. The Saudi East-West pipeline was hit and cut flows to Yanbu for nearly two weeks. The Houthis are still blocking Saudi barrels at Bab-al-Mandab. Even so, Hormuz crossings, including ship-to-ship transfers, carried the load. JPM says Hormuz flows are back near the late-June highs of almost 13 mb/d, led by Saudi Arabia.\n\nThe problem is that oil products aren't moving and that's why diesel prices remain highly elevated.\n\nGoldman has crude exports at 19 mb/d, 108% of the 2025 average. JPM has them at 17.5 mb/d, 98% of pre-war\n\nExports of diesel, gasoline and jet are running at only about 50% of normal by Goldman's count, and 58% by JPM's\n\nGoldman gives two reasons. First, Middle East refinery outages are still 2.0 mb/d above seasonal norms, while crude production facilities have mostly been spared. Second, product tankers are smaller and carry more flammable cargo, so the cost of the Hormuz risk per barrel is higher than for crude.\n\nJPM says shipping capacity isn't the binding constraint. Hormuz-linked VLCC charters are near $1.27 million a day, and owners are simply charging for the risk. A five- to ten-year-old VLCC is now valued above $150 million, versus about $135 million for a newbuild.\n\nGoldman sticks with its base case of Brent falling to $85 by year-end and $80 in 2027. It says the global market was roughly balanced in September, and OECD commercial stocks are back to late-February levels. But dated Brent is near $120. Goldman's own explanation for that gap is a risk premium built on three things:\n\nEscalation that could hit long-term production capacity.\n\nRecord-low global stocks outside OECD commercial inventories.\n\nA rush to rebuild those stocks quickly.\n\nGoldman describes September's global oil market as roughly balanced, with visible inventories broadly flat. They note that buyers also have an incentive to rebuild inventories before another disruption.",
+      "titre": "Goldman and JPMorgan: Gulf oil is flowing again, so why is Brent still pricing a war?",
+      "date_recuperation": "2026-10-01T13:00:32.720053+00:00",
+      "date_publication": "2026-10-01T12:58:00.294379+00:00"
+    },
     {
       "url": "https://investinglive.com/news/us-weekly-initial-jobless-claims-197k-vs-200k-expected/",
       "ignore": false,
