@@ -464,6 +464,18 @@
   ],
   "il_articles": [
     {
+      "categorie": "news",
+      "date_publication": "2026-10-01T17:53:49.418508+00:00",
+      "ignore": false,
+      "tags": [
+        "USD"
+      ],
+      "url": "https://investinglive.com/news/preview-september-non-farm-payrolls-by-the-numbers/",
+      "contenu": "Summary\n\nData indications ahead of Friday's non-farm payrolls report for September\n\nConsensus estimate +910K (range +35K to +180K)\n\nAugust +162K\n\nJuly +21K\n\nPrivate consensus estimate +85K\n\nUnemployment rate consensus estimate: 4.1% vs 4.1% prior\n\nParticipation rate 61.6% prior\n\nPrior underemployment U6 prior 7.7%\n\nAvg hourly earnings y/y exp +3.2% y/y vs +3.1% prior\n\nAvg hourly earnings m/m exp +0.3% vs +0.3% prior\n\nAvg weekly hours exp 34.3 vs 34.4 prior\n\nADP employment report +90K vs +75K expected and +36K prior\n\nISM services employment not yet released\n\nISM manufacturing employment 52.7 vs 52.0 exp and 52.8 prior\n\nChallenger Job Cuts 43,281 vs 52,881 prior\n\nPhilly employment +11.8vs +27.9 prior\n\nEmpire employment +10.6 vs +9.3 prior\n\nInitial jobless claims survey week 196K vs 206K last month\n\nRevelio Labs +57K vs +41K prior\n\nAccording to BMO, the headline payrolls print is seasonally softer in September, coming in below estimates 64% of the time and beating 36% of the time, by 92k and 65k, respectively, on average. They note though that September NFP has exceeded expectations for the last four consecutive years. On the flipside, 57% of previous unemployment prints for September have been lower-than-expected, 18% have been higher-than-estimates, and 25% have matched the consensus. Add that up and the seasonals lean slightly hawkish but September is a notoriously tough month for seasonal adjustments.\n\nFed pricing ahead of the release is for a 30% chance of a rate hike on October 28. That number has come down dramatically in the past week on dovish comments from the Fed's Williams and a softer PCE report. Non-farm payrolls could be another game changer and with the data-dependent stance from the Fed, it could could be another big swing.\n\nI tend to see the risks as balanced as a soft number would take away the urgency to hike while a strong number would reopen the October debate but unless it's accompanied by a strong wage number, I wouldn't see it as a game-changer. At the moment though, the market is highly tuned into economic data so expect decent moves either way.",
+      "date_recuperation": "2026-10-01T17:55:27.782732+00:00",
+      "titre": "Preview: September non-farm payrolls by the numbers"
+    },
+    {
       "tags": [
         "EUR"
       ],
