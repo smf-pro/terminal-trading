@@ -2,6 +2,26 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "impact": "low",
+      "date_recuperation": "2026-10-01T13:33:30.588577+00:00",
+      "ignore": false,
+      "extrait": "There was mixed news on the performance of Canada’s manufacturing economy during September. Output rose, whilst employment growth was sustained, but confidence in the outlook weakened considerably and overall sales fell due to tariffs. Meanwhile, input costs rose to the greatest degree since July 2022 as supply-side challenges intensified over the month. ...",
+      "date_publication": "2026-10-01T13:32:30.588577+00:00",
+      "url": "https://www.forexfactory.com/news/1429477-canada-modest-growth-sustained-in-september-but-spike",
+      "source": "pmi.spglobal.com",
+      "titre": "Canada: Modest growth sustained in September but spike in cost inflation and fall in confidence signalled"
+    },
+    {
+      "impact": "low",
+      "date_recuperation": "2026-10-01T13:32:31.377944+00:00",
+      "ignore": false,
+      "extrait": "It is a pleasure to welcome you to the tenth annual conference of the European Systemic Risk Board (ESRB), as we mark 15 years since its creation. The ESRB was born of a hard lesson laid bare by the global financial crisis and reinforced by Europe’s sovereign debt crisis. Risks had been building across institutions and markets, while the view of any one ...",
+      "date_publication": "2026-10-01T13:31:31.377944+00:00",
+      "url": "https://www.forexfactory.com/news/1429476-lagarde-where-ai-risks-meet",
+      "source": "ecb.europa.eu",
+      "titre": "Lagarde: Where AI risks meet"
+    },
+    {
       "titre": "Fed's Barkin: Federal Deficits adding to upward pressure on yields",
       "extrait": "RICHMOND FED'S BARKIN: FEDERAL DEFICITS ADDING TO UPWARD PRESSURE ON YIELDS #Barkin #FederalReserve #economy",
       "source": "@MaceNewsMacro",
