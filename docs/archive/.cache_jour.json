@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T14:33:30.467300+00:00",
+    "ff_news": "2026-10-01T14:45:25.472401+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T14:35:19.503217+00:00"
   },
   "ff_news": [
+    {
+      "extrait": "[Dealer's Voice] The Japanese yen is surging. While there are growing concerns about intervention, no information about intervention or rate checks has been heard at this time.",
+      "date_recuperation": "2026-10-01T14:46:25.472401+00:00",
+      "source": "@Min_FX",
+      "impact": "high",
+      "ignore": false,
+      "date_publication": "2026-10-01T14:45:25.472401+00:00",
+      "url": "https://www.forexfactory.com/news/1429497-yen-is-surging-no-information-about-intervention-or",
+      "titre": "Yen is surging. No information about intervention or rate checks at this point"
+    },
     {
       "titre": "EIA: US gas inventories up by 64 billion cubic feet",
       "source": "breakingthenews.net",
