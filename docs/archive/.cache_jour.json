@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T06:34:29.759181+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T06:30:13.248010+00:00"
+    "il_articles": "2026-10-01T07:15:08.933534+00:00"
   },
   "ff_news": [
     {
@@ -106,6 +106,19 @@
     }
   ],
   "il_articles": [
+    {
+      "categorie": "news",
+      "date_recuperation": "2026-10-01T07:15:31.183732+00:00",
+      "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nSpain September manufacturing PMI 51.0 vs 50.1 expected\n\nPrior 49.5\n\nMore to follow...",
+      "titre": "Spain September manufacturing PMI 51.0 vs 50.1 expected",
+      "url": "https://investinglive.com/news/spain-september-manufacturing-pmi-51-0-vs-50-1-expected/",
+      "date_publication": "2026-10-01T07:15:08.933534+00:00",
+      "ignore": false,
+      "tags": [
+        "EUR",
+        "pmi"
+      ]
+    },
     {
       "categorie": "news",
       "url": "https://investinglive.com/news/switzerland-september-cpi-1-0-vs-1-0-y-y-expected/",

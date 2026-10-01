@@ -103,6 +103,19 @@
   "il_articles": [
     {
       "categorie": "news",
+      "date_recuperation": "2026-10-01T07:15:31.183732+00:00",
+      "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nSpain September manufacturing PMI 51.0 vs 50.1 expected\n\nPrior 49.5\n\nMore to follow...",
+      "titre": "Spain September manufacturing PMI 51.0 vs 50.1 expected",
+      "url": "https://investinglive.com/news/spain-september-manufacturing-pmi-51-0-vs-50-1-expected/",
+      "date_publication": "2026-10-01T07:15:08.933534+00:00",
+      "ignore": false,
+      "tags": [
+        "EUR",
+        "pmi"
+      ]
+    },
+    {
+      "categorie": "news",
       "url": "https://investinglive.com/news/switzerland-september-cpi-1-0-vs-1-0-y-y-expected/",
       "date_publication": "2026-10-01T06:30:13.248010+00:00",
       "contenu": "Summary\n\nLatest data released by the Federal Statistical Office - 1 October 2026\n\nSwitzerland September CPI 0.0% vs 0.0% m/m expected\n\nPrior +0.4%\n\nSwitzerland September CPI +1.0% vs +1.0% y/y expected\n\nPrior +0.8%\n\nSwitzerland September core CPI % y/y\n\nPrior +0.4%\n\nThe breakdownMore to follow...\n\nWhat does the data measure?The CPI tracks changes in the prices Swiss households pay for a basket of goods and services and is the main gauge of consumer inflation.\n\nWhy does it matter to markets?Inflation is central to the SNB’s rate outlook, particularly with the policy rate already at 0%. A sustained move higher could reduce the scope for easier policy, while renewed weakness would revive concerns about very low inflation.\n\nHow does this fit the broader economic picture?Swiss inflation has been picking up as of late, rising to 0.8% in August largely because of higher energy prices. The SNB expects inflation to increase somewhat further in Q4 before easing during 2027, while remaining firmly within its 0-2% price stability range.\n\nWhat is the potential market impact?A stronger-than-expected reading could support the Swiss franc and put some upward pressure on Swiss yields by reducing expectations for further SNB easing. A softer print would likely work in the opposite direction, but the overall impact should be very limited unless the surprise materially changes the rates outlook - which is unlikely.\n\nCurrent relevance to markets?Moderate. The release is relevant with the SNB policy rate sitting at 0%, but the bar for a major repricing on the policy outlook is relatively high. That especially after the SNB said last week that medium-term inflation pressure had increased only slightly and its policy stance remained appropriate.",
