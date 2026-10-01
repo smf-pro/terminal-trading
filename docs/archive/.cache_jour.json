@@ -1,11 +1,31 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T07:56:26.766585+00:00",
+    "ff_news": "2026-10-01T08:05:26.716796+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T07:51:52.017859+00:00"
+    "il_articles": "2026-10-01T08:01:03.755439+00:00"
   },
   "ff_news": [
+    {
+      "date_publication": "2026-10-01T08:05:26.716796+00:00",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429428-italy-employment-and-unemployment-provisional-data-august",
+      "date_recuperation": "2026-10-01T08:06:26.716796+00:00",
+      "titre": "Italy: Employment and unemployment (provisional data) - August 2026",
+      "source": "istat.it",
+      "extrait": "In August 2026, the number of employed remained stable, while the number of unemployed people grew and the number of inactive people decreased. On a monthly basis, the stability of employment, also observed for men and women, was the result of a growth among those aged 50 and over, and a decline among those aged 25-34 and 35-49, while employment for 15-24 ...",
+      "impact": "low"
+    },
+    {
+      "url": "https://www.forexfactory.com/news/1429427-euro-area-manufacturing-expansion-gathers-pace-in-september",
+      "ignore": false,
+      "date_publication": "2026-10-01T08:02:28.050502+00:00",
+      "date_recuperation": "2026-10-01T08:03:28.050502+00:00",
+      "titre": "Euro area manufacturing expansion gathers pace in September",
+      "extrait": "The euro area manufacturing sector expansion gathered pace at the end of the third quarter, according to the latest S&P Global PMI® surveys, as production and new orders rose at their sharpest rates since early-2022. Purchasing activity and employment both continued to rebound, while firms' expectations for output in the year ahead were their most upbeat ...",
+      "source": "pmi.spglobal.com",
+      "impact": "low"
+    },
     {
       "source": "pmi.spglobal.com",
       "date_recuperation": "2026-10-01T07:57:26.766585+00:00",
@@ -166,6 +186,19 @@
     }
   ],
   "il_articles": [
+    {
+      "date_publication": "2026-10-01T08:01:03.755439+00:00",
+      "ignore": false,
+      "url": "https://investinglive.com/news/eurozone-september-final-manufacturing-pmi-52-9-vs-52-7-prelim/",
+      "categorie": "news",
+      "date_recuperation": "2026-10-01T08:05:29.929025+00:00",
+      "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nEurozone September final manufacturing PMI 52.9 vs 52.7 prelim\n\nPrior 52.7\n\nThe breakdownMore to follow...\n\nWhat does the data measure?The manufacturing PMI surveys businesses across areas including output, new orders, employment, purchasing activity, supplier delivery times and inventories. A reading above 50 indicates expansion from the previous month, while below 50 signals contraction.\n\nWhy does it matter to markets?Manufacturing is a relatively cyclical part of the euro area economy, making the PMI a useful early gauge of changes in growth momentum. For markets, the important combination here is that factory activity remains resilient while price pressures are also picking up.\n\nHow does this fit the broader economic picture?The stronger flash manufacturing PMI reading reinforces a stronger growth picture in September. Overall euro area business activity accelerated while manufacturing output remained near multi-year highs. But at the same time, stronger input and output price inflation means the growth improvement is not necessarily comfortable for the ECB.\n\nWhat is the potential market impact?Minimal. The final headline is unlikely to generate much reaction by itself if it more or less confirms the preliminary reading. The more important takeaway for the ECB is the combination of continued manufacturing expansion and renewed price pressures, which keeps the possibility of further tightening firmly in the debate.\n\nCurrent relevance to markets?Moderate. The headline itself should offer little surprise, but the underlying growth and inflation mix matters more given that recent euro area inflation readings have also been running hotter. That keeps the focus on whether stronger activity gives the ECB more room to respond to persistent inflation pressures without significantly damaging growth.",
+      "titre": "Eurozone September final manufacturing PMI 52.9 vs 52.7 prelim",
+      "tags": [
+        "EUR",
+        "pmi"
+      ]
+    },
     {
       "date_recuperation": "2026-10-01T07:55:31.226425+00:00",
       "categorie": "news",
