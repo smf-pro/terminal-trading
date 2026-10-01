@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T19:51:31.930732+00:00",
     "cb_articles": "2026-10-01T17:31:27.288635+00:00",
-    "il_articles": "2026-10-01T17:53:49.418508+00:00"
+    "il_articles": "2026-10-01T20:09:56.337480+00:00"
   },
   "ff_news": [
     {
@@ -538,6 +538,18 @@
     }
   ],
   "il_articles": [
+    {
+      "date_publication": "2026-10-01T20:09:56.337480+00:00",
+      "categorie": "technical-analysis",
+      "tags": [
+        "AUD"
+      ],
+      "titre": "AUDUSD falls to lowest level since early July.",
+      "date_recuperation": "2026-10-01T20:10:29.931848+00:00",
+      "url": "https://investinglive.com/technical-analysis/audusd-falls-to-lowest-level-since-early-july/",
+      "contenu": "Summary\n\nThe end of June low at 0.68655 is the next downside target if the swing area between 0.69056 and 0.69205 can be breached.\n\nThe AUDUSD has continued its trend move lower, with sellers taking the price from one swing area to the next. The pair has remained below its falling100-hour moving average since September 23 also helping the bearish bias. Buyers have had their opportunities to push higher, but they have not done enough to change the bearish technical bias.\n\nSellers work through the downside targets\n\nThe move lower this week started on Monday and Tuesday when the 100 hour MA was tested but found willing sellers.  The price on Tuesday peaked near that MA and the 200 day MA and also the high of a swing area between0.70203 and 0.70269. Sellers pushed lower.\n\nYesterday, sellers extended below the next area between0.69619 and 0.69778, opening the door for another push lower.\n\nThat push took the pair today into an even lower swing area at0.69056–0.69205. Buyers found support near the bottom of that zone, with the price bouncing toward0.6931.\n\nWith the support buyers showing up, now they need to build on that response.\n\nWhat would give buyers more control?\n\nHolding the0.69056–0.69205swing area is a start. However, the first meaningful hurdle that would give buyers added hope the bottom is in would be a move above0.69619–0.69778. That area was support. It is now resistance where sellers can lean and define their risk.\n\nGetting back above that zone would give buyers some breathing room. Above it, the falling100-hour MAremains a key barometer. Eventually, buyers need to get—and stay—above that moving average to show they can interrupt the trend lower.\n\nUntil those hurdles are cleared, the sellers retain control.\n\nWhat keeps the downside in play?\n\nA move back below0.69205would put the price back inside the lower swing area. A subsequent break below0.69056would give sellers another technical victory and open the door toward the chart’s low at0.68655.\n\nThe lesson for traders is straightforward:a bounce from a downside target does not, by itself, change the trend.It tells us buyers responded at support. Reclaiming broken resistance—and eventually the 100-hour MA—would show they are taking back control.\n\nFor now, the trend remains lower. The swing areas provide the roadmap, and the moving average helps define the bias and risk.",
+      "ignore": false
+    },
     {
       "categorie": "news",
       "date_publication": "2026-10-01T17:53:49.418508+00:00",
