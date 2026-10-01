@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "date_recuperation": "2026-10-01T19:41:32.209385+00:00",
+      "source": "@financialjuice",
+      "ignore": false,
+      "titre": "Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policy",
+      "date_publication": "2026-10-01T19:40:32.209385+00:00",
+      "impact": "low",
+      "extrait": "Fed's Cook: Supply shocks have had surprisingly persistent effects, becoming more salient for policyFed's Cook: Need to make sure inflation expectations don't become unanchored.",
+      "url": "https://www.forexfactory.com/news/1429555-feds-cook-supply-shocks-have-had-surprisingly-persistent"
+    },
+    {
       "titre": "Bessent: The US is delivering on commitments to stabilize global energy markets. We look to our allies to match their commitments with action",
       "impact": "low",
       "url": "https://www.forexfactory.com/news/1429554-bessent-the-us-is-delivering-on-commitments-to",
