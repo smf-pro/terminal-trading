@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T07:36:39.565701+00:00",
+    "ff_news": "2026-10-01T07:47:29.762303+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T07:45:23.912768+00:00"
   },
   "ff_news": [
+    {
+      "ignore": false,
+      "date_recuperation": "2026-10-01T07:48:29.762303+00:00",
+      "impact": "low",
+      "url": "https://www.forexfactory.com/news/1429423-italy-operating-conditions-stabilise-but-underlying-demand-remains",
+      "extrait": "A further reduction in order book volumes at Italian manufacturers was signalled in September, according to PMI® data by S&P Global. Subdued demand was largely behind firms' decisions to lower output and purchasing volumes. Pressure on supply chains subsided somewhat, but firms faced stronger cost inflation. Selling prices meanwhile rose at a slower rate. ...",
+      "date_publication": "2026-10-01T07:47:29.762303+00:00",
+      "source": "pmi.spglobal.com",
+      "titre": "Italy: Operating conditions stabilise, but underlying demand remains weak"
+    },
     {
       "date_recuperation": "2026-10-01T07:37:39.565701+00:00",
       "url": "https://www.forexfactory.com/news/1429421-japan-pm-takaichi-japans-economic-policy-is-not",
