@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "date_recuperation": "2026-10-01T19:52:31.930732+00:00",
+      "ignore": false,
+      "titre": "Fed's Bowman sees no urgent need for more rate moves this year",
+      "url": "https://www.forexfactory.com/news/1429556-feds-bowman-sees-no-urgent-need-for-more",
+      "extrait": "Fed's Bowman Sees No Urgent Need For More Rate Moves This Year.",
+      "source": "@FirstSquawk",
+      "date_publication": "2026-10-01T19:51:31.930732+00:00",
+      "impact": "low"
+    },
+    {
       "date_recuperation": "2026-10-01T19:41:32.209385+00:00",
       "source": "@financialjuice",
       "ignore": false,
