@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T15:33:31.935358+00:00",
+    "ff_news": "2026-10-01T15:59:30.289633+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T15:04:23.003413+00:00"
   },
   "ff_news": [
+    {
+      "extrait": "EU Energy Union Taskforce To Meet Friday To Discuss Potential Diesel Stock Releases - EU Diplomats",
+      "date_publication": "2026-10-01T15:59:30.289633+00:00",
+      "impact": "low",
+      "source": "@LiveSquawk",
+      "url": "https://www.forexfactory.com/news/1429504-eu-energy-union-taskforce-to-meet-friday-to",
+      "titre": "EU Energy Union Taskforce To Meet Friday To Discuss Potential Diesel Stock Releases - EU Diplomats",
+      "ignore": false,
+      "date_recuperation": "2026-10-01T16:00:30.289633+00:00"
+    },
     {
       "date_recuperation": "2026-10-01T15:34:31.935358+00:00",
       "url": "https://www.forexfactory.com/news/1429500-schlegel-tenth-karl-brunner-distinguished-lecture-introduction",
