@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "date_recuperation": "2026-10-01T23:52:29.454010+00:00",
+      "extrait": "table",
+      "titre": "Japan Monetary Base (September 2026)",
+      "date_publication": "2026-10-01T23:51:29.454010+00:00",
+      "url": "https://www.forexfactory.com/news/1429567-japan-monetary-base-september-2026",
+      "impact": "low",
+      "source": "boj.or.jp",
+      "ignore": false
+    },
+    {
       "url": "https://www.forexfactory.com/news/1429582-logan-opening-remarks-for-moderated-conversation-at-voices",
       "date_recuperation": "2026-10-01T23:24:30.428021+00:00",
       "date_publication": "2026-10-01T23:23:30.428021+00:00",
