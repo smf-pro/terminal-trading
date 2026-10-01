@@ -2,6 +2,26 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "url": "https://www.forexfactory.com/news/1429582-logan-opening-remarks-for-moderated-conversation-at-voices",
+      "date_recuperation": "2026-10-01T23:24:30.428021+00:00",
+      "date_publication": "2026-10-01T23:23:30.428021+00:00",
+      "impact": "low",
+      "titre": "Logan: Opening remarks for moderated conversation at Voices of the Eleventh District",
+      "source": "dallasfed.org",
+      "extrait": "I’m delighted to welcome all of you to the Dallas Fed this evening. The perspectives you share with us are invaluable. You help our researchers understand the nuances of the economy, beyond what we can glean from official statistics. And you help me understand where the economy is headed and how monetary policy can make a difference. I’d like to start by ...",
+      "ignore": false
+    },
+    {
+      "url": "https://www.forexfactory.com/news/1429581-logan-fed-policy-is-not-restrictive-must-be",
+      "date_recuperation": "2026-10-01T23:22:32.564174+00:00",
+      "date_publication": "2026-10-01T23:21:32.564174+00:00",
+      "extrait": "Logan: Fed policy is not restrictive, must be modestly tightLogan: Uncertainty Remains On How High Policy Rate Must Rise To Bring Inflation To 2% ...Logan: At Minimum, Several More Rate Hikes Would Reverse Last Fall's Reductions ...Higher yields may also reflect higher term premiums, reducing the need to tighten monetary policy, Logan says",
+      "ignore": false,
+      "source": "@financialjuice",
+      "titre": "Logan: Fed policy is not restrictive, must be modestly tight",
+      "impact": "low"
+    },
+    {
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1429556-feds-bowman-sees-no-urgent-need-for-more",
       "date_publication": "2026-10-01T19:51:31.930732+00:00",
