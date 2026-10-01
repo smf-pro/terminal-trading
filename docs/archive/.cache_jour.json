@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T14:06:31.095614+00:00",
+    "ff_news": "2026-10-01T14:33:30.467300+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T14:01:33.721281+00:00"
+    "il_articles": "2026-10-01T14:35:19.503217+00:00"
   },
   "ff_news": [
+    {
+      "titre": "EIA: US gas inventories up by 64 billion cubic feet",
+      "source": "breakingthenews.net",
+      "date_publication": "2026-10-01T14:33:30.467300+00:00",
+      "date_recuperation": "2026-10-01T14:34:30.467300+00:00",
+      "impact": "low",
+      "ignore": false,
+      "extrait": "Working gas in storage across the United States reached 3,415 billion cubic feet in the week ending September 25, the Energy Information Administration (EIA) shared in a report on Thursday. The figure represents a net increase of 64 billion cubic feet compared to the previous week. Compared to the same period one year ago, gas stocks declined by 138 billion ...",
+      "url": "https://www.forexfactory.com/news/1429496-eia-us-gas-inventories-up-by-64-billion"
+    },
     {
       "date_recuperation": "2026-10-01T14:07:31.095614+00:00",
       "source": "breakingthenews.net",
@@ -386,6 +396,18 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "USD/JPY makes a quick dip",
+      "date_publication": "2026-10-01T14:35:19.503217+00:00",
+      "tags": [
+        "JPY"
+      ],
+      "categorie": "forex",
+      "date_recuperation": "2026-10-01T14:35:31.962346+00:00",
+      "ignore": false,
+      "contenu": "Summary\n\nUSD/JPY falls to the lows of the day\n\nIntervention?\n\nIt's an odd time of day for a quick dip in USD/JPY.",
+      "url": "https://investinglive.com/forex/usd-jpy-makes-a-quick-dip/"
+    },
     {
       "contenu": "Summary\n\nUS construction spending for August 2026\n\nConstruction spending: +0.9% MoM vs 0.0% expected. July revised to −0.1% from −0.5%.\n\nAnnual spending rate: $2,203.1 billion.\n\nYear-on-year spending: −1.7%.\n\nJanuary–August spending: −3.1% compared with the same period in 2025.\n\nAugust components compared with revised July levels, at seasonally adjusted annual rates:\n\nPrivate construction: $1,655.3 billion vs $1,637.7 billion. Up 1.1% MoM.\n\nPrivate residential: $882.3 billion vs $872.7 billion. Up 1.1%.\n\nPrivate nonresidential: $773.0 billion vs $765.0 billion. Up 1.0%.\n\nPublic construction: $547.8 billion vs $546.8 billion. Up 0.2%.\n\nPublic educational construction: $113.1 billion vs $112.9 billion. Up 0.1%.\n\nPublic highway construction: $150.6 billion vs $150.5 billion. Up 0.1%.census.gov\n\nUS construction spending came in stronger than expected in August, rising0.9%against expectations for no change. TheCensus Bureau reportalso showed a smaller July decline, with spending now down0.1%, revised from a0.5%fall.census.gov.  Good news all around.\n\nPrivate construction drove the increase, with gains in both residential and nonresidential spending. Public construction provided a smaller lift. However, the broader picture remains softer: spending was below year-earlier levels, and the first eight months of 2026 continued to trail the same period in 2025.census.gov\n\nQuick analysis:The upside surprise and upward July revision are constructive for the growth outlook. At the margin, stronger activity could support the dollar and Treasury yields while giving the Fed less reason to ease. The offset is the continued annual decline. One monthly rebound does not establish a sustained recovery, and the headline increase was within the report’s margin of error.census.gov\n\nWhat this report measures:Construction spending measures the dollar value of work completed on private and public construction projects. The monthly figures are seasonally adjusted and expressed at an annual rate, but are not adjusted for inflation and are subject to revision. Traders monitor the report for clues about housing, business investment and economic growth.",
       "categorie": "news",
