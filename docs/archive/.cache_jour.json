@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T08:33:28.858497+00:00",
+    "ff_news": "2026-10-01T09:02:03.451187+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T08:30:38.249472+00:00"
   },
   "ff_news": [
+    {
+      "source": "ec.europa.eu",
+      "url": "https://www.forexfactory.com/news/1429438-euro-area-unemployment-at-64",
+      "extrait": "In August 2026, the euro area seasonally adjusted unemployment rate was 6.4%, stable compared with July 2026 and up from 6.3% in August 2025. The EU unemployment rate was 6.1% in August 2026, also stable compared with July 2026 and up from 6.0% in August 2025. These figures are published by Eurostat, the statistical office of the European Union. Eurostat ...",
+      "date_recuperation": "2026-10-01T09:04:03.451187+00:00",
+      "date_publication": "2026-10-01T09:02:03.451187+00:00",
+      "impact": "low",
+      "ignore": false,
+      "titre": "Euro area unemployment at 6.4%"
+    },
     {
       "extrait": "September saw the UK manufacturing upturn continue, as levels of output, new orders and employment all rose. The outlook for industry also remained generally positive, with almost half of manufacturers expecting production to increase over the coming 12 months. The seasonally adjusted S&P Global UK Manufacturing Purchasing Managers’ Index™ (PMI®) posted ...",
       "date_recuperation": "2026-10-01T08:34:28.858497+00:00",
