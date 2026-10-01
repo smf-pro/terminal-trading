@@ -1,11 +1,31 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T19:51:31.930732+00:00",
+    "ff_news": "2026-10-01T23:23:30.428021+00:00",
     "cb_articles": "2026-10-01T22:46:48.711128+00:00",
     "il_articles": "2026-10-01T23:17:17.530215+00:00"
   },
   "ff_news": [
+    {
+      "date_publication": "2026-10-01T23:23:30.428021+00:00",
+      "url": "https://www.forexfactory.com/news/1429582-logan-opening-remarks-for-moderated-conversation-at-voices",
+      "source": "dallasfed.org",
+      "titre": "Logan: Opening remarks for moderated conversation at Voices of the Eleventh District",
+      "impact": "low",
+      "extrait": "I’m delighted to welcome all of you to the Dallas Fed this evening. The perspectives you share with us are invaluable. You help our researchers understand the nuances of the economy, beyond what we can glean from official statistics. And you help me understand where the economy is headed and how monetary policy can make a difference. I’d like to start by ...",
+      "date_recuperation": "2026-10-01T23:24:30.428021+00:00",
+      "ignore": false
+    },
+    {
+      "date_publication": "2026-10-01T23:21:32.564174+00:00",
+      "url": "https://www.forexfactory.com/news/1429581-logan-fed-policy-is-not-restrictive-must-be",
+      "source": "@financialjuice",
+      "titre": "Logan: Fed policy is not restrictive, must be modestly tight",
+      "date_recuperation": "2026-10-01T23:22:32.564174+00:00",
+      "extrait": "Logan: Fed policy is not restrictive, must be modestly tightLogan: Uncertainty Remains On How High Policy Rate Must Rise To Bring Inflation To 2% ...Logan: At Minimum, Several More Rate Hikes Would Reverse Last Fall's Reductions ...Higher yields may also reflect higher term premiums, reducing the need to tighten monetary policy, Logan says",
+      "impact": "low",
+      "ignore": false
+    },
     {
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1429556-feds-bowman-sees-no-urgent-need-for-more",
