@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T19:01:27.410474+00:00",
+    "ff_news": "2026-10-01T19:06:34.538186+00:00",
     "cb_articles": "2026-10-01T17:31:27.288635+00:00",
     "il_articles": "2026-10-01T17:53:49.418508+00:00"
   },
   "ff_news": [
+    {
+      "titre": "BOC's Rogers: Canada’s housing affordability dilemma",
+      "source": "bankofcanada.ca",
+      "date_publication": "2026-10-01T19:06:34.538186+00:00",
+      "date_recuperation": "2026-10-01T19:07:34.538186+00:00",
+      "impact": "low",
+      "extrait": "I’m very happy to be giving this speech in Victoria today. This city is home to me. I spend most of my time in Ottawa now, but Victoria has been my home base for more than 20 years. I also started my public sector career here about 15 years ago, so this feels like a professional homecoming too. It also feels fitting to talk about Canada’s housing ...",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429549-bocs-rogers-canadas-housing-affordability-dilemma"
+    },
     {
       "url": "https://www.forexfactory.com/news/1429548-bowman-modernizing-financial-regulation-initial-observations-from-eslr",
       "impact": "low",
