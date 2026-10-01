@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "extrait": "Growth of the US manufacturing sector lifted higher in September as a notable increase in new orders encouraged firms to raise production and expand employment. Factory capacity nonetheless remained under pressure, whilst supply chains were again stretched with lead times for the delivery of inputs lengthening to the greatest degree for over four years. ...",
+      "titre": "US PMI hits highest level since May 2022 as firms lift output markedly on the back of surging new orders",
+      "impact": "low",
+      "date_recuperation": "2026-10-01T13:48:34.713103+00:00",
+      "source": "pmi.spglobal.com",
+      "date_publication": "2026-10-01T13:47:34.713103+00:00",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429482-us-pmi-hits-highest-level-since-may-2022"
+    },
+    {
       "impact": "low",
       "source": "pmi.spglobal.com",
       "ignore": false,
