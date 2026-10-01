@@ -1,11 +1,31 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T10:03:33.619950+00:00",
+    "ff_news": "2026-10-01T11:08:31.082333+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T10:05:31.807178+00:00"
   },
   "ff_news": [
+    {
+      "date_publication": "2026-10-01T11:08:31.082333+00:00",
+      "extrait": "BUNDESBANK PRESIDENT JOACHIM NAGEL TO OMFIF EVENT: WE HAVE TO DO MORE TO FOSTER DOMESTIC DEMAND, PARTICULARLY THROUGH DOMESTIC INVESTMENT #joachimnagel #bundesbank #ecb #europeancentralbank #ecb #eurozoneMORE BBK'S NAGEL: GERMAN FISCAL SPENDING WILL FEED THROUGH TO THE REAL ECONOMY #joachimnagel #bundesbank #ecb #europeancentralbank #ecb #eurozone",
+      "url": "https://www.forexfactory.com/news/1429448-bundesbank-president-nagel-we-have-to-do-more",
+      "date_recuperation": "2026-10-01T11:09:31.082333+00:00",
+      "impact": "low",
+      "source": "@MaceNewsMacro",
+      "ignore": false,
+      "titre": "Bundesbank President Nagel: We have to do more to foster domestic demand, particularly through domestic investment"
+    },
+    {
+      "date_publication": "2026-10-01T11:08:31.082333+00:00",
+      "extrait": "Trump Says 'pretty Bad' They Keep Raising Interest Rates*trump Says He 'doesn't Blame Kevin' On Interest Rates: Time",
+      "url": "https://www.forexfactory.com/news/1429449-trump-says-pretty-bad-they-keep-raising-interest",
+      "date_recuperation": "2026-10-01T11:09:31.082333+00:00",
+      "impact": "low",
+      "source": "@FirstSquawk",
+      "ignore": false,
+      "titre": "Trump Says 'Pretty Bad' They Keep Raising Interest Rates"
+    },
     {
       "ignore": false,
       "date_publication": "2026-10-01T10:03:33.619950+00:00",
