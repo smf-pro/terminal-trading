@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T09:42:33.470019+00:00",
+    "ff_news": "2026-10-01T10:03:33.619950+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T09:56:56.321559+00:00"
   },
   "ff_news": [
+    {
+      "source": "@LiveSquawk",
+      "date_publication": "2026-10-01T10:03:33.619950+00:00",
+      "url": "https://www.forexfactory.com/news/1429445-trump-administration-has-been-taking-steps-to-turn",
+      "extrait": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations RTRS Cites Sources",
+      "date_recuperation": "2026-10-01T10:04:33.619950+00:00",
+      "ignore": false,
+      "titre": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations  RTRS Cites Source",
+      "impact": "medium"
+    },
     {
       "source": "challengergray.com",
       "ignore": false,
