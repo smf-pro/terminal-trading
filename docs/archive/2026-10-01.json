@@ -312,6 +312,18 @@
   ],
   "il_articles": [
     {
+      "tags": [
+        "CAD"
+      ],
+      "url": "https://investinglive.com/news/canada-sept-s-p-global-manufacturing-pmi-51-5-vs-53-0-prior/",
+      "ignore": false,
+      "date_publication": "2026-10-01T13:30:25.418137+00:00",
+      "date_recuperation": "2026-10-01T13:30:32.782572+00:00",
+      "categorie": "news",
+      "contenu": "Summary\n\nThe latest survey of manufacturers from S&P Global\n\nPrior was 53.0",
+      "titre": "Canada Sept S&P Global manufacturing PMI 51.5 vs 53.0 prior"
+    },
+    {
       "titre": "Goldman and JPMorgan: Gulf oil is flowing again, so why is Brent still pricing a war?",
       "tags": [
         "Oil"
