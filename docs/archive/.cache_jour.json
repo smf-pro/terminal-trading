@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-01T11:08:31.082333+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T10:05:31.807178+00:00"
+    "il_articles": "2026-10-01T11:14:57.914664+00:00"
   },
   "ff_news": [
     {
@@ -246,6 +246,22 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "US dollar hits three-month high as Treasury yields surge, EUR/USD cracks key support",
+      "url": "https://investinglive.com/forex/us-dollar-hits-three-month-high-as-treasury-yields-surge-eur-usd-cracks-key-support/",
+      "date_publication": "2026-10-01T11:14:57.914664+00:00",
+      "contenu": "Summary\n\nThe dollar rally gathers pace as Treasury yields hit fresh multi-decade highs and EUR/USD breaks below 1.1300\n\nIt looks like the dollar is finding another gear today, and once again it is the bond market that is doing much of the heavy lifting.\n\nAfter a strong showing in September, the dollar is now pushing to its highest level in more than three months. The dollar index itself is extending towards 102, with the move coming as we see another leg higher in Treasury yields. 10-year yields pushed up to a high of 5.34% during the session, its highest level since 2002, before easing back a little now to 5.29%.\n\nThe move in the bond market is particularly striking as it comes on the back ofa softer US PCE inflation reportyesterday, which briefly knocked back expectations for another Fed rate hike this month. The front-end of the curve may be more sensitive to that repricing, but longer-dated yields clearly aren't playing along.\n\nAnd for FX traders, the yields story is one that is rather difficult to ignore.\n\nEUR/USD is evidence of that, with the currency pair now slipping below 1.1300 and breaking beneath an important support cluster on the weekly chart.\n\nThe 1.1350 to 1.1400 region had been doing much of the work in keeping sellers at bay, with the 38.2 Fib retracement level at 1.1355 also doing its part before this. But now, the drop below that area also threatens a firmer break below the June low of 1.1325. And perhaps more importantly, the 100-week moving average (red line) at around 1.1358 also appears to be giving way.\n\nThe fall below the region highlighted is already shifting the technical picture further in favour of sellers. But if buyers cannot manage to hold a weekly close above the 100-week moving average, that will reinforce the downside leg below the 1.1300 mark to start October trading.\n\nFrom here, 1.1200 is the next obvious downside level to watch. Below that, the 200-week moving average (blue line) around 1.1094 and the psychological mark at 1.1000 will be the next two key levels in view.\n\nFor now, I would still argue that the bond market is setting the tone for the dollar and for major currencies. As long as yields keep pressing higher, the dollar has a fairly straightforward fundamental tailwind - and that means EUR/USD sellers have little reason to get out of the way.",
+      "categorie": "forex",
+      "date_recuperation": "2026-10-01T11:15:30.158640+00:00",
+      "tags": [
+        "forex",
+        "EUR",
+        "USD",
+        "market overview",
+        "Bonds"
+      ],
+      "ignore": false
+    },
     {
       "ignore": false,
       "date_publication": "2026-10-01T10:05:31.807178+00:00",
