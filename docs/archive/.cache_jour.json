@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T14:02:31.997843+00:00",
+    "ff_news": "2026-10-01T14:06:31.095614+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T14:00:06.698201+00:00"
+    "il_articles": "2026-10-01T14:01:33.721281+00:00"
   },
   "ff_news": [
+    {
+      "date_recuperation": "2026-10-01T14:07:31.095614+00:00",
+      "source": "breakingthenews.net",
+      "date_publication": "2026-10-01T14:06:31.095614+00:00",
+      "ignore": false,
+      "extrait": "Construction spending in the United States amounted to $2.2 trillion in August, increasing 0.9% in comparison to July, the US Census Bureau revealed in a report on Thursday. Year over year, the figure fell 1.7%. During the first eight months of 2026, the value of construction came in at $1.45 trillion, down 3.1% from $1.49 trillion registered in the same ...",
+      "impact": "low",
+      "titre": "US construction spending up 0.9% in August",
+      "url": "https://www.forexfactory.com/news/1429490-us-construction-spending-up-09-in-august"
+    },
     {
       "date_publication": "2026-10-01T14:02:31.997843+00:00",
       "impact": "medium",
@@ -376,6 +386,18 @@
     }
   ],
   "il_articles": [
+    {
+      "contenu": "Summary\n\nUS construction spending for August 2026\n\nConstruction spending: +0.9% MoM vs 0.0% expected. July revised to −0.1% from −0.5%.\n\nAnnual spending rate: $2,203.1 billion.\n\nYear-on-year spending: −1.7%.\n\nJanuary–August spending: −3.1% compared with the same period in 2025.\n\nAugust components compared with revised July levels, at seasonally adjusted annual rates:\n\nPrivate construction: $1,655.3 billion vs $1,637.7 billion. Up 1.1% MoM.\n\nPrivate residential: $882.3 billion vs $872.7 billion. Up 1.1%.\n\nPrivate nonresidential: $773.0 billion vs $765.0 billion. Up 1.0%.\n\nPublic construction: $547.8 billion vs $546.8 billion. Up 0.2%.\n\nPublic educational construction: $113.1 billion vs $112.9 billion. Up 0.1%.\n\nPublic highway construction: $150.6 billion vs $150.5 billion. Up 0.1%.census.gov\n\nUS construction spending came in stronger than expected in August, rising0.9%against expectations for no change. TheCensus Bureau reportalso showed a smaller July decline, with spending now down0.1%, revised from a0.5%fall.census.gov.  Good news all around.\n\nPrivate construction drove the increase, with gains in both residential and nonresidential spending. Public construction provided a smaller lift. However, the broader picture remains softer: spending was below year-earlier levels, and the first eight months of 2026 continued to trail the same period in 2025.census.gov\n\nQuick analysis:The upside surprise and upward July revision are constructive for the growth outlook. At the margin, stronger activity could support the dollar and Treasury yields while giving the Fed less reason to ease. The offset is the continued annual decline. One monthly rebound does not establish a sustained recovery, and the headline increase was within the report’s margin of error.census.gov\n\nWhat this report measures:Construction spending measures the dollar value of work completed on private and public construction projects. The monthly figures are seasonally adjusted and expressed at an annual rate, but are not adjusted for inflation and are subject to revision. Traders monitor the report for clues about housing, business investment and economic growth.",
+      "categorie": "news",
+      "date_recuperation": "2026-10-01T14:05:30.350443+00:00",
+      "ignore": false,
+      "date_publication": "2026-10-01T14:01:33.721281+00:00",
+      "url": "https://investinglive.com/news/us-construction-spending-for-the-month-of-august-0-9-versus-0-0-expected/",
+      "titre": "US construction spending for the month of August 0.9% versus 0.0% expected",
+      "tags": [
+        "USD"
+      ]
+    },
     {
       "contenu": "Summary\n\nThe latest US manufacturing survey from the Institute for Supply Management\n\nPrior reading was 54.6\n\nNew orders vs 53.7 prior\n\nEmployment  vs 51.2 prior\n\nPrices paid  vs 72.3 expected\n\nPrior prices paid 71.1\n\nFor background, the ISM manufacturing PMI is the oldest survey of its kind and still the first major piece of US data each month. It's released at 10 am ET on the first business day of the month by the Institute for Supply Management, a trade group for purchasing professionals that was known as the National Association of Purchasing Management until 2001. The survey has been compiled in its current form since 1948, giving it one of the longest track records of any economic indicator.\n\nThe methodology is simple. ISM asks purchasing and supply executives at hundreds of manufacturing firms whether activity is better, worse or the same as the prior month across a series of categories. Those answers are turned into diffusion indexes, where 50 is the dividing line. Above 50 means more respondents reported improvement than deterioration; below 50 means the opposite. The figures are seasonally adjusted.\n\nThe headline PMI is an equal-weighted composite of five sub-indexes: new orders, production, employment, supplier deliveries and inventories. Supplier deliveries is inverted in spirit, as slower deliveries push the index higher, reflecting the idea that stretched supply chains usually signal strong demand. That quirk has occasionally flattered the headline, most notably during the pandemic.\n\nISM also publishes indexes that don't feed into the headline, including prices paid, backlog of orders, new export orders, imports and customers' inventories. Prices paid is closely watched as an early read on goods inflation and is often the most market-moving component after the headline.\n\nAlongside the numbers, ISM publishes anonymous comments from respondents grouped by industry, which offer a qualitative snapshot of conditions in sectors such as chemicals, transportation equipment and machinery.\n\nISM notes that a PMI reading in the low 40s or higher is generally consistent with expansion in the broader economy, a reminder that manufacturing is a small slice of US output. A competing survey from S&P Global is released earlier in the day and often diverges.",
       "date_publication": "2026-10-01T14:00:06.698201+00:00",
