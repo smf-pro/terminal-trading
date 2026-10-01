@@ -2,6 +2,26 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "titre": "French manufacturing sector expands again in September but growth slows",
+      "date_recuperation": "2026-10-01T07:52:30.560568+00:00",
+      "ignore": false,
+      "source": "pmi.spglobal.com",
+      "url": "https://www.forexfactory.com/news/1429425-french-manufacturing-sector-expands-again-in-september-but",
+      "impact": "low",
+      "date_publication": "2026-10-01T07:51:30.560568+00:00",
+      "extrait": "France's manufacturing sector grew further during September, although there was a slowdown as new orders continued to decrease, purchasing activity was reduced and price pressures accelerated. Firms' expectations for the next 12 months remained subdued, reflecting concerns relating to inflation, rising interest rates, overseas competition and the ..."
+    },
+    {
+      "date_recuperation": "2026-10-01T07:51:33.747428+00:00",
+      "titre": "US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources",
+      "ignore": false,
+      "source": "@financialjuice",
+      "url": "https://www.forexfactory.com/news/1429424-us-wants-the-eu-to-release-120-million",
+      "impact": "low",
+      "date_publication": "2026-10-01T07:50:33.747428+00:00",
+      "extrait": "US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources."
+    },
+    {
       "titre": "Italy: Operating conditions stabilise, but underlying demand remains weak",
       "ignore": false,
       "date_recuperation": "2026-10-01T07:48:29.762303+00:00",
@@ -131,6 +151,18 @@
     }
   ],
   "il_articles": [
+    {
+      "date_recuperation": "2026-10-01T07:55:31.226425+00:00",
+      "categorie": "news",
+      "titre": "France September final manufacturing PMI 50.6 vs 50.3 prelim",
+      "ignore": false,
+      "url": "https://investinglive.com/news/france-september-final-manufacturing-pmi-50-6-vs-50-3-prelim/",
+      "date_publication": "2026-10-01T07:51:52.017859+00:00",
+      "tags": [
+        "EUR"
+      ],
+      "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nFrance September final manufacturing PMI 50.6 vs 50.3 prelim\n\nPrior 51.1\n\nThe breakdownMore to follow...\n\nWhat does the data measure?The manufacturing PMI surveys businesses across areas including output, new orders, employment, supplier delivery times and inventories. A reading above 50 indicates expansion from the previous month, while below 50 signals contraction.\n\nWhy does it matter to markets?France is the euro area's second-largest economy, so its PMI provides an early indication of industrial momentum. Markets will be particularly interested in whether the final reading confirms that manufacturing remains above the 50 threshold.\n\nHow does this fit the broader economic picture?The French economy has been sending somewhat mixed signals. September's flash composite PMI showed private sector activity returning to growth, helped primarily by services, while manufacturing momentum softened.\n\nWhat is the potential market impact?Very limited on its own. For one, the services sector is the stronger driver of the French economy. So, the read from the manufacturing sector is less impactful. But the bigger market takeaway will come from how France fits alongside the subsequent German and Eurozone manufacturing PMI readings, particularly on growth and price pressures.\n\nCurrent relevance to markets?Moderate. The final headline itself may not be particularly market-moving, but the underlying details on new orders, output and prices could offer a more useful signal for the ECB outlook."
+    },
     {
       "contenu": "Summary\n\nLatest data released by HCOB - 1 October 2026\n\nPrior 49.6",
       "date_recuperation": "2026-10-01T07:45:29.337897+00:00",
