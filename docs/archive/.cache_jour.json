@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T13:11:17.246783+00:00",
+    "ff_news": "2026-10-01T13:19:43.952786+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T12:58:00.294379+00:00"
   },
   "ff_news": [
+    {
+      "titre": "Fed's Barkin: Federal Deficits adding to upward pressure on yields",
+      "extrait": "RICHMOND FED'S BARKIN: FEDERAL DEFICITS ADDING TO UPWARD PRESSURE ON YIELDS #Barkin #FederalReserve #economy",
+      "source": "@MaceNewsMacro",
+      "impact": "low",
+      "date_publication": "2026-10-01T13:19:43.952786+00:00",
+      "url": "https://www.forexfactory.com/news/1429473-feds-barkin-federal-deficits-adding-to-upward-pressure",
+      "ignore": false,
+      "date_recuperation": "2026-10-01T13:21:43.952786+00:00"
+    },
     {
       "extrait": "Fed's Schmid: Officials have work to do on inflation.",
       "impact": "low",
