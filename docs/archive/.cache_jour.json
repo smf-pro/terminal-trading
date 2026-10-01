@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T08:05:26.716796+00:00",
+    "ff_news": "2026-10-01T08:33:28.858497+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T08:30:04.193873+00:00"
+    "il_articles": "2026-10-01T08:30:38.249472+00:00"
   },
   "ff_news": [
+    {
+      "extrait": "September saw the UK manufacturing upturn continue, as levels of output, new orders and employment all rose. The outlook for industry also remained generally positive, with almost half of manufacturers expecting production to increase over the coming 12 months. The seasonally adjusted S&P Global UK Manufacturing Purchasing Managers’ Index™ (PMI®) posted ...",
+      "date_recuperation": "2026-10-01T08:34:28.858497+00:00",
+      "titre": "Growth rate of UK manufacturing output eases slightly in September",
+      "url": "https://www.forexfactory.com/news/1429429-growth-rate-of-uk-manufacturing-output-eases-slightly",
+      "impact": "low",
+      "ignore": false,
+      "date_publication": "2026-10-01T08:33:28.858497+00:00",
+      "source": "pmi.spglobal.com"
+    },
     {
       "date_publication": "2026-10-01T08:05:26.716796+00:00",
       "ignore": false,
@@ -186,6 +196,21 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "Stocks feel the pinch as 10-year Treasury yields hit 5.33%, highest since 2007",
+      "tags": [
+        "Stocks",
+        "Bonds",
+        "market overview",
+        "stock movers"
+      ],
+      "date_recuperation": "2026-10-01T08:36:06.556240+00:00",
+      "url": "https://investinglive.com/stocks/stocks-feel-the-pinch-as-10-year-treasury-yields-hit-5-33-highest-since-2007/",
+      "contenu": "Summary\n\nUS futures pare early gains as another Treasury selloff tightens the screws on equities\n\nSurprise, surprise. Not. The bond market is turning up the heat on stocks again.\n\nAfter a short breather earlier in the day, 10-year Treasury yields have surged to 5.33% now - touching their highest level since 2007. And the pressure is starting to show more clearly across equities.\n\nS&P 500 futures are now down 0.1%, having been up as much as 0.5% earlier in the session. Meanwhile, Nasdaq futures are still holding onto a 0.4% gain but that is well off the earlier 1.1% advance. Over in Europe, the selling is more pronounced with Germany's DAX now down 1.3% and France's CAC 40 now down 1.6%.\n\nBut for me, the fading gains in US futures is the more telling part.\n\nEquities had initially been able to look past the rise in yields, helped in part by continued optimism surrounding the AI and tech story afterMicron's earnings beatyesterday. However, there comes a point where the bond market simply becomes too difficult to ignore.\n\nAnd we're seeing that again as yields shoot up to 5.33% after having eased slightly to 5.27% earlier in the day.\n\nThe problem for broader markets is not just the headline level. It is that Treasury yields have been pushing higher at a relentless pace as markets grapple with the macro backdrop of persistent inflation risks, elevated energy prices and the possibility that stronger growth keeps interest rates higher for longer.\n\nThat leaves equities facingthe same uncomfortable questionas it did for most of September. That beinghow much further can yields rise before something gives?\n\nFor now, tech shares are still managing to show some resilience. But for everything else, today's price action is another reminder that the bond market remains firmly in the driver's seat.",
+      "ignore": false,
+      "date_publication": "2026-10-01T08:30:38.249472+00:00",
+      "categorie": "stocks"
+    },
     {
       "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nPrior 51.7",
       "date_publication": "2026-10-01T08:30:04.193873+00:00",
