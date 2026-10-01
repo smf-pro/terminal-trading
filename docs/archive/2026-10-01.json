@@ -2,6 +2,26 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429425-french-manufacturing-sector-expands-again-in-september-but",
+      "impact": "low",
+      "extrait": "France's manufacturing sector grew further during September, although there was a slowdown as new orders continued to decrease, purchasing activity was reduced and price pressures accelerated. Firms' expectations for the next 12 months remained subdued, reflecting concerns relating to inflation, rising interest rates, overseas competition and the ...",
+      "date_publication": "2026-10-01T07:51:30.560568+00:00",
+      "date_recuperation": "2026-10-01T07:52:30.560568+00:00",
+      "titre": "French manufacturing sector expands again in September but growth slows",
+      "source": "pmi.spglobal.com"
+    },
+    {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429424-us-wants-the-eu-to-release-120-million",
+      "impact": "low",
+      "extrait": "US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources.",
+      "source": "@financialjuice",
+      "date_recuperation": "2026-10-01T07:51:33.747428+00:00",
+      "titre": "US wants the EU to release 120 million barrels of diesel in the next 6 months - One of The Sources",
+      "date_publication": "2026-10-01T07:50:33.747428+00:00"
+    },
+    {
       "titre": "Italy: Operating conditions stabilise, but underlying demand remains weak",
       "ignore": false,
       "date_recuperation": "2026-10-01T07:48:29.762303+00:00",
