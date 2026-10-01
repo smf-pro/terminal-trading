@@ -1,10 +1,5 @@
 {
   "date": "2026-10-01",
-  "curseurs": {
-    "ff_news": "2026-10-01T06:34:29.759181+00:00",
-    "cb_articles": "2026-10-01T02:06:14.077329+00:00",
-    "il_articles": "2026-10-01T06:30:13.248010+00:00"
-  },
   "ff_news": [
     {
       "ignore": false,
@@ -57,11 +52,6 @@
       "url": "https://www.forexfactory.com/news/1429398-rba-financial-stability-review-october-2026"
     },
     {
-      "titre": "UK: Annual house price growth halves in September",
-      "impact": "medium",
-      "source": "nationwide.co.uk",
-      "url": "https://www.forexfactory.com/news/1429416-uk-annual-house-price-growth-halves-in-september",
-      "date_publication": "2026-10-01T06:10:29.726235+00:00",
       "ignore": false,
       "extrait": "Japan's manufacturing sector continued to expand strongly in September, but the latest PMI survey data signalled a loss of momentum as growth of both output and new orders slowed from August. Employment growth remained solid amid strong optimism around the outlook, which helped to limit backlog accumulation. Firms meanwhile signalled only a slight softening ...",
       "date_publication": "2026-10-01T00:32:30.554833+00:00",
@@ -149,16 +139,6 @@
       "url": "https://investinglive.com/news/uk-nationwide-house-prices-fall-0-2-in-september-as-annual-growth-halves/"
     },
     {
-      "titre": "US sees China invasion of Taiwan unlikely before 2028, but trade and market risks remain",
-      "categorie": "news",
-      "tags": [
-        "Politics",
-        "USD",
-        "China",
-        "CNY"
-      ],
-      "date_publication": "2026-10-01T05:35:36.292432+00:00",
-      "contenu": "Summary\n\nUS officials see the 2027 Taiwan timeline as less immediate, but the issue remains a major fault line for markets\n\nFor years, 2027 has loomed over the Taiwan story as the point by which China wants its military to be capable of taking the island by force. However, the latest US assessment suggests that doesn't necessarily mean an invasion is just around the corner.\n\nThe latest report from Reuters today says US officials are increasingly seeing a Chinese invasion of Taiwan before 2028 as being unlikely. And that is despite China president, Xi Jinping, having instructed the People’s Liberation Army (PLA) to have the necessary capabilities in place by 2027 if required.\n\nDelays to military readiness amid China’s anti-corruption campaign are reportedly one factor, while Beijing is also watching Taiwan’s 2028 presidential election closely.\n\nNow, the 2027 date has always been more about military capability than a substantiated invasion timetable on China's part. While they have never publicly confirmed a 2027 readiness order, they also have not ruled out using force to bring Taiwan under their control.\n\nBut even so, the latest assessment here does help to take a little heat out of the idea that next year could represent some kind of fixed geopolitical deadline.\n\nHaving said, I wouldn't read this as meaning the Taiwan risk is suddenly something markets can forget about.\n\nThe timing of this report is particularly interesting as it follows from the recent Trump-Xi summit in Washington. The US and China extended their trade truce for another 60 days, giving both sides more breathing room. However, many of the bigger disagreements - particularly around technology and geopolitics - remain very much in the background. And Taiwan is where those issues start to overlap rather quickly.\n\nThe island remains deeply embedded in the global semiconductor and AI supply chain. TSMC alone is continuing to expand its manufacturing footprint in the US, highlighting just how strategically important chip production has become to Washington as well as Beijing.\n\nTaking that into consideration, the risk isn't just about military conflict for markets.\n\nAny meaningful escalation in tensions could quickly spill over into US-China trade relations. And that could lead to further escalation on issues such as tariffs, semiconductor restrictions and investment controls.\n\nFor traders, the more immediate risk will then fall on tech and Asian stocks. But if the situation worsens, the reaction will likely spread more broadly through global risk sentiment and traditional safe havens.\n\nFor now, the latest Reuters report arguably pushes the immediate Taiwan timetable further out.\n\nHowever, the bigger takeaway in my view is that Taiwan will continue to remain one of the major fault lines running underneath US-China relations. It won't be an issue that will go away any time soon. As such, markets probably shouldn't price out the geopolitical risk altogether.",
       "ignore": false,
       "tags": [
         "Politics",
