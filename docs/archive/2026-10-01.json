@@ -122,6 +122,18 @@
   ],
   "il_articles": [
     {
+      "contenu": "Summary\n\nLatest data released by HCOB - 1 October 2026\n\nPrior 49.6",
+      "date_recuperation": "2026-10-01T07:45:29.337897+00:00",
+      "categorie": "news",
+      "ignore": false,
+      "url": "https://investinglive.com/news/italy-september-manufacturing-pmi-50-4-vs-50-0-expected/",
+      "tags": [
+        "EUR"
+      ],
+      "date_publication": "2026-10-01T07:45:23.912768+00:00",
+      "titre": "Italy September manufacturing PMI 50.4 vs 50.0 expected"
+    },
+    {
       "categorie": "news",
       "date_recuperation": "2026-10-01T07:15:31.183732+00:00",
       "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nSpain September manufacturing PMI 51.0 vs 50.1 expected\n\nPrior 49.5\n\nMore to follow...",
