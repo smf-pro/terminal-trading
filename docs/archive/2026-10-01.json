@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "titre": "Trump: Interest rates will hurt our growth",
+      "ignore": false,
+      "source": "@financialjuice",
+      "url": "https://www.forexfactory.com/news/1429509-trump-interest-rates-will-hurt-our-growth",
+      "impact": "low",
+      "extrait": "Trump: Interest rates will hurt our growth.",
+      "date_publication": "2026-10-01T16:41:33.758038+00:00",
+      "date_recuperation": "2026-10-01T16:42:33.758038+00:00"
+    },
+    {
       "extrait": "EU Energy Union Taskforce To Meet Friday To Discuss Potential Diesel Stock Releases - EU Diplomats",
       "titre": "EU Energy Union Taskforce To Meet Friday To Discuss Potential Diesel Stock Releases - EU Diplomats",
       "source": "@LiveSquawk",
@@ -421,6 +431,18 @@
     }
   ],
   "il_articles": [
+    {
+      "tags": [
+        "EUR"
+      ],
+      "ignore": false,
+      "titre": "European stocks close lower. DAX holds key support at 200 day MA; FTSE finishes below its 200-day MA",
+      "url": "https://investinglive.com/stocks/european-stocks-close-lower-dax-holds-key-support-at-200-day-ma-ftse-finishes-below-its-200-day-ma/",
+      "categorie": "stocks",
+      "date_publication": "2026-10-01T16:43:36.394902+00:00",
+      "date_recuperation": "2026-10-01T16:45:34.220368+00:00",
+      "contenu": "Summary\n\nItaly and Spain lead the declines as sellers retain the technical advantage.\n\nEuropean stocks closed sharply lower to start October, with all five major indices declining. Germany’s DAX held just above its key 200-day moving average, giving buyers a level to lean against. The UK FTSE 100, however, could not sustain its recovery above that same technical barometer and closed below it.\n\nGerman DAX:24,939.36, down 259.84 points or1.03%.\n\nGerman DAX:24,939.36, down 259.84 points or1.03%.\n\nFrance’s CAC 40:7,835.32, down 129.20 points or1.62%.\n\nFrance’s CAC 40:7,835.32, down 129.20 points or1.62%.\n\nUK FTSE 100:10,428.26, down 177.75 points or1.68%.\n\nUK FTSE 100:10,428.26, down 177.75 points or1.68%.\n\nSpain’s IBEX 35:19,005.30, down 420.90 points or2.17%.\n\nSpain’s IBEX 35:19,005.30, down 420.90 points or2.17%.\n\nItaly’s FTSE MIB:50,237.86, down 1,134.11 points or2.21%.\n\nItaly’s FTSE MIB:50,237.86, down 1,134.11 points or2.21%.\n\nGerman DAX: Buyers lean against the 200-day moving average\n\nThe DAX fell to a session low of24,831.60, just above its200-day moving average at 24,828.76. Buyers stepped in against that level, helping the index recover some of its losses into the close.\n\nThat moving average remains a key support level going forward. Stay above, and buyers have a foundation for a recovery. Move below, and the technical picture becomes more bearish.\n\nHowever, holding support is only the first step. The index remains below its100-day moving average at 25,375.46, with the100-hour moving average near 25,447and200-hour moving average near 25,576providing additional resistance.\n\nBuyers need to get—and stay—above those levels to put themselves back in control. Until then, the rebound remains a recovery within the recent move lower.\n\nUK FTSE 100: Buyers had their shot. They could not hold it.\n\nThe FTSE 100 fell below its200-day moving average at 10,451.85, bounced back above it, but could not sustain the recovery. By the close, the index had moved back below that key level, finishing at10,428.26.\n\nThat leaves the bias in the sellers’ favor. The next downside target is10,327.75, the50% midpoint of the move higher from the March 2026 low.\n\nFor buyers, the first requirement is a sustained move back above10,451.85. Staying below keeps sellers more in control and the midpoint target in play.\n\nMarkets at 12:30 PM ET: European yields diverge; U.S. Treasury yields fall\n\nEuropean 10-year yields were mixed. German and UK yields declined, while French and Italian yields rose, widening their yield spreads over Germany.\n\nGermany:3.496%, down8.6 basis points.\n\nGermany:3.496%, down8.6 basis points.\n\nFrance:4.932%, up7.1 basis points.\n\nFrance:4.932%, up7.1 basis points.\n\nUK:5.393%, down4.2 basis points.\n\nUK:5.393%, down4.2 basis points.\n\nSpain:4.149%, up0.5 basis points.\n\nSpain:4.149%, up0.5 basis points.\n\nItaly:4.691%, up6.6 basis points.\n\nItaly:4.691%, up6.6 basis points.\n\nU.S. stocks trade modestly lower\n\nThe major U.S. stock indices were slightly lower, while the Russell 2000 outperformed with a modest gain.\n\nDow industrials:50,843.07, down68.02 points (-0.13%).\n\nDow industrials:50,843.07, down68.02 points (-0.13%).\n\nS&P 500:7,647.88, down3.66 points (-0.05%).\n\nS&P 500:7,647.88, down3.66 points (-0.05%).\n\nNasdaq Composite:26,823.65, down37.41 points (-0.14%).\n\nNasdaq Composite:26,823.65, down37.41 points (-0.14%).\n\nNasdaq 100:30,372.10, down36.42 points (-0.12%).\n\nNasdaq 100:30,372.10, down36.42 points (-0.12%).\n\nRussell 2000:2,804.20, up7.33 points (+0.26%).\n\nRussell 2000:2,804.20, up7.33 points (+0.26%).\n\nU.S. bonds rally, with shorter-term yields leading the decline\n\nTreasury yields moved sharply lower, with the largest declines at the shorter end of the curve.\n\n2-year yield:4.7914%, down9.56 basis points.\n\n2-year yield:4.7914%, down9.56 basis points.\n\n5-year yield:5.0089%, down8.01 basis points.\n\n5-year yield:5.0089%, down8.01 basis points.\n\n10-year yield:5.2343%, down5.87 basis points.\n\n10-year yield:5.2343%, down5.87 basis points.\n\n30-year yield:5.5954%, down4.36 basis points.\n\n30-year yield:5.5954%, down4.36 basis points.\n\nThe larger drop in shorter-term yields steepened the Treasury curve. Despite the relief from lower yields, the major U.S. stock indices remained modestly in negative territory. The markets are pricing in a 30% chance of a Fed hike at the October meeting. That is down from 54% just 2 days ago."
+    },
     {
       "tags": [
         "USD",
