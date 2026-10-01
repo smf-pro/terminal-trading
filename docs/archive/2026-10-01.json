@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "titre": "Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high",
+      "extrait": "Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too highFed's Collins: We won't get ahead of the next meeting",
+      "date_publication": "2026-10-01T13:08:02.563480+00:00",
+      "url": "https://www.forexfactory.com/news/1429470-feds-collins-economic-growth-is-near-trend-if",
+      "source": "@financialjuice",
+      "date_recuperation": "2026-10-01T13:09:02.563480+00:00",
+      "ignore": false,
+      "impact": "low"
+    },
+    {
       "url": "https://www.forexfactory.com/news/1429465-us-unemployment-insurance-weekly-claims",
       "ignore": false,
       "date_recuperation": "2026-10-01T12:31:30.201822+00:00",
