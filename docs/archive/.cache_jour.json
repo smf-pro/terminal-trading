@@ -1,11 +1,21 @@
 {
   "date": "2026-10-01",
   "curseurs": {
-    "ff_news": "2026-10-01T07:51:30.560568+00:00",
+    "ff_news": "2026-10-01T07:56:26.766585+00:00",
     "cb_articles": "2026-10-01T02:06:14.077329+00:00",
     "il_articles": "2026-10-01T07:51:52.017859+00:00"
   },
   "ff_news": [
+    {
+      "source": "pmi.spglobal.com",
+      "titre": "German manufacturers turn increasingly bullish amid sustained upturn in business conditions",
+      "impact": "low",
+      "ignore": false,
+      "extrait": "The latest PMI® survey data showed sustained strong growth in both production levels and new orders across the German manufacturing sector in September. Goods producers were increasingly optimistic about the upturn continuing in the coming year, with expectations recovering to their highest since February. This was despite manufacturers facing not only a ...",
+      "date_recuperation": "2026-10-01T07:57:26.766585+00:00",
+      "date_publication": "2026-10-01T07:56:26.766585+00:00",
+      "url": "https://www.forexfactory.com/news/1429426-german-manufacturers-turn-increasingly-bullish-amid-sustained-upturn"
+    },
     {
       "titre": "French manufacturing sector expands again in September but growth slows",
       "date_recuperation": "2026-10-01T07:52:30.560568+00:00",
