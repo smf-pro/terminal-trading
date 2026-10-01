@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "ignore": false,
+      "date_publication": "2026-10-01T13:11:17.246783+00:00",
+      "url": "https://www.forexfactory.com/news/1429471-feds-schmid-officials-have-work-to-do-on",
+      "source": "@financialjuice",
+      "impact": "low",
+      "titre": "Fed's Schmid: Officials have work to do on inflation",
+      "extrait": "Fed's Schmid: Officials have work to do on inflation.",
+      "date_recuperation": "2026-10-01T13:14:17.246783+00:00"
+    },
+    {
       "titre": "Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too high",
       "extrait": "Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too highFed's Collins: We won't get ahead of the next meeting",
       "date_publication": "2026-10-01T13:08:02.563480+00:00",
