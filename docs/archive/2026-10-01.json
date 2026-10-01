@@ -2,6 +2,16 @@
   "date": "2026-10-01",
   "ff_news": [
     {
+      "url": "https://www.forexfactory.com/news/1429445-trump-administration-has-been-taking-steps-to-turn",
+      "ignore": false,
+      "date_publication": "2026-10-01T10:03:33.619950+00:00",
+      "source": "@LiveSquawk",
+      "impact": "medium",
+      "extrait": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations RTRS Cites Sources",
+      "titre": "Trump Administration Has Been Taking Steps To Turn China's Dependence On US Aviation Suppliers Into Leverage For Trade Negotiations  RTRS Cites Source",
+      "date_recuperation": "2026-10-01T10:04:33.619950+00:00"
+    },
+    {
       "source": "challengergray.com",
       "ignore": false,
       "titre": "US Job Cuts Fall in September; Hiring Plans Up 3% Over 2025 On Weak Early Seasonal Hiring",
