@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-02T00:00:00+00:00",
     "cb_articles": "2026-10-02T00:42:58.314499+00:00",
-    "il_articles": "2026-10-02T02:25:58.875779+00:00"
+    "il_articles": "2026-10-02T02:49:44.764790+00:00"
   },
   "ff_news": [],
   "cb_articles": [
@@ -21,6 +21,18 @@
     }
   ],
   "il_articles": [
+    {
+      "date_publication": "2026-10-02T02:49:44.764790+00:00",
+      "url": "https://investinglive.com/news/katayama-eyes-7-trillion-yen-of-idle-funds-as-kiuchi-says-japan-needs-no-excessive-easing/",
+      "date_recuperation": "2026-10-02T02:50:32.933766+00:00",
+      "tags": [
+        "JPY"
+      ],
+      "categorie": "news",
+      "titre": "Katayama eyes 7 trillion yen of idle funds as Kiuchi says Japan needs no excessive easing",
+      "contenu": "Summary\n\nJapan Finance Minister Katayama pledged a DOGE-style review of subsidies and to drastically streamline 200 idle funds worth about 7 trillion yen. Economy Minister Kiuchi said Japan, no longer in deflation, has no need for excessively loose policy.\n\nKiuchi's remarks reduce the risk of government pushback against further BOJ tightening, which is likely to be read as supportive of an earlier rate hike, coming on the same dayTokyo core inflation jumpedto 2.7%. That could add to upward pressure on short-dated JGB yields and offer the yen some support. Katayama's fund review is modest relative to Japan's budget, but signals fiscal discipline at a time when global bond markets are punishing perceived fiscal looseness. Energy costs from the Iran war remain the main external inflation driver for Japan, so higher oil would reinforce the case both ministers appear comfortable with.\n\n---Tokyo is trimming idle funds and telling the BOJ it no longer needs to keep the stimulus taps open, a striking turn from the reflationist decade.\n\nFinance Minister Katayama will step up a Japanese version of DOGE to review subsidies and government funds\n\nShe said about 200 idle funds worth roughly 7 trillion yen will be drastically streamlined in the budget process\n\nEconomy Minister Kiuchi declined to comment on monetary policy, saying it is for the BOJ, but hopes for close communication with the government\n\nKiuchi said Japan no longer needs extraordinary stimulus and, being out of deflation, has no need for excessively loose policy\n\nHe said the Takaichi administration's approach differs from earlier reflationist policy\n\nThe BOJ meets on October 29-30, after raising rates to 1.25% in September\n\n---Japan's Finance Minister Satsuki Katayama has pledged to step up a review of government subsidies and funds modelled on the US Department of Government Efficiency, while Economy Minister Minoru Kiuchi said Japan no longer needs excessively loose monetary policy now that it has escaped deflation.\n\nKatayama said she would strengthen efforts to promote a Japanese version of DOGE, the cost-cutting initiative launched under President Donald Trump, applying it to subsidies and government funds. She said the government would drastically streamline idle funds as part of the budget process, noting there are about 200 such funds holding roughly 7 trillion yen.\n\nThe push to reclaim unused money comes as investors pay close attention to fiscal positions, with sovereign bond yields rising globally and concerns about government borrowing feeding into long-dated debt markets.\n\nKiuchi, speaking separately, declined to comment directly on monetary policy, saying it falls under the jurisdiction of the Bank of Japan, but said he hopes the central bank continues to communicate closely with the government as it guides policy.\n\nHe went on to set out the government's broader stance. In his view, Japan no longer requires extraordinary monetary stimulus, as shown by the BOJ's earlier decision to end yield curve control. With the economy out of deflation, he said there is no need for excessively loose policy that favours higher inflation, and he described Prime Minister Sanae Takaichi's economic approach as distinct from the reflationist policies that sought to pull Japan out of deflation.\n\nThe comments are notable because they signal government comfort with a less accommodative policy setting at a time when the BOJ is tightening. The central bank raised its policy rate to 1.25%, a 31-year high, in September, andTokyo inflation data released on Fridayshowed core prices rising 2.7% in September, above the BOJ's 2% target, with a key underlying measure hitting 3%.\n\nThe BOJ's next policy meeting on October 29-30, when it will also publish new quarterly forecasts, will show whether the combination of firmer inflation and a supportive government stance brings the next rate hike forward.",
+      "ignore": false
+    },
     {
       "categorie": "stocks",
       "date_publication": "2026-10-02T02:25:58.875779+00:00",
