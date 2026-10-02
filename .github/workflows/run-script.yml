@@ -31,6 +31,11 @@ on:
         required: false
         type: string
         default: ""
+      firebase_projet:
+        description: "Projet Firebase cible : vide = projet principal ; 'polymarket' = second projet"
+        required: false
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -70,8 +75,21 @@ jobs:
       - name: Ecrire la cle de service Firebase
         working-directory: private
         env:
+          FIREBASE_PROJET: ${{ inputs.firebase_projet }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-        run: echo "$FIREBASE_SERVICE_ACCOUNT" > service_account.json
+          FIREBASE_SERVICE_ACCOUNT_POLYMARKET: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_POLYMARKET }}
+        run: |
+          if [ "$FIREBASE_PROJET" = "polymarket" ]; then
+            # Second projet : si le secret manque, on S'ARRETE (jamais de repli
+            # silencieux sur le projet principal, qui recevrait les donnees par erreur).
+            if [ -z "$FIREBASE_SERVICE_ACCOUNT_POLYMARKET" ]; then
+              echo "Secret FIREBASE_SERVICE_ACCOUNT_POLYMARKET absent ou vide."
+              exit 1
+            fi
+            printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_POLYMARKET" > service_account.json
+          else
+            echo "$FIREBASE_SERVICE_ACCOUNT" > service_account.json
+          fi
 
       - name: Lancer le script
         working-directory: private
