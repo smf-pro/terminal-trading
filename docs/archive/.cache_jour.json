@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-02T14:03:27.183977+00:00",
     "cb_articles": "2026-10-02T10:59:03.163319+00:00",
-    "il_articles": "2026-10-02T13:59:11.616253+00:00"
+    "il_articles": "2026-10-02T14:00:54.925518+00:00"
   },
   "ff_news": [
     {
@@ -186,6 +186,18 @@
     }
   ],
   "il_articles": [
+    {
+      "contenu": "Summary\n\nFactory orders for the month of August along with durable goods revisions for August\n\nPrior month factory orders 0.8% down from 0.9% previously\n\nFactory orders: +0.1% vs +0.1% expected. Prior +0.9% revised to 0.8%.\n\nFactory orders excluding transportation: +0.3%. Prior +0.7%.\n\nDurable goods orders: revised to −0.1% from 0.0% initially reported.\n\nDurable goods excluding transportation: revised to +0.2% from +0.3%.\n\nDurable goods excluding defense: revised to 0.0% from +0.1%.\n\nNondefense capital goods orders excluding aircraft: +1.6%, unchanged from the preliminary reading.\n\nUS factory orders increased0.1% in August, matching expectations but slowing from July’s0.9% gain, according to the supplied release table. Orders excluding transportation increased0.3%, down from0.6%in the prior month.\n\nThe durable goods revisions were modestly softer. Overall orders were revised to a0.1% decline, while orders excluding transportation were trimmed to a0.2% gain. However, the closely watched measure of business equipment investment plans—nondefense capital goods orders excluding aircraft—held onto its1.6% increase. That is the stronger detail beneath an otherwise subdued headline.\n\nQuick analysis:The headline met expectations, giving traders little surprise to work with. Slower overall order growth and softer durable goods revisions suggest more restrained manufacturing demand, but the solid increase in core capital goods orders provides an offset. Taken alone, the report offers limited reason to materially change Fed expectations or the outlook for the dollar and Treasury yields.\n\nWhat this report measures:The Census Bureau’s factory orders report tracks the monthly, seasonally adjusted dollar value of new orders for manufactured goods, including durable and nondurable products. Traders monitor orders for clues about future production, while capital goods orders excluding defense and aircraft help gauge business equipment investment plans.",
+      "tags": [
+        "USD"
+      ],
+      "url": "https://investinglive.com/news/us-factory-orders-for-the-month-of-august-0-1-versus-0-1-estimate/",
+      "titre": "US factory orders for the month of August 0.1% versus 0.1% estimate",
+      "ignore": false,
+      "date_recuperation": "2026-10-02T14:05:28.590878+00:00",
+      "date_publication": "2026-10-02T14:00:54.925518+00:00",
+      "categorie": "news"
+    },
     {
       "url": "https://investinglive.com/news/nec-director-kevin-hassett-us-jobs-report-says-the-us-consumer-is-very-strong/",
       "categorie": "news",
