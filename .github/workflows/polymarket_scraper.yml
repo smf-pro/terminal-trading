@@ -1,0 +1,25 @@
+name: Polymarket Scraper
+on:
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
+    inputs:
+      jours_historique:
+        description: "Profondeur du 1er telechargement, en jours (vide = historique complet)"
+        required: false
+        default: "60"
+concurrency:
+  group: polymarket
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: polymarket_cloud.py
+      label: polymarket
+      timeout_minutes: 15
+      firebase_projet: polymarket
+      jours_historique: ${{ inputs.jours_historique }}
+    secrets: inherit
