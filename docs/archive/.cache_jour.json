@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-02T00:00:00+00:00",
     "cb_articles": "2026-10-02T00:42:58.314499+00:00",
-    "il_articles": "2026-10-02T06:31:46.843654+00:00"
+    "il_articles": "2026-10-02T07:00:29.682196+00:00"
   },
   "ff_news": [],
   "cb_articles": [
@@ -21,6 +21,19 @@
     }
   ],
   "il_articles": [
+    {
+      "url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-1/",
+      "date_publication": "2026-10-02T07:00:29.682196+00:00",
+      "titre": "What is the distribution of forecasts for the US NFP?",
+      "ignore": false,
+      "categorie": "news",
+      "tags": [
+        "market overview",
+        "USD"
+      ],
+      "contenu": "Summary\n\nKnowing the range of expectations is important, but the distribution of forecasts is another key input in market's reaction\n\nThe ranges of estimates are important in terms of market reaction because when the actual data deviates from the expectations, it creates a surprise effect. Another important input in market's reaction is the distribution of forecasts.\n\nIn fact, although we can have a range of estimates, most forecasts might be clustered on the upper bound of the range, so even if the data comes out inside the range of estimates but on the lower bound of the range, it can still create a surprise effect.\n\nNon-Farm Payrolls\n\n35K to 180K range of estimates\n\n60K-100K range most clustered\n\n90K consensus\n\nUnemployment Rate\n\n4.2% (20%)\n\n4.1% (70%) - consensus\n\n4.0% (10%)\n\nAverage Hourly Earnings Y/Y\n\n3.4% (3%)\n\n3.2% (52%) - consensus\n\n3.1% (36%)\n\n3.0% (9%)\n\nAverage Hourly Earnings M/M\n\n0.4% (2%)\n\n0.3% (65%) - consensus\n\n0.2% (31%)\n\n0.1% (2%)\n\nAlthough the NFP report is generally one of the most market-moving economic releases, the US CPI has been more important because the Fed has been focusing on it.\n\nToday's release might be even less important because Fed's Williams and Fed's Jefferson have already poured cold water on expectations of a rate hike in October, so we will likely need a blockbuster report to raise the probabilities again.\n\nAs expected or weaker than expected data, on the other hand, might not change much in the bigger picture, because the totality of the US jobs data has been strong, but it might further reduce the odds for an October hike in the short-term.",
+      "date_recuperation": "2026-10-02T07:00:27.647718+00:00"
+    },
     {
       "titre": "Which inflation report matters most to markets? CPI vs PCE vs PPI explained",
       "date_recuperation": "2026-10-02T06:35:30.872719+00:00",
