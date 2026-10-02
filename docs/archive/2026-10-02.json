@@ -17,6 +17,20 @@
   ],
   "il_articles": [
     {
+      "ignore": false,
+      "categorie": "stock-market-update",
+      "tags": [
+        "Stocks",
+        "Bonds",
+        "forex"
+      ],
+      "date_publication": "2026-10-02T01:53:54.776592+00:00",
+      "contenu": "Summary\n\nIndia's equity, currency and debt markets are closed Friday for Gandhi Jayanti, reopening Monday. Mainland China stays shut for Golden Week to October 8, while Hong Kong reopens without Stock Connect. India faces three more closures by late November.\n\nWith India and mainland China both closed, Asian price discovery for emerging market risk narrows to Hong Kong, the offshore yuan and the rupee's non-deliverable forward market, all of which tend to be thinner and more volatile than their onshore counterparts. That matters more than usual today, as theUS jobs reportlands after Asia closes and could move the dollar and Treasury yields sharply. Oil is the other wildcard: India and China are among the world's biggest crude importers, so any weekend move in Brent on Iran war or diesel headlines will be absorbed by their markets only on reopening. Traders should allow for catch-up moves on Monday in India and on October 8 in China.\n\n---Two of Asia's largest markets are closed on Friday, October 2, leaving Hong Kong as the main open venue for regional emerging market trading as it reopens after its own holiday.\n\nIndia's equity, currency and debt markets are shut for Gandhi Jayanti, the national holiday marking Mahatma Gandhi's birthday. Trading resumes on Monday, October 5.\n\nMainland China remains closed for the week-long National Day holiday, with the Shanghai and Shenzhen stock exchanges, as well as onshore futures and gold markets, shut until Thursday, October 8. Hong Kong reopens on Friday after closing on Thursday for National Day, but Stock Connect, the link between mainland and Hong Kong stocks, stays suspended in both directions until October 8. That means Hong Kong will trade without cross-border flows, which may leave China-focused and dual-listed shares on thinner, more offshore-driven liquidity.\n\nFor India, Friday's closure is the first of several in the coming weeks.The National Stock Exchange's holiday calendar shows markets will also close on Tuesday, October 20, for Dussehra, on Tuesday, November 10, for Diwali-Balipratipada, and on Tuesday, November 24, for the birth anniversary of Guru Nanak Dev. A special one-hour Muhurat trading session will be held on Sunday, November 8, to mark Diwali, with timings to be confirmed by the exchange.\n\nThe timing of Friday's closures matters because the US September jobs report is released after Asian markets shut for the week. Any reaction in the rupee and the yuan will first be reflected in offshore trading, through the non-deliverable forward market for the rupee and the offshore yuan for China, with onshore markets catching up when they reopen, Monday for India and October 8 for China.",
+      "url": "https://investinglive.com/stock-market-update/reminder-india-and-mainland-china-markets-shut-friday-as-hong-kong-reopens-without-stock-connect/",
+      "titre": "Reminder: India and mainland China markets shut Friday as Hong Kong reopens without Stock Connect",
+      "date_recuperation": "2026-10-02T01:55:35.503623+00:00"
+    },
+    {
       "date_publication": "2026-10-02T00:42:58.314499+00:00",
       "tags": [
         "BOJ",
