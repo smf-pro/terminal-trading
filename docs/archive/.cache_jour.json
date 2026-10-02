@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-02T00:00:00+00:00",
     "cb_articles": "2026-10-02T00:42:58.314499+00:00",
-    "il_articles": "2026-10-02T02:49:44.764790+00:00"
+    "il_articles": "2026-10-02T03:11:47.232259+00:00"
   },
   "ff_news": [],
   "cb_articles": [
@@ -21,6 +21,18 @@
     }
   ],
   "il_articles": [
+    {
+      "date_recuperation": "2026-10-02T03:15:31.176621+00:00",
+      "url": "https://investinglive.com/forex/dollar-hits-highest-since-may-2025-before-payrolls-asia-fx-slips-despite-strong-data/",
+      "date_publication": "2026-10-02T03:11:47.232259+00:00",
+      "tags": [
+        "USD"
+      ],
+      "categorie": "forex",
+      "ignore": false,
+      "contenu": "Summary\n\nThe dollar index rose to its highest since May 2025, near 102, ahead of US payrolls, MUFG said, with high Treasury yields keeping Asia FX under pressure despite strong regional data. A soft jobs print could favour the KRW, TWD, MYR and SGD, it said.\n\nTonight'spayrollsare the pivot for both the dollar and Asian currencies. A print below the roughly 90,000 consensus would likely knock Treasury yields and the dollar index lower and free tech-linked currencies to reflect strong regional fundamentals, while a firm number would revive October Fed hike pricing, already backed by hawks such asLogan. Oil remains a structural drag: Brent above $100 on the Iran war and diesel shortages worsens terms of trade for energy-importing Asian economies such as Korea, Taiwan and Japan, offsetting some of the benefit from booming tech exports. The ISM prices-paid jump suggests energy and input costs are still feeding through, keeping upside inflation risk alive.\n\nAsia's data is booming, but its currencies are taking orders from US yields, and tonight's payrolls will decide whether that changes.\n\nThe dollar index briefly hit its highest since May 2025, around 102, ahead of US payrolls, MUFG said\n\nUS jobless claims fell to 197,000; ISM manufacturing eased to 54.5 while prices paid jumped to near 78\n\nPayrolls are expected to show about 90,000 jobs and an unchanged 4.1% unemployment rate\n\nSouth Korea's September exports rose about 84% y/y, beating expectations of about 63%\n\nManufacturing PMIs stayed in expansion in Korea (53.9), Japan (54.1) and Vietnam (51.9)\n\nMUFG sees a soft payrolls print helping tech-linked currencies such as KRW, TWD, MYR and SGD\n\nThe US dollar remained firmly bid ahead of Friday's US nonfarm payrolls report, with the dollar index briefly climbing to its highest level since May 2025, according to MUFG, as investors continued to back the US growth and yield story.\n\nThe bank said that while this week's softer inflation data had trimmed expectations for an October Fed hike, inflation remains above the 2% target and activity data continue to point to a resilient economy. Initial jobless claims fell to 197,000, construction spending rose 0.9% in August, and the ISM manufacturing index slipped only marginally to 54.5 in September from 54.6, comfortably in expansion territory. MUFG highlighted the jump in the ISM prices-paid component to near 78 from about 71 as a sign that upstream inflation pressures remain firm.\n\nWith long-dated Treasury yields still close to recent highs and the dollar index reaching around 102, attention has turned to the payrolls data, which are expected to show employment growth of about 90,000 and an unchanged unemployment rate of 4.1%.\n\nMost Asian currencies weakened against the dollar despite largely positive regional data. South Korea's exports surged about 84% from a year earlier in September, well above expectations of about 63% and up from around 69% in August. Manufacturing PMIs stayed in expansion in South Korea at 53.9, Japan at 54.1 and Vietnam at 51.9, and Japan's Tankan survey pointed to a supportive corporate backdrop with steady investment plans. MUFG said the figures suggest regional manufacturing continues to benefit from improving external demand and technology-related investment.\n\nThe payrolls report is likely to determine whether that strength starts to show up in currencies. In MUFG's view, a weaker than expected print could pull US yields lower and allow stronger fundamentals to support tech-linked currencies such as the South Korean won, Taiwan dollar, Malaysian ringgit and Singapore dollar. Continued labour market resilience, by contrast, would reinforce expectations of tighter US policy, keeping yields and the dollar supported and limiting any gains for Asian currencies.\n\nThe bank added that the combination of elevated oil prices, a stronger dollar and higher US yields continues to tighten financial conditions across the region, leaving external drivers as the dominant influence on Asian currencies in the near term.",
+      "titre": "Dollar hits highest since May 2025 before payrolls; Asia FX slips despite strong data"
+    },
     {
       "date_publication": "2026-10-02T02:49:44.764790+00:00",
       "url": "https://investinglive.com/news/katayama-eyes-7-trillion-yen-of-idle-funds-as-kiuchi-says-japan-needs-no-excessive-easing/",
