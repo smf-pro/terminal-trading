@@ -2,6 +2,16 @@
   "date": "2026-10-02",
   "ff_news": [
     {
+      "extrait": "Both nonfarm payroll employment (+29,000) and the unemployment rate (4.2 percent) changed little in September, the U.S. Bureau of Labor Statistics reported today. Employment in all major industries changed little over the month. This news release presents statistics from two monthly surveys. The household survey measures labor force status, including ...",
+      "url": "https://www.forexfactory.com/news/1429690-the-us-employment-situation-september-2026",
+      "date_publication": "2026-10-02T12:30:33.505723+00:00",
+      "source": "bls.gov",
+      "ignore": false,
+      "titre": "The US Employment Situation -- September 2026",
+      "date_recuperation": "2026-10-02T12:31:33.505723+00:00",
+      "impact": "high"
+    },
+    {
       "impact": "low",
       "date_recuperation": "2026-10-02T11:16:26.968158+00:00",
       "date_publication": "2026-10-02T11:15:26.968158+00:00",
@@ -151,6 +161,18 @@
     }
   ],
   "il_articles": [
+    {
+      "tags": [
+        "USD"
+      ],
+      "date_publication": "2026-10-02T12:30:09.177921+00:00",
+      "categorie": "news",
+      "contenu": "Summary\n\nThe US non-farm payrolls employment report for September 2026\n\nPriorwas +162K\n\nTwo-month net revision\n\nUnemployment rate % vs 4.1% expected\n\nPrior unemployment rate 4.1%\n\nUnrounded unemployment vs 4.1413%  prior\n\nParticipation rate % vs 61.6% prior\n\nU6 underemployment rate % vs 7.7% prior\n\nAverage hourly earnings % m/m vs +0.3% expected\n\nAverage hourly earnings % y/y vs +3.1% expected\n\nAverage weekly hours  vs 34.3 expected\n\nChange in private payrolls  vs +85K expected\n\nPrior private payrolls +127K\n\nChange in manufacturing payrolls K vs +10K expected\n\nGovernment payrolls K vs +35K prior\n\nFed funds pricing was at a 28% chance of a rate hike ahead of the data and USD/JPY was trading at 157.60. US 2-year yields were at 4.78% with 10s at 5.23%.",
+      "ignore": false,
+      "titre": "US September non-farm payrolls +29K vs +90K expected",
+      "date_recuperation": "2026-10-02T12:30:33.485413+00:00",
+      "url": "https://investinglive.com/news/us-september-non-farm-payrolls-29k-vs-90k-expected/"
+    },
     {
       "date_publication": "2026-10-02T12:16:14.097301+00:00",
       "categorie": "news",
