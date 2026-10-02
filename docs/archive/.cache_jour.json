@@ -1,11 +1,21 @@
 {
   "date": "2026-10-02",
   "curseurs": {
-    "ff_news": "2026-10-02T10:32:28.300262+00:00",
+    "ff_news": "2026-10-02T11:15:26.968158+00:00",
     "cb_articles": "2026-10-02T10:59:03.163319+00:00",
     "il_articles": "2026-10-02T10:59:03.163319+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1429681-opec-oil-production-capacity-assessment-exercise-is-delayed",
+      "impact": "low",
+      "titre": "OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - Sources",
+      "date_publication": "2026-10-02T11:15:26.968158+00:00",
+      "date_recuperation": "2026-10-02T11:16:26.968158+00:00",
+      "extrait": "OPEC+ oil production capacity assessment exercise is delayed because not all countries have submitted data - SourcesOPEC+ oil capacity assessment exercise is expected to be completed by mid-November - Source.",
+      "source": "@financialjuice",
+      "ignore": false
+    },
     {
       "titre": "The EU is ready for collective oil market action if the IEA sees it as necessary",
       "date_recuperation": "2026-10-02T10:33:28.300262+00:00",
