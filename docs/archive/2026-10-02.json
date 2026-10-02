@@ -111,6 +111,19 @@
   ],
   "il_articles": [
     {
+      "tags": [
+        "EUR",
+        "Inflation"
+      ],
+      "contenu": "Summary\n\nLatest data released by Eurostat - 2 October 2026\n\nEurozone September preliminary CPI +3.8% vs +3.6% y/y expected\n\nPrior +3.2%\n\nEurozone September preliminary core CPI +2.5% vs +2.5% y/y expected\n\nPrior +2.4%\n\nThe breakdownMore to follow..\n\nWhat does the data measure?The CPI measures changes in the prices consumers pay for goods and services across the euro area. The headline figure includes all categories, while core inflation strips out volatile food and energy prices to give a clearer indication of underlying price pressures.\n\nWhy does it matter to markets?Inflation is one of the ECB’s most important inputs when setting interest rates at this juncture. With Eurozone inflation already above the ECB’s 2% target and energy prices rising sharply, markets are watching closely for signs that the shock is starting to spread beyond energy into services, wages and other underlying prices.\n\nHow does this fit the broader economic picture?More to follow..",
+      "date_recuperation": "2026-10-02T09:00:30.245780+00:00",
+      "date_publication": "2026-10-02T09:00:23.621875+00:00",
+      "categorie": "news",
+      "ignore": false,
+      "titre": "Eurozone September preliminary CPI +3.8% vs +3.6% y/y expected",
+      "url": "https://investinglive.com/news/eurozone-september-preliminary-cpi-3-8-vs-3-6-y-y-expected/"
+    },
+    {
       "date_recuperation": "2026-10-02T07:50:30.980892+00:00",
       "titre": "ECB policymaker Rehn flags energy and AI risks as rate outlook stays uncertain",
       "categorie": "central-banks",
