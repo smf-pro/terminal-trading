@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-02T00:00:00+00:00",
     "cb_articles": "2026-10-02T00:42:58.314499+00:00",
-    "il_articles": "2026-10-02T03:11:47.232259+00:00"
+    "il_articles": "2026-10-02T04:41:15.137565+00:00"
   },
   "ff_news": [],
   "cb_articles": [
@@ -21,6 +21,21 @@
     }
   ],
   "il_articles": [
+    {
+      "ignore": false,
+      "date_recuperation": "2026-10-02T04:45:35.328481+00:00",
+      "date_publication": "2026-10-02T04:41:15.137565+00:00",
+      "url": "https://investinglive.com/news/us-jobs-report-faces-a-higher-bar-as-bond-market-tensions-raise-the-stakes/",
+      "tags": [
+        "market overview",
+        "Fed",
+        "USD",
+        "Inflation"
+      ],
+      "contenu": "Summary\n\nThe non-farm payrolls figure will still matter, but the bond market may care more about whether wage growth keeps inflation pressure alive\n\nWelcome to another edition of NFP Friday. Typically, the US jobs report starts off with one question for markets. And that ishow many jobs did the economy add during the month?\n\nBut this time around, I would argue the bar is a little higher than that.\n\nMarkets are heading into Friday's non-farm payrolls report with inflation concerns already running hot, and yesterday'sISM manufacturing reportdidn't exactly help with that. While the headline index held steady at 54.5, it was the surge in prices paid from 71.1 to 77.9 that really caught the eye.\n\nAs such, it puts a slightly different complexion ahead of the jobs report later today.\n\nThe non-farm payrolls figure is expected to rise by around 90K in September, with the unemployment rate holding at 4.1%. But unless we get a sizeable surprise there, wages could arguably prove more important for markets. Average hourly earnings growth is expected at 0.3% on the month and 3.2% year-on-year.\n\nThe way I would frame things now is that markets will no longer just be asking whether the labour market is strong. Instead, they'll be asking whether it is inflationary.\n\nThat sort of distinction matters when Treasury yields are already sitting at rather uncomfortable levels after the surge of the past few weeks. 10-year yields briefly surged to 5.34% yesterday, the highest level since 2002, before buyers stepped back in and pulled yields lower.\n\nWhile the retreat does offer broader markets some relief, I wouldn't say the bond market has escaped the danger just yet.\n\nA hotter wage print alongside resilient payrolls could quickly revive the argument for another Fed rate hike and threaten another breakout in yields. And that's the sort of combination that could rattle broader markets and send another round of shockwaves through equities, the dollar, and gold.\n\nTaking all of that into consideration, I would argue that softer payrolls alone might not be enough to settle things if wages remain sticky.\n\nThat is what makes the reaction function to the jobs report today slightly different. As is always the case, the payrolls number will still grab the first headline. But with markets increasingly sensitive to inflation and long-end yields already testing the limits, the wage numbers could very well have the bigger say in whether the bond market calms down ahead of the weekend - or if it starts boiling over again.",
+      "titre": "US jobs report faces a higher bar as bond market tensions raise the stakes",
+      "categorie": "news"
+    },
     {
       "date_recuperation": "2026-10-02T03:15:31.176621+00:00",
       "url": "https://investinglive.com/forex/dollar-hits-highest-since-may-2025-before-payrolls-asia-fx-slips-despite-strong-data/",
