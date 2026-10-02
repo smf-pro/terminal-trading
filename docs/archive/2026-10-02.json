@@ -2,6 +2,16 @@
   "date": "2026-10-02",
   "ff_news": [
     {
+      "source": "@FirstSquawk",
+      "impact": "low",
+      "date_recuperation": "2026-10-02T20:02:33.068910+00:00",
+      "url": "https://www.forexfactory.com/news/1429743-trump-on-diesel-were-not-going-to-be",
+      "ignore": false,
+      "date_publication": "2026-10-02T20:01:33.068910+00:00",
+      "titre": "Trump On Diesel: We're Not Going To Be Doing The Export Ban",
+      "extrait": "Trump On Diesel: We're Not Going To Be Doing The Export BanTrump: Iran is not doing well.Trump says Europe is making a major contribution on Diesel, and so is the US"
+    },
+    {
       "source": "bundesbank.de",
       "titre": "Nagel: More dynamism for the economy",
       "date_publication": "2026-10-02T19:37:29.819763+00:00",
