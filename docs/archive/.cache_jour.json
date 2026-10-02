@@ -1,11 +1,31 @@
 {
   "date": "2026-10-02",
   "curseurs": {
-    "ff_news": "2026-10-02T08:00:26.061269+00:00",
+    "ff_news": "2026-10-02T08:04:26.036055+00:00",
     "cb_articles": "2026-10-02T07:47:26.399022+00:00",
     "il_articles": "2026-10-02T07:47:26.399022+00:00"
   },
   "ff_news": [
+    {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429639-g7-leaders-may-talk-friday-afternoon-to-discuss",
+      "source": "@financialjuice",
+      "extrait": "G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.",
+      "date_publication": "2026-10-02T08:04:26.036055+00:00",
+      "titre": "G7 leaders may talk Friday afternoon to discuss next steps - Source",
+      "impact": "low",
+      "date_recuperation": "2026-10-02T08:05:26.036055+00:00"
+    },
+    {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429638-france-has-proposed-plan-to-release-50m-barrels",
+      "source": "@financialjuice",
+      "extrait": "France has proposed plan to release 50 mln barrels of diesel from Europe and 50 mln barrels of crude oil across IEA members - Source Familiar with Discussion.",
+      "date_publication": "2026-10-02T08:00:32.573519+00:00",
+      "impact": "low",
+      "titre": "France has proposed plan to release 50M barrels of diesel from Europe and 50m barrels of crude oil across IEA members - Source",
+      "date_recuperation": "2026-10-02T08:04:32.573519+00:00"
+    },
     {
       "url": "https://www.forexfactory.com/news/1429638-france-has-proposed-plan-to-release-50-mln",
       "ignore": false,
