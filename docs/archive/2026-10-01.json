@@ -999,7 +999,12 @@
       "tags": [
         "EUR",
         "pmi"
-      ]
+      ],
+      "ignore": false,
+      "url": "https://investinglive.com/news/spain-september-manufacturing-pmi-51-0-vs-50-1-expected/",
+      "contenu": "Summary\n\nLatest data released by S&P Global - 1 October 2026\n\nSpain September manufacturing PMI 51.0 vs 50.1 expected\n\nPrior 49.5\n\nMore to follow...",
+      "date_recuperation": "2026-10-01T07:15:31.183732+00:00",
+      "titre": "Spain September manufacturing PMI 51.0 vs 50.1 expected"
     },
     {
       "date_publication": "2026-10-01T06:30:13.248010+00:00",
