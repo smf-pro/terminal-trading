@@ -2,6 +2,16 @@
   "date": "2026-10-02",
   "ff_news": [
     {
+      "date_publication": "2026-10-02T08:00:26.061269+00:00",
+      "url": "https://www.forexfactory.com/news/1429638-france-has-proposed-plan-to-release-50-mln",
+      "ignore": false,
+      "date_recuperation": "2026-10-02T08:01:26.061269+00:00",
+      "source": "@financialjuice",
+      "titre": "France has proposed plan to release 50 mln barrels of diesel from Europe and 50 mln barrels of crude oil across IEA members - Source Familiar with Dis",
+      "extrait": "France has proposed plan to release 50 mln barrels of diesel from Europe and 50 mln barrels of crude oil across IEA members - Source Familiar with Discussion.",
+      "impact": "low"
+    },
+    {
       "url": "https://www.forexfactory.com/news/1429636-eu-commissioner-jorgensen-we-are-discussing-with-all",
       "date_recuperation": "2026-10-02T07:08:30.037579+00:00",
       "source": "@financialjuice",
