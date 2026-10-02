@@ -1,11 +1,21 @@
 {
   "date": "2026-10-02",
   "curseurs": {
-    "ff_news": "2026-10-02T08:04:26.036055+00:00",
+    "ff_news": "2026-10-02T08:05:22.875317+00:00",
     "cb_articles": "2026-10-02T07:47:26.399022+00:00",
     "il_articles": "2026-10-02T07:47:26.399022+00:00"
   },
   "ff_news": [
+    {
+      "source": "@financialjuice",
+      "extrait": "G7 leaders may talk Friday afternoon to discuss next steps - source familiar with discussion.France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace sourceFrance's Macron spoke with Trump to discuss worldwide energy situation: ElyseeMacron stressed need to collaborate to tackle rising fuel costs, ensure global supply of refined products: Elysee",
+      "titre": "France plans call with G7 leaders to coordinate on prices, supply: Elysee Palace source",
+      "url": "https://www.forexfactory.com/news/1429639-france-plans-call-with-g7-leaders-to-coordinate",
+      "date_recuperation": "2026-10-02T08:16:22.875317+00:00",
+      "date_publication": "2026-10-02T08:05:22.875317+00:00",
+      "impact": "low",
+      "ignore": false
+    },
     {
       "titre": "G7 leaders may talk Friday afternoon to discuss next steps - Source",
       "impact": "low",
