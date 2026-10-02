@@ -1,11 +1,21 @@
 {
   "date": "2026-10-02",
   "curseurs": {
-    "ff_news": "2026-10-02T18:57:32.720105+00:00",
+    "ff_news": "2026-10-02T19:09:34.978764+00:00",
     "cb_articles": "2026-10-02T17:09:06.919985+00:00",
     "il_articles": "2026-10-02T17:51:51.245478+00:00"
   },
   "ff_news": [
+    {
+      "titre": "Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox Business",
+      "ignore": false,
+      "impact": "low",
+      "date_publication": "2026-10-02T19:09:34.978764+00:00",
+      "date_recuperation": "2026-10-02T19:10:34.978764+00:00",
+      "extrait": "Fed's Goolsbee: Inflation going the wrong way and stalled there - Fox BusinessGoolsbee says scant progress on services inflation may signal broadening inflation",
+      "url": "https://www.forexfactory.com/news/1429731-feds-goolsbee-inflation-going-the-wrong-way-and",
+      "source": "@financialjuice"
+    },
     {
       "date_publication": "2026-10-02T18:57:32.720105+00:00",
       "url": "https://www.forexfactory.com/news/1429727-doj-not-reopening-criminal-probe-into-powell-blanche",
