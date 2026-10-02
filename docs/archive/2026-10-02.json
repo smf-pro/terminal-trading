@@ -2,6 +2,16 @@
   "date": "2026-10-02",
   "ff_news": [
     {
+      "extrait": "The September 2026 DMP survey was conducted between 4-18 September 2026 and received 1,993 responses. Firms reported that their realised annual own-price growth was 3.7% in the three months to September, unchanged from the three months to August. Note that the DMP covers own prices from firms across the whole economy, not just consumer-facing firms. ...",
+      "date_recuperation": "2026-10-02T08:32:31.521107+00:00",
+      "titre": "BOE Monthly Decision Maker Panel data - September 2026",
+      "ignore": false,
+      "date_publication": "2026-10-02T08:31:31.521107+00:00",
+      "source": "bankofengland.co.uk",
+      "impact": "low",
+      "url": "https://www.forexfactory.com/news/1429642-boe-monthly-decision-maker-panel-data-september"
+    },
+    {
       "date_recuperation": "2026-10-02T08:18:27.952553+00:00",
       "source": "istat.it",
       "ignore": false,
