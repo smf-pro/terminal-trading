@@ -2,6 +2,16 @@
   "date": "2026-10-02",
   "ff_news": [
     {
+      "titre": "US factory orders up 0.1% in August",
+      "url": "https://www.forexfactory.com/news/1429705-us-factory-orders-up-01-in-august",
+      "ignore": false,
+      "date_publication": "2026-10-02T14:10:47.012320+00:00",
+      "date_recuperation": "2026-10-02T14:11:47.012320+00:00",
+      "extrait": "New orders for manufactured goods in the United States in August grew by 0.1% or $700 million to $663.5 billion compared to the previous month, the US Census Bureau reported on Friday. The reading came in line with market projections. Shipments were virtually unchanged month-over-month, according to the report, reaching $658.6 billion. The data also showed ...",
+      "source": "breakingthenews.net",
+      "impact": "low"
+    },
+    {
       "source": "@realDonaldTrump",
       "ignore": false,
       "extrait": "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT",
