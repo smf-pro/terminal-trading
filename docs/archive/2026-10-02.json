@@ -54,7 +54,7 @@
     {
       "ignore": false,
       "date_recuperation": "2026-10-02T14:11:47.012320+00:00",
-      "extrait": "New orders for manufactured goods in the United States in August grew by 0.1% or $700 million to $663.5 billion compared to the previous month, the US Census Bureau reported on Friday. The reading came in line with market projections. Shipments were virtually unchanged month-over-month, according to the report, reaching $658.6 billion. The data also showed ...",
+      "ignore": false,
       "source": "breakingthenews.net",
       "titre": "US factory orders up 0.1% in August",
       "date_publication": "2026-10-02T14:10:47.012320+00:00",
