@@ -1,0 +1,19 @@
+name: Marquer Public
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: marquer_public
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: marquer_public_cloud.py
+      label: marquer_public
+      timeout_minutes: 10
+      commit: false
+    secrets: inherit
