@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-04T13:34:30.960004+00:00",
     "cb_articles": "2026-10-04T00:00:00+00:00",
-    "il_articles": "2026-10-04T21:35:26.748963+00:00"
+    "il_articles": "2026-10-04T22:16:08.321263+00:00"
   },
   "ff_news": [
     {
@@ -19,6 +19,18 @@
   ],
   "cb_articles": [],
   "il_articles": [
+    {
+      "url": "https://investinglive.com/news/australia-services-pmi-growth-slows-to-51-9-job-cuts-return-as-price-pressures-build/",
+      "ignore": false,
+      "contenu": "Summary\n\nAustralia's services PMI slowed to 51.9 in September from 53.2, a three-month low, as firms cut staff for the first time since May while input and output price inflation both picked up, an outcome that could keep the Reserve Bank leaning hawkish.\n\nThe survey sends mixed signals for the Australian dollar and rates. Slower activity, job shedding and weaker confidence argue against further tightening. Accelerating output price inflation, running above its long-run average, supports the case for the RBA to stay hawkish. On balance, the inflation detail is likely to matter more to rate pricing, which limits the downside for the Australian dollar and front-end yields from the softer activity numbers. Fuel costs were again cited as a driver of input prices, so the oil price remains an important input to the RBA's inflation outlook. Upcoming official CPI and labour market data will be watched to see whether they confirm the PMI's signals.\n\nAustralia's services sector is still growing, but slower demand, falling jobs and rising prices give the RBA the uncomfortable mix it least wants.\n\nThe S&P Global Australia Services PMI eased to 51.9 in September from 53.2, a fourth month of expansion but the slowest in three months.\n\nThe composite PMI slipped to 51.3 from 52.7, with growth confined to services as manufacturing contracted further.\n\nNew business grew at its softest pace in three months, though export orders rose for the first time since April.\n\nServices employment fell for the first time since May, only the third decline in five years.\n\nInput cost and output price inflation both accelerated and stayed above long-run averages. Business confidence hit a three-month low.\n\nGrowth in Australia's services sector slowed to a three-month low in September, according to the S&P Global Australia Services PMI released on Monday. Price pressures intensified, and firms cut staff for the first time since May.\n\nThe seasonally adjusted Services Business Activity Index eased to 51.9 from 53.2 in August. The reading stayed above the 50 mark that separates expansion from contraction for a fourth straight month, but signalled the slowest rise in activity in three months. The Composite Output Index, which combines services and manufacturing, eased to 51.3 from 52.7. Growth was again confined to services as the contraction in factory output deepened.\n\nNew business continued to grow across the services sector, but at the softest pace of the current three-month run. Export orders rose for the first time since April, though only marginally, which firms credited to business development efforts.\n\nSofter demand fed through to hiring. Service providers reduced headcounts for the first time in four months, citing slower order growth and cost concerns. The decline was marginal, but S&P Global said it was only the third time in five years that services employment has fallen. With staff numbers down while orders still rose, backlogs of work increased for a third month, though only slightly.\n\nThe inflation picture moved in the opposite direction. Input costs rose on higher fuel, labour and other expenses, with consumer services reporting the sharpest increases, and firms passed more of those costs on to customers. Both input cost and output price inflation accelerated from August and stayed above their long-run averages.\n\nBusiness confidence about the next 12 months remained positive but fell to a three-month low, further below its historical average, as some firms voiced concern about the economic outlook.\n\nS&P Global said faster output price inflation across the private sector suggests consumer prices could stay elevated in coming months, which could keep the Reserve Bank of Australia leaning hawkish. Waning confidence and high prices also point to a risk that services growth fades further. That leaves the RBA balancing a softening economy against stubborn inflation.",
+      "date_publication": "2026-10-04T22:16:08.321263+00:00",
+      "categorie": "news",
+      "titre": "Australia services PMI growth slows to 51.9, job cuts return as price pressures build",
+      "tags": [
+        "AUD"
+      ],
+      "date_recuperation": "2026-10-04T22:20:27.484421+00:00"
+    },
     {
       "categorie": "commodities",
       "ignore": false,
