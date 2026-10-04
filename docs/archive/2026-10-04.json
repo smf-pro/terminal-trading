@@ -13,5 +13,18 @@
     }
   ],
   "cb_articles": [],
-  "il_articles": []
+  "il_articles": [
+    {
+      "url": "https://investinglive.com/forex/monday-open-indicative-forex-prices-october-5-2026/",
+      "tags": [
+        "USD"
+      ],
+      "date_recuperation": "2026-10-04T19:55:30.034780+00:00",
+      "categorie": "forex",
+      "titre": "Monday open indicative forex prices, October 5, 2026",
+      "date_publication": "2026-10-04T19:55:24.270320+00:00",
+      "contenu": "Summary\n\nAs is usual for a Monday morning, market liquidity is very thin until it improves as more Asian centres come online ... prices are liable to swing around, so take care out there.\n\nEarly FX indications, not much change from late Friday so far\n\nEUR/USD 1.1257\n\nUSD/JPY 157.73\n\nGBP/USD 1.3241\n\nUSD/CHF 0.8289\n\nUSD/CAD 1.4256\n\nAUD/USD 0.6957 (ps. it's a partial holiday in Australia today, but the Australian Securities Exchange is open as normal)\n\nNZD/USD 0.5620 (I nearly wrote 0.5260 ... need more coffeee...)",
+      "ignore": false
+    }
+  ]
 }
