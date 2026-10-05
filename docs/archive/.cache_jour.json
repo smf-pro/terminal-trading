@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T01:20:20.786026+00:00",
     "cb_articles": "2026-10-05T00:42:30.490229+00:00",
-    "il_articles": "2026-10-05T00:45:50.872957+00:00"
+    "il_articles": "2026-10-05T01:47:28.330002+00:00"
   },
   "ff_news": [
     {
@@ -54,6 +54,18 @@
     }
   ],
   "il_articles": [
+    {
+      "contenu": "Summary\n\nOil prices edged lower early on Monday, with Brent around $102 and WTI near $90.50, as rising Middle East crude exports and a 100 million barrel G7 reserve release outweighed Houthi claims of new attacks on Saudi Aramco sites in Riyadh and Khurais.\n\nThe early price action shows supply-side relief winning out, for now, over geopolitical risk. The G7's emergency barrels and recovering Gulf exports are capping rallies despite repeated attacks on regional infrastructure. Aramco's surprise price cut for Asia is a bearish signal for physical markets: it suggests Saudi Arabia is prioritising volumes as flows recover, which could pressure competing Middle East grades and narrow Brent's premium. The downside still looks limited while Brent holds around $100. Any confirmed damage to Saudi facilities, an escalation in Yemen, or fresh disruption in Hormuz could quickly rebuild the risk premium. Ukraine's pledge to intensify refinery strikes adds a separate upside risk for refined products, particularly diesel.\n\nOil is caught between more barrels and more missiles, and for the first hours of the week the barrels are winning.\n\nBrent slipped circa 0.3% to around $102 and WTI fell circa 0.7% to around $90.50 in early Monday trade.\n\nThe G7 agreed on Friday to release 100 million barrels of diesel and crude from emergency reserves, after pressure from President Trump.\n\nMiddle East crude exports exceeded pre-war levels on four of seven days in the last week of September, despite tanker attacks in Hormuz.\n\nThe Houthis claimed missile and drone attacks on Aramco sites in Riyadh and Khurais, unconfirmed by Saudi Arabia. Aramco cut November Asia prices to six-year lows.\n\nOPEC+ has delayed its 2027 capacity review, and Ukraine plans to step up attacks on Russian refineries.\n\nOil prices edged lower in early Asian trade on Monday, Reuters reported. Rising Middle East crude exports and a coordinated release of emergency stocks by Group of Seven nations added to supply, outweighing fresh attacks on Gulf energy infrastructure.\n\nBrent crude futures slipped circa 0.3% to around $102 a barrel in the first hours of the new trading week, while US West Texas Intermediate fell circa 0.7% to around $90.50.\n\nThe move extends last week's pullback. Brent surrendered most of its weekly gains and WTI ended circa 1.5% lower after G7 countries agreed on Friday to release 100 million barrels of diesel and crude from emergency reserves. The G7 also pledged to avoid energy export restrictions, following pressure from US President Donald Trump.\n\nPhysical flows are also improving. Shipping data showed Middle Eastern crude exports exceeded pre-war levels on four of the seven days in the final week of September, despite continued attacks on tankers transiting the Strait of Hormuz. One analyst said the reserve release was easing immediate supply anxiety, while Saudi export volumes appeared to be heading back toward pre-war levels, albeit at higher cost and via less efficient routes. The analyst said that mix is enough to restrain prices for now, though the risk of further damage to Gulf infrastructure has not gone away.\n\nThat risk was underlined over the weekend. Yemen's Houthis said they fired ballistic missiles and drones at Saudi Aramco facilities in Riyadh and the Khurais area, in retaliation for around 50 Saudi-led strikes in Yemen. Saudi Arabia has not confirmed the attacks. Yemen's internationally recognised government also announced a major military campaign to retake all territory held by the Iran-backed group.\n\nSaudi Aramco, meanwhile, unexpectedly cut its November crude prices for Asian buyers to six-year lows. The move may reflect a push to regain market share as Saudi exports recover.\n\nElsewhere, OPEC+ has delayed a capacity review needed to set 2027 output quotas because the Iran war has thrown production estimates into doubt. Ukrainian President Volodymyr Zelenskiy said Kyiv will step up attacks on Russian oil refineries.\n\nFor now, rising supply is winning the tug of war with geopolitical risk. With Gulf infrastructure still under fire, though, that balance could shift quickly.",
+      "ignore": false,
+      "titre": "Oil slips toward $102 as G7 stock release and rising Gulf exports offset Houthi attacks",
+      "date_publication": "2026-10-05T01:47:28.330002+00:00",
+      "tags": [
+        "Oil"
+      ],
+      "url": "https://investinglive.com/commodities/oil-slips-toward-102-as-g7-stock-release-and-rising-gulf-exports-offset-houthi-attacks/",
+      "date_recuperation": "2026-10-05T01:50:25.913792+00:00",
+      "categorie": "commodities"
+    },
     {
       "date_publication": "2026-10-05T00:45:50.872957+00:00",
       "tags": [
