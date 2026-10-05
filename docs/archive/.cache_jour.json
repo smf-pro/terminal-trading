@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T07:18:32.072359+00:00",
+    "ff_news": "2026-10-05T07:46:28.692641+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
     "il_articles": "2026-10-05T07:30:00.997329+00:00"
   },
   "ff_news": [
+    {
+      "date_recuperation": "2026-10-05T07:47:28.692641+00:00",
+      "titre": "Growth of Italian service sector eases to slowest in three months",
+      "source": "pmi.spglobal.com",
+      "impact": "low",
+      "date_publication": "2026-10-05T07:46:28.692641+00:00",
+      "ignore": false,
+      "extrait": "The Italian service sector continued to grow at the end of the third quarter, according to September PMI® data by S&P Global. Rates of expansion in both activity and new business slowed to their weakest in three months, however. The latter remained elevated compared to the series trend, nonetheless, supported by the strongest growth in export sales since ...",
+      "url": "https://www.forexfactory.com/news/1429869-growth-of-italian-service-sector-eases-to-slowest"
+    },
     {
       "extrait": "The performance of Spain’s service sector remained positive in September, with growth picking up to a level that matched July’s recent high. New business inflows were sustained, whilst employment numbers continued to increase. However, sentiment regarding the outlook softened to a fourmonth low due to geopolitical uncertainty whilst operating expenses ...",
       "impact": "low",
