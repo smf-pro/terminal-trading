@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T00:30:28.779774+00:00",
+    "ff_news": "2026-10-05T01:20:20.786026+00:00",
     "cb_articles": "2026-10-05T00:42:30.490229+00:00",
     "il_articles": "2026-10-05T00:45:50.872957+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1429848-japans-kihara-japan-is-already-releasing-oil-reserves",
+      "date_publication": "2026-10-05T01:20:20.786026+00:00",
+      "impact": "high",
+      "date_recuperation": "2026-10-05T01:21:20.786026+00:00",
+      "ignore": false,
+      "source": "@NodeWire",
+      "titre": "Japan's Kihara: Japan is already releasing oil reserves and has no plans for a further release",
+      "extrait": "Japan's Chief Cabinet Secretary Kihara Says The Arrest Of A U.s. Serviceman In The Okinawa Case Is 'regrettable', Adding That Japan Is Seeking Discipline And Preventive Measures From U.s. Forces. Kihara Says Japan Is Already Releasing Oil Reserves And Has No Plans For A Further Release. ..."
+    },
     {
       "date_recuperation": "2026-10-05T00:31:28.779774+00:00",
       "extrait": "It is my great pleasure to welcome all of you to the ECONDAT 2026 Fall Meeting. Since its establishment in 2019, this conference has become a unique and important platform where researchers, policymakers, and experts from various fields come together. This year's conference focuses on AI and big data. In particular, we will examine two important roles they play for central banks: first, their contributions to advancing analytical methods and research; second, the economic implications of AI adoption for productivity and labor markets. AI affects a wide range of central banking businesses, which include conducting monetary policy, maintaining financial stability, and operating payment and settlement infrastructures. Among these, I would like to talk about the effects of AI from the monetary policy perspective and raise two questions associated with the topics to be discussed today and tomorrow.Boj Deputy Governor Uchida: Tentatively, Demand-side Impact Of Al Appears First, Making Financial Conditions More Accommodative On Balance, While Correction Risk Remains If Profits Do Not ...",
