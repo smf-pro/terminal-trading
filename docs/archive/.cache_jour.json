@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T07:18:32.072359+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
-    "il_articles": "2026-10-05T07:16:18.036455+00:00"
+    "il_articles": "2026-10-05T07:30:00.997329+00:00"
   },
   "ff_news": [
     {
@@ -85,6 +85,23 @@
     }
   ],
   "il_articles": [
+    {
+      "date_recuperation": "2026-10-05T07:30:31.185258+00:00",
+      "url": "https://investinglive.com/education/october-seasonality-flashes-a-warning-signal-as-treasury-yields-tend-to-rise-the-most/",
+      "tags": [
+        "investing education",
+        "Bonds",
+        "Stocks",
+        "USD",
+        "Market Sentiment",
+        "market overview"
+      ],
+      "ignore": false,
+      "contenu": "Summary\n\nThe last 15 years point to higher yields, a firmer dollar and stocks facing a familiar October test\n\nIn trading, an important lesson that one will learn over time is that markets have habits.\n\nNow, that doesn't mean that they repeat themselves perfectly from one year to the next. However, certain months have a habit of producing similar moves often enough that it makes traders pay attention. And that is essentially what seasonality is about.\n\nIt's simply looking back at how an asset has behaved during the same period in previous years and ask the question of whether there is a pattern worth keeping in mind this time around.\n\nThat being said, this is not a predictive tool. If stocks have historically performed well in October, that doesn't mean that they are automatically going to trade higher this month. In my view, what makes seasonality a useful tool is when we use those historical tendencies and see how they line up with what is already happening in markets.\n\nThat is where things start to get more interesting, and there are a couple of patterns worth taking note of as we get into October trading.\n\nWe start off with the one where everyone is watching, that is the bond market.\n\nLooking back over the past 15 years, 10-year Treasury yields have risen by an average positive change of 6.52% (percentage change, not basis points) during October, making it comfortably the strongest month of the year for yields.\n\n10-year Treasury yields seasonality chart - percentage change (%)\n\nNow, that feels especially relevant this time around becausethe bond market is currently already the biggest pressure point for broader markets.\n\nThe softer US jobs report at the end of last week initially offered some relief, with 10-year Treasury yields falling towards 5.16%. However, that move did not last long. Yields quickly rebounded towards the 5.28% region, reinforcing just how difficult it has been for bonds to sustain any meaningful recovery.\n\nAs such, the historical pattern above isn't appearing against a neutral backdrop. It is pointing in the same direction as the existing market trend. That could very well reinforce the strength of any significant selloff in the bond market, with seasonal flows likely to support the move.\n\nWith this being the strongest month for 10-year Treasury yields to rise, it also ties back to being a good month for the dollar.\n\nOctober has historically been one of the best months for USD/JPY, with the pair gaining an average of 1.79% over the past 15 years. Even more strikingly, the pair has risen in every October over the past five years.\n\nUSD/JPY seasonality chart (monthly % change)\n\nNow, this one has a rather interesting relationship with Treasury yields as USD/JPY has been heavily influenced by the gap between US and Japanese interest rates in the past. So, another sustained rise in US yields would naturally reinforce the seasonal bias towards a stronger move higher in the pair.\n\nBut with USD/JPY already at elevated levels, intervention rhetoric is very well on the cards and that is a key caveat in terms of limiting any upside potential in the pair this month.\n\nLooking at equities, the story is slightly different.\n\nThe S&P 500 has gained an average of 2.03% in October over the past 15 years, making it one of the stronger months of the calendar for US stocks.\n\nAt first glance, that might sound encouraging. While October has a reputation for volatility and some infamous historical crashes,  the more recent seasonal data actually paints a fairly constructive picture for stocks.\n\nThat being said, there is a big problem staring us right in the face this time around.\n\nIf October's strongest seasonal trend turns out to be another meaningful rise in Treasury yields, then equities may have to overcome a much tougher backdrop to deliver their usual seasonal gains.\n\nThat is particularly important when long-term yields are already sitting at levels that are putting pressure on equity valuations and also tightening financial conditions.\n\nI would argue that stocks do not necessarily need yields to collapse in order to rally. However, another sharp leg higher would make the historical October pattern for equities much harder to follow.\n\nTo summarise, I would once again advise to avoid treating any of these numbers as standalone trading signals. Fifteen years is a useful time window in looking at behavioural and historical patterns, but it is still a relatively small sample.\n\nWhat seasonality does is that it gives us another piece of the puzzle. And interestingly enough for this October, the most interesting part of that puzzle is that the strongest historical tendency happens to line up with the market's biggest concern at the moment.\n\nWith the bond market already refusing to give investors much relief, that is one seasonal pattern I would be paying close attention to over the coming weeks.",
+      "date_publication": "2026-10-05T07:30:00.997329+00:00",
+      "titre": "October seasonality flashes a warning signal as Treasury yields tend to rise the most",
+      "categorie": "education"
+    },
     {
       "ignore": false,
       "titre": "What are the main events for today?",
