@@ -2,6 +2,16 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "date_recuperation": "2026-10-05T00:31:28.779774+00:00",
+      "extrait": "It is my great pleasure to welcome all of you to the ECONDAT 2026 Fall Meeting. Since its establishment in 2019, this conference has become a unique and important platform where researchers, policymakers, and experts from various fields come together. This year's conference focuses on AI and big data. In particular, we will examine two important roles they play for central banks: first, their contributions to advancing analytical methods and research; second, the economic implications of AI adoption for productivity and labor markets. AI affects a wide range of central banking businesses, which include conducting monetary policy, maintaining financial stability, and operating payment and settlement infrastructures. Among these, I would like to talk about the effects of AI from the monetary policy perspective and raise two questions associated with the topics to be discussed today and tomorrow.Boj Deputy Governor Uchida: Tentatively, Demand-side Impact Of Al Appears First, Making Financial Conditions More Accommodative On Balance, While Correction Risk Remains If Profits Do Not ...",
+      "date_publication": "2026-10-05T00:30:28.779774+00:00",
+      "source": "boj.or.jp",
+      "ignore": false,
+      "titre": "Uchida: AI, Big Data, and Monetary Policy",
+      "impact": "low",
+      "url": "https://www.forexfactory.com/news/1429845-uchida-ai-big-data-and-monetary-policy"
+    },
+    {
       "url": "https://www.forexfactory.com/news/1429843-anz-commodity-price-index",
       "date_recuperation": "2026-10-05T00:25:28.773411+00:00",
       "impact": "low",
