@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T09:01:27.037561+00:00",
+    "ff_news": "2026-10-05T13:46:26.919004+00:00",
     "cb_articles": "2026-10-05T08:27:56.387237+00:00",
     "il_articles": "2026-10-05T13:19:01.310271+00:00"
   },
   "ff_news": [
+    {
+      "impact": "low",
+      "ignore": false,
+      "extrait": "US service sector business activity surged higher in September, rising at the fastest pace in over five years on the back of a further sharp increase in new orders. Business confidence also strengthened and was at a one-year high, while companies responded to rising workloads by ramping up hiring activity. The strong growth in the sector was accompanied by ...",
+      "date_recuperation": "2026-10-05T13:47:26.919004+00:00",
+      "date_publication": "2026-10-05T13:46:26.919004+00:00",
+      "url": "https://www.forexfactory.com/news/1429973-sharpest-rise-in-us-service-sector-business-activity",
+      "titre": "Sharpest rise in US service sector business activity since July 2021",
+      "source": "pmi.spglobal.com"
+    },
     {
       "source": "ec.europa.eu",
       "titre": "Industrial producer prices up by 1.9% in both the euro area and the EU",
