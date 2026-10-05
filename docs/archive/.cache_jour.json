@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T07:46:28.692641+00:00",
+    "ff_news": "2026-10-05T07:51:29.847092+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
     "il_articles": "2026-10-05T07:30:00.997329+00:00"
   },
   "ff_news": [
+    {
+      "impact": "low",
+      "date_recuperation": "2026-10-05T07:52:29.847092+00:00",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429871-french-services-activity-rebounds-in-september",
+      "titre": "French services activity rebounds in September",
+      "date_publication": "2026-10-05T07:51:29.847092+00:00",
+      "extrait": "September PMI® survey data signalled the first rise in business activity across France's service sector in the year-to-date, although demand weakened further and employment levels were reduced again. Meanwhile, prices charged rose considerably, with inflation its fastest in more than three years. The headline S&P Global France Services PMI Business Activity ..."
+    },
     {
       "impact": "low",
       "url": "https://www.forexfactory.com/news/1429869-growth-of-italian-service-sector-eases-to-slowest",
