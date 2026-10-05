@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T08:50:27.931840+00:00",
+    "ff_news": "2026-10-05T09:01:27.037561+00:00",
     "cb_articles": "2026-10-05T08:27:56.387237+00:00",
     "il_articles": "2026-10-05T08:53:40.645818+00:00"
   },
   "ff_news": [
+    {
+      "source": "ec.europa.eu",
+      "titre": "Industrial producer prices up by 1.9% in both the euro area and the EU",
+      "extrait": "In August 2026, compared with July 2026, industrial producer prices increased by 1.9% in both the euro area and the EU, according to first estimates from Eurostat, the statistical office of the European Union. In July 2026, industrial producer prices grew by 1.6% in the euro area and by 1.4% in the EU. In August 2026, compared with August 2025, industrial ...",
+      "date_publication": "2026-10-05T09:01:27.037561+00:00",
+      "url": "https://www.forexfactory.com/news/1429880-industrial-producer-prices-up-by-19-in-both",
+      "ignore": false,
+      "date_recuperation": "2026-10-05T09:02:27.037561+00:00",
+      "impact": "low"
+    },
     {
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1429879-saudi-east-west-pipeline-stopped-due-to-new-attack",
