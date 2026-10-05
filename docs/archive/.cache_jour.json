@@ -1,11 +1,41 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T08:01:25.822926+00:00",
+    "ff_news": "2026-10-05T08:32:30.296557+00:00",
     "cb_articles": "2026-10-05T08:27:56.387237+00:00",
-    "il_articles": "2026-10-05T08:27:56.387237+00:00"
+    "il_articles": "2026-10-05T08:31:20.366187+00:00"
   },
   "ff_news": [
+    {
+      "date_recuperation": "2026-10-05T08:33:30.296557+00:00",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "titre": "Business activity and new work expand, but inflationary pressures intensify",
+      "date_publication": "2026-10-05T08:32:30.296557+00:00",
+      "impact": "low",
+      "extrait": "September data pointed to a further upturn in UK service sector output, which confirmed a sustained rebound in business conditions during the third quarter of 2026. However, new order intakes increased only marginally and job cuts persisted. This partly reflected worries about rising inflationary pressures, as signalled by the fastest rise in input costs ...",
+      "url": "https://www.forexfactory.com/news/1429878-business-activity-and-new-work-expand-but-inflationary"
+    },
+    {
+      "date_publication": "2026-10-05T08:32:28.726056+00:00",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "titre": "UK: Business activity and new work expand, but inflationary pressures intensify",
+      "date_recuperation": "2026-10-05T08:34:28.726056+00:00",
+      "impact": "low",
+      "extrait": "September data pointed to a further upturn in UK service sector output, which confirmed a sustained rebound in business conditions during the third quarter of 2026. However, new order intakes increased only marginally and job cuts persisted. This partly reflected worries about rising inflationary pressures, as signalled by the fastest rise in input costs ...",
+      "url": "https://www.forexfactory.com/news/1429878-uk-business-activity-and-new-work-expand-but"
+    },
+    {
+      "url": "https://www.forexfactory.com/news/1429876-global-economy-has-so-far-defied-rising-interest",
+      "titre": "Global economy has so far defied rising interest rates",
+      "ignore": false,
+      "source": "sentix.de",
+      "date_publication": "2026-10-05T08:31:27.303137+00:00",
+      "impact": "low",
+      "extrait": "The assessment of the global aggregate in the sentix Economic Sentiment Index rose once again in October 2026. This sixth consecutive rise, taking the index to 16.8 points, marks the highest level since February 2022. This is a surprising finding against the backdrop of rising global interest rates, but is largely attributable to the US econo-my and the ...",
+      "date_recuperation": "2026-10-05T08:32:27.303137+00:00"
+    },
     {
       "url": "https://www.forexfactory.com/news/1429875-euro-area-growth-hits-strongest-in-almost-three-and-a-half",
       "titre": "Euro area growth hits strongest in almost three-and-a-half years",
@@ -148,6 +178,18 @@
     }
   ],
   "il_articles": [
+    {
+      "contenu": "Summary\n\nFinal data released by S&P Global - 5 October 2026\n\nPrior 52.5\n\nFinal Composite PMI 52.0 vs 51.7 prelim\n\nPrior 52.5\n\nService sector output rises for third month in a row\n\nInput cost inflation strongest since June amid surging fuel prices\n\nBusiness optimism moderates from August's six month high\n\n\"Moderate output growth was maintained across the UK service economy in September, albeit with a loss of momentum in comparison to August. Moreover, subdued demand conditions and rising inflationary pressures contributed to weaker business activity expectations for the year ahead.\n\n\"New order intakes increased only slightly in September and at the slowest pace for three months. Geopolitical tensions, squeezed consumer budgets and higher borrowing costs were cited as sales headwinds. Resilient demand for technology services remained the main bright spot, while some firms noted receding risk aversion among clients.\n\n\"September data marked two years of continuous cutbacks to employment numbers in the service sector amid ongoing efforts to reduce overheads. However, greater-than-expected business requirements seem to have helped to stem the jobs downturn in recent months, with the latest fall the slowest since October 2025.\n\n\"Surging fuel prices due to the Middle East conflict continued to drive up input cost inflation in September. This led to the sharpest increase in prices charged by service sector companies since May and therefore signalled a clear reversal of the slowdown seen in the middle of 2026.\"",
+      "ignore": false,
+      "titre": "UK September final services PMI 52.1 vs 51.7 prelim",
+      "tags": [
+        "GBP"
+      ],
+      "date_recuperation": "2026-10-05T08:35:33.823100+00:00",
+      "date_publication": "2026-10-05T08:31:20.366187+00:00",
+      "url": "https://investinglive.com/news/uk-september-final-services-pmi-52-1-vs-51-7-prelim/",
+      "categorie": "news"
+    },
     {
       "ignore": false,
       "categorie": "central-banks",
