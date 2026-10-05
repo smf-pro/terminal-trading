@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T07:18:32.072359+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
-    "il_articles": "2026-10-05T06:54:05.068573+00:00"
+    "il_articles": "2026-10-05T07:16:18.036455+00:00"
   },
   "ff_news": [
     {
@@ -85,6 +85,18 @@
     }
   ],
   "il_articles": [
+    {
+      "ignore": false,
+      "titre": "What are the main events for today?",
+      "date_recuperation": "2026-10-05T07:20:22.488913+00:00",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-56/",
+      "date_publication": "2026-10-05T07:16:18.036455+00:00",
+      "contenu": "Summary\n\nThe US ISM Services PMI is the only highlight\n\nEUROPEAN SESSION\n\nIn the European session, we don't have much on the agenda other than the final PMIs for the major Eurozone economies and the UK. The final readings are rarely market-moving because the markets react more to new information. That's why the preliminary reports are the ones that move the markets the most.\n\nWe also get the Eurozone PPI data but that's almost never a market-moving release as it's old news and the ECB is focused on the CPI anyway. As a reminder, the ECB is expected to keep interest rates unchanged in October, with the market pricing a 80% probability of a hold.\n\nAMERICAN SESSION\n\nIn the American session, the only highlight is the US ISM Services PMI which is expected to tick lower to 55.0 vs 55.4 in the prior month. As a reminder, the S&P Global PMIs showed services surging to the highest level since 2021 amid strong business growth, accelerating job gains but also intensifying price pressures.\n\nThe ISM data remains one of the most important economic releases on the calendar, but since the S&P Global PMIs are released earlier, the market-moving potential of the ISM releases has diminished over time. Keep in mind, that the surprsingly strong PMIs have triggered the latest surge in bond yields, with the curve bear steepening as a result of stronger growth.\n\nCENTRAL BANK SPEAKERS\n\n07:00 GMT/03:00 ET - ECB's Kocher (neutral - voter)\n\n07:45 GMT/03:45 ET - ECB's Nagel (hawkish - voter)\n\n08:00 GMT/04:00 ET - ECB's Lane (neutral - voter)\n\n09:00 GMT/05:00 ET - ECB's Schnabel (hawkish - voter)\n\n09:00 GMT/05:00 ET - ECB's Escriva (hawkish - voter)",
+      "tags": [
+        "market overview"
+      ],
+      "categorie": "news"
+    },
     {
       "titre": "Market outlook for the week of 5th-9th October",
       "ignore": false,
