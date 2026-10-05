@@ -2,6 +2,26 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "titre": "French services activity rebounds in September",
+      "ignore": false,
+      "impact": "low",
+      "source": "pmi.spglobal.com",
+      "date_publication": "2026-10-05T07:51:29.847092+00:00",
+      "date_recuperation": "2026-10-05T07:52:29.847092+00:00",
+      "extrait": "September PMI® survey data signalled the first rise in business activity across France's service sector in the year-to-date, although demand weakened further and employment levels were reduced again. Meanwhile, prices charged rose considerably, with inflation its fastest in more than three years. The headline S&P Global France Services PMI Business Activity ...",
+      "url": "https://www.forexfactory.com/news/1429871-french-services-activity-rebounds-in-september"
+    },
+    {
+      "impact": "low",
+      "date_recuperation": "2026-10-05T07:52:29.847092+00:00",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429871-french-services-activity-rebounds-in-september",
+      "titre": "French services activity rebounds in September",
+      "date_publication": "2026-10-05T07:51:29.847092+00:00",
+      "extrait": "September PMI® survey data signalled the first rise in business activity across France's service sector in the year-to-date, although demand weakened further and employment levels were reduced again. Meanwhile, prices charged rose considerably, with inflation its fastest in more than three years. The headline S&P Global France Services PMI Business Activity ..."
+    },
+    {
       "impact": "low",
       "url": "https://www.forexfactory.com/news/1429869-growth-of-italian-service-sector-eases-to-slowest",
       "ignore": false,
