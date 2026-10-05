@@ -1,11 +1,31 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T07:51:29.847092+00:00",
+    "ff_news": "2026-10-05T08:01:25.822926+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
-    "il_articles": "2026-10-05T07:30:00.997329+00:00"
+    "il_articles": "2026-10-05T08:00:19.530441+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1429875-euro-area-growth-hits-strongest-in-almost-three-and-a-half",
+      "titre": "Euro area growth hits strongest in almost three-and-a-half years",
+      "impact": "low",
+      "extrait": "Growth in the eurozone economy continued to gather pace in September, latest PMI® survey data from S&P Global revealed, rounding off a robust third quarter of 2026. Private sector business activity increased at the quickest rate in nearly three-and-a-half years as demand improved and employment rose. The outlook remained relatively moderate, however, while ...",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "date_publication": "2026-10-05T08:01:25.822926+00:00",
+      "date_recuperation": "2026-10-05T08:02:25.822926+00:00"
+    },
+    {
+      "url": "https://www.forexfactory.com/news/1429873-german-service-sector-enjoys-strong-end-to-q3",
+      "titre": "German service sector enjoys strong end to Q3 despite renewed price pressures",
+      "impact": "low",
+      "extrait": "Germany's service sector saw solid growth in business activity in September, supported by a sustained recovery in demand conditions, according to the latest PMI® survey results. Employment meanwhile rose for the second month running, in line with signs of growing capacity pressures and hopes of further growth in activity in the ahead. The upturn came ...",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "date_publication": "2026-10-05T07:57:31.762367+00:00",
+      "date_recuperation": "2026-10-05T07:58:31.762367+00:00"
+    },
     {
       "titre": "French services activity rebounds in September",
       "ignore": false,
@@ -15,16 +35,6 @@
       "date_recuperation": "2026-10-05T07:52:29.847092+00:00",
       "extrait": "September PMI® survey data signalled the first rise in business activity across France's service sector in the year-to-date, although demand weakened further and employment levels were reduced again. Meanwhile, prices charged rose considerably, with inflation its fastest in more than three years. The headline S&P Global France Services PMI Business Activity ...",
       "url": "https://www.forexfactory.com/news/1429871-french-services-activity-rebounds-in-september"
-    },
-    {
-      "impact": "low",
-      "date_recuperation": "2026-10-05T07:52:29.847092+00:00",
-      "source": "pmi.spglobal.com",
-      "ignore": false,
-      "url": "https://www.forexfactory.com/news/1429871-french-services-activity-rebounds-in-september",
-      "titre": "French services activity rebounds in September",
-      "date_publication": "2026-10-05T07:51:29.847092+00:00",
-      "extrait": "September PMI® survey data signalled the first rise in business activity across France's service sector in the year-to-date, although demand weakened further and employment levels were reduced again. Meanwhile, prices charged rose considerably, with inflation its fastest in more than three years. The headline S&P Global France Services PMI Business Activity ..."
     },
     {
       "impact": "low",
@@ -125,6 +135,19 @@
     }
   ],
   "il_articles": [
+    {
+      "categorie": "news",
+      "url": "https://investinglive.com/news/eurozone-september-final-services-pmi-53-0-vs-53-0-prelim/",
+      "tags": [
+        "EUR",
+        "pmi"
+      ],
+      "titre": "Eurozone September final services PMI 53.0 vs 53.0 prelim",
+      "date_publication": "2026-10-05T08:00:19.530441+00:00",
+      "contenu": "Summary\n\nLatest data released by S&P Global - 5 October 2026\n\nEurozone September final services PMI 53.0 vs 53.0 prelim\n\nPrior 51.6\n\nEurozone September final composite PMI 53.1 vs 53.1 prelim\n\nPrior 52.0\n\nThe breakdownMore to follow...",
+      "date_recuperation": "2026-10-05T08:00:25.860391+00:00",
+      "ignore": false
+    },
     {
       "categorie": "education",
       "tags": [
