@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T00:30:28.779774+00:00",
     "cb_articles": "2026-10-05T00:00:00+00:00",
-    "il_articles": "2026-10-05T00:03:02.954430+00:00"
+    "il_articles": "2026-10-05T00:38:39.411897+00:00"
   },
   "ff_news": [
     {
@@ -29,6 +29,18 @@
   ],
   "cb_articles": [],
   "il_articles": [
+    {
+      "titre": "ANZ commodity index rises 0.6% in September as oil surge lifts milk powder and aluminium",
+      "url": "https://investinglive.com/news/anz-commodity-index-rises-0-6-in-september-as-oil-surge-lifts-milk-powder-and-aluminium/",
+      "tags": [
+        "NZD"
+      ],
+      "categorie": "news",
+      "date_recuperation": "2026-10-05T00:40:31.615311+00:00",
+      "contenu": "Summary\n\nANZ's world commodity price index for New Zealand rose 0.6% in September as surging oil and gas prices lifted milk powder and aluminium, while a weaker kiwi dollar pushed the index in local currency terms up 2.8%, boosting local export returns.\n\nOil is the main channel here. The surge in energy prices tied to the Middle East conflict lifted milk powder and aluminium, the main drivers of September's gains. Combined with a weaker New Zealand dollar, that gives exporters a solid boost in local-currency returns, which supports farm incomes and the terms of trade. The flip side is higher import and freight costs, which add to domestic inflation pressure. That could complicate the Reserve Bank of New Zealand's task. If US rates keep pressuring the kiwi lower, the local-currency boost to export earnings is likely to persist. Any easing in oil prices, however, could quickly reverse milk powder's run.\n\nOil is doing New Zealand's dairy farmers a favour and a weak kiwi is doubling it, though the same conflict is pushing up the freight bill.\n\nThe ANZ World Commodity Price Index rose 0.6% m/m in September and is up 1.0% y/y, with gains in most categories.\n\nThe rise was largely driven by sharply higher oil and gas prices.\n\nSkim milk powder jumped 9.2% m/m and is up 41.1% y/y. Butter fell 5.1%.\n\nAluminium rose 1.1% on Middle East supply disruption. Freight costs also rose.\n\nThe NZD index rose 2.8% as the New Zealand dollar weakened, partly on higher US interest rates.\n\nNew Zealand's export commodity prices rose in September, ANZ Research said. The increase was lifted largely by a sharp rise in oil and gas prices tied to the Middle East conflict, while a weaker New Zealand dollar magnified the gains for local exporters.\n\nThe ANZ World Commodity Price Index rose 0.6% from August and is up 1.0% on a year earlier. Prices gained across most categories, with only beef and milk fat declining.\n\nDairy prices rose 1.0%, driven again by skim milk powder, which jumped 9.2% in the month and is up more than 40% from a year ago. ANZ said milk powder prices are tracking oil prices more closely, while butter, down 5.1% in September, is responding to stronger milk production in the Northern Hemisphere.\n\nThe meat and fibre index slipped 0.8% as lower beef prices outweighed gains elsewhere, while horticulture and forestry both firmed. Aluminium rose 1.1% and is up around 23% on the year, supported by tight supply as Middle East production and exports remain disrupted.\n\nThe conflict is also showing up in costs. Freight rates have climbed on disruption in the region. ANZ said higher shipping costs are preventing modestly stronger overseas log prices from flowing through to New Zealand harvesters and exporters.\n\nIn local currency terms, the picture was considerably stronger. The NZD Commodity Price Index rose 2.8% as the New Zealand dollar weakened through September, partly because of higher US interest rates. That boosts export prices in local terms, though ANZ noted it comes at the expense of dearer imports.\n\nThe report suggests the Middle East conflict is cutting both ways for New Zealand, supporting prices for energy-linked exports such as milk powder and aluminium while adding to freight and import costs. ANZ's next update is due on November 4.",
+      "date_publication": "2026-10-05T00:38:39.411897+00:00",
+      "ignore": false
+    },
     {
       "url": "https://investinglive.com/forex/mufg-recommends-short-eur-jpy-targets-172-as-french-bond-stress-and-boj-hikes-weigh/",
       "categorie": "forex",
