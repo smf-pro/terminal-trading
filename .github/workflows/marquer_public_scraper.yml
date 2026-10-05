@@ -1,10 +1,10 @@
-name: Marquer Public
+name: Marquer public (retard 7 jours)
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "30 8 * * *"   # une fois par jour, apres la remise a zero du quota (~07h UTC)
   workflow_dispatch: {}
 concurrency:
-  group: marquer_public
+  group: marquer-public
   cancel-in-progress: false
 permissions:
   contents: write
@@ -13,7 +13,6 @@ jobs:
     uses: ./.github/workflows/run-script.yml
     with:
       script: marquer_public_cloud.py
-      label: marquer_public
-      timeout_minutes: 10
-      commit: false
+      label: marquer-public
+      timeout_minutes: 15
     secrets: inherit
