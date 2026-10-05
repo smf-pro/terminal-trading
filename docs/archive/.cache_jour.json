@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T00:30:28.779774+00:00",
     "cb_articles": "2026-10-05T00:42:30.490229+00:00",
-    "il_articles": "2026-10-05T00:42:30.490229+00:00"
+    "il_articles": "2026-10-05T00:45:50.872957+00:00"
   },
   "ff_news": [
     {
@@ -44,6 +44,19 @@
     }
   ],
   "il_articles": [
+    {
+      "date_publication": "2026-10-05T00:45:50.872957+00:00",
+      "tags": [
+        "JPY",
+        "Economics"
+      ],
+      "date_recuperation": "2026-10-05T00:50:32.739500+00:00",
+      "url": "https://investinglive.com/news/japan-services-pmi-eases-to-51-3-as-hiring-picks-up-and-price-pressures-stay-intense/",
+      "contenu": "Summary\n\nJapan's services PMI eased to 51.3 in September from a five-month high of 52.5, but hiring rose at the fastest pace since February and output prices climbed sharply, with S&P Global saying the BOJ could hike rates again as soon as October.\n\nThe survey leans hawkish for the BOJ despite softer headline growth. Output price inflation near record highs, rising payrolls and building backlogs point to capacity pressure that supports the case for another hike. S&P Global explicitly flags October as possible, which may firm up market pricing for a near-term move. That's supportive for the yen and a source of upward pressure on front-end JGB yields. Oil was named among the cost drivers, so the Middle East energy shock is feeding directly into Japanese service prices, reinforcing the inflation case. Weak export demand and earthquake disruption are the main soft spots that could give the BOJ pause.\n\nJapan's service sector is growing more slowly, but rising wages, hiring and prices are giving the BOJ every reason to keep hiking.\n\nThe S&P Global Japan Services PMI eased to 51.3 in September from a five-month high of 52.5, a fourth month of expansion.\n\nNew orders rose more slowly, supported by domestic demand, while export orders fell sharply. The Kumamoto earthquake disrupted some activity.\n\nEmployment rose at the fastest pace since February and backlogs at the steepest rate in seven months. Optimism hit its highest since June.\n\nInput cost inflation eased to a six-month low but stayed sharp. Output prices rose at one of the fastest rates on record.\n\nThe composite PMI slipped to 52.3 from 53.5. S&P Global said the BOJ could raise rates again, possibly in October.\n\nGrowth in Japan's services sector slowed in September but stayed in expansion, according to the S&P Global Japan Services PMI released on Monday. Hiring picked up and price pressures remained intense, and S&P Global suggested the data could support another Bank of Japan rate hike as soon as this month.\n\nThe Services Business Activity Index eased to 51.3 from a five-month high of 52.5 in August. It remained above the 50 threshold that separates growth from contraction for a fourth straight month. The pace of growth was modest and below the average so far this year. New orders also rose at a softer rate, supported by domestic demand, while new export business continued to fall sharply. Some firms reported softer than expected customer demand, and disruption from the Kumamoto earthquake weighed on activity in some areas.\n\nEmployment was a bright spot. Service providers added staff for a 13th consecutive month and at the fastest pace since February, as backlogs of work rose at the steepest rate in seven months. Business confidence about the year ahead climbed to its highest level since June.\n\nInput cost inflation eased to a six-month low but remained sharp, with firms citing higher costs for raw materials, staff, oil and food. Prices charged by service providers rose at one of the fastest rates in the survey's history.\n\nThe Composite Output Index, covering manufacturing and services, slipped to 52.3 from 53.5. That marked an 18th straight month of growth but the slowest pace since May.\n\nS&P Global said rapid cost and price increases across the economy point to further upward pressure on consumer inflation, which stood at 1.9% in August, just below the BOJ's 2% target. It linked those increases partly to the war in the Middle East and the weak yen. Together with relatively solid growth, it said, this suggests the central bank could raise rates again, possibly at its October meeting.",
+      "categorie": "news",
+      "ignore": false,
+      "titre": "Japan services PMI eases to 51.3 as hiring picks up and price pressures stay intense"
+    },
     {
       "url": "https://investinglive.com/central-banks/boj-s-uchida-says-ai-is-a-big-demand-shock-lifting-prices-warns-of-correction-risk/",
       "date_recuperation": "2026-10-05T00:45:24.526960+00:00",
