@@ -2,6 +2,16 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "titre": "Saudi East-West Pipeline Stopped Due To New Attack",
+      "url": "https://www.forexfactory.com/news/1429879-saudi-east-west-pipeline-stopped-due-to-new-attack",
+      "source": "@FirstSquawk",
+      "date_publication": "2026-10-05T08:50:27.931840+00:00",
+      "impact": "low",
+      "extrait": "Saudi East-west Pipeline Stopped Due To New Attack.",
+      "ignore": false,
+      "date_recuperation": "2026-10-05T08:51:27.931840+00:00"
+    },
+    {
       "date_recuperation": "2026-10-05T08:33:30.296557+00:00",
       "source": "pmi.spglobal.com",
       "ignore": false,
