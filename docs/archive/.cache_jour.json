@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T01:20:20.786026+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
-    "il_articles": "2026-10-05T02:47:18.845654+00:00"
+    "il_articles": "2026-10-05T03:12:31.045213+00:00"
   },
   "ff_news": [
     {
@@ -65,6 +65,19 @@
     }
   ],
   "il_articles": [
+    {
+      "url": "https://investinglive.com/forex/japan-officials-toughen-tone-on-yen-as-usd-jpy-holds-near-158/",
+      "titre": "Japan officials toughen tone on yen as USD/JPY holds near 158",
+      "date_publication": "2026-10-05T03:12:31.045213+00:00",
+      "categorie": "forex",
+      "contenu": "Summary\n\nJapanese officials have shifted their rhetoric to support the yen and signal BOJ tightening, but USD/JPY holds near 158 on high US yields and haven demand; Reuters analysis suggests the pair may have topped below 160, with 152.89 key support.\n\nTokyo's coordinated messaging adds a political layer to the yen story. The government appears to be preparing the ground for further BOJ tightening and warning against yen weakness, which raises the bar for USD/JPY to push toward 160. For now, high US yields and haven demand for the dollar are overpowering the rhetoric, and oil above $100 is a key part of that support. A break of the September 8 low near 152.89 would be the technical signal that the narrative has shifted. Easing Middle East tensions, softer US data or a hawkish BOJ surprise could all be catalysts. Equity investors should note that a stronger yen would weigh on Japan's exporters, a counterweight to the current AI-led rally.\n\nTokyo is talking up the yen and talking down deflation, but until US yields and oil cool, the dollar is not listening.\n\nEconomy MinisterKiuchi said Japan is no longer in deflationand doesn't need excessively loose monetary policy.\n\nFinance Minister Katayama called for a review of 200 government funds worth around 7 trillion yen. She said the government is not reflationist and that Japan and the US are ready to act against FX volatility.\n\nUSD/JPY has barely reacted, holding around 158 now on high US yields and haven demand.\n\nMarkets see a BOJ hike possible in December and more likely by March, narrowing the gap with the Fed.\n\nReuters analysis suggests USD/JPY may have topped below 160. Key support is at 152.89, then 150.00.\n\nA shift in tone from Japanese officials suggests Prime Minister Sanae Takaichi's government is trying to change market sentiment on the yen and Bank of Japan policy, according to Reuters analysis. The currency, though, has so far shown little response.\n\nOn Friday, Economy Minister Minoru Kiuchi said Japan was no longer in deflation and therefore did not need excessively loose monetary policy. Finance Minister Satsuki Katayama called for a review and streamlining of 200 government-controlled funds worth around 7 trillion yen, a move that may be aimed at encouraging more domestic investment. She also reiterated that the government is not reflationist. She said Japan and the United States stand ready to act decisively against excessive currency volatility, which is widely understood to mean a weak yen.\n\nThe reaction in USD/JPY has been muted. Even Friday's soft US jobs report, which reduced expectations of an October Federal Reserve rate hike, had little lasting effect. The pair remains firm around 157, supported by still-high US Treasury yields and safe-haven demand for the dollar amid geopolitical tensions and elevated oil prices.\n\nThe policy outlook, however, is shifting in the yen's favour. The Fed is still expected to raise rates again in December, but a Bank of Japan hike is also possible that month. And while some see scope for another Fed increase next year, markets appear more confident of a further BOJ hike in March, narrowing the policy gap between the two.\n\nAgainst that backdrop, Reuters analysis suggests USD/JPY may have topped out below 160, with the balance of risks tilting toward renewed yen strength. Key support sits at the September 8 spike low of 152.89. A break below that level would likely put 150.00 in focus for speculators.\n\nThe main risk to that view is the dollar's haven appeal. A further escalation in Middle East tensions, or another leg higher in oil, could keep USD/JPY supported regardless of the change in Tokyo's tone.",
+      "ignore": false,
+      "date_recuperation": "2026-10-05T03:15:27.381591+00:00",
+      "tags": [
+        "JPY",
+        "BOJ"
+      ]
+    },
     {
       "date_recuperation": "2026-10-05T02:50:22.033630+00:00",
       "ignore": false,
