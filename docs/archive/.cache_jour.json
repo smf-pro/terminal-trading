@@ -1,11 +1,21 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T14:01:28.822565+00:00",
+    "ff_news": "2026-10-05T16:13:30.871033+00:00",
     "cb_articles": "2026-10-05T08:27:56.387237+00:00",
     "il_articles": "2026-10-05T15:37:46.227941+00:00"
   },
   "ff_news": [
+    {
+      "source": "politico.com",
+      "titre": "Trump plans executive order seeking to bring down high diesel costs",
+      "url": "https://www.forexfactory.com/news/1430006-trump-plans-executive-order-seeking-to-bring-down",
+      "date_recuperation": "2026-10-05T16:14:30.871033+00:00",
+      "extrait": "President Donald Trump plans to announce a slate of executive actions Monday that include directing the Treasury Department to review possible ways to lower record-high diesel prices while urging more state action to address the painful fuel costs that are weighing on Republicans ahead of the midterms, according to three people familiar with the plans. ...",
+      "ignore": false,
+      "date_publication": "2026-10-05T16:13:30.871033+00:00",
+      "impact": "low"
+    },
     {
       "ignore": false,
       "extrait": "Economic activity in the services sector continued to expand in September, say the nation's purchasing and supply executives in the latest ISM® Services PMI® Report. The Services PMI® registered 54.9 percent, the 27th consecutive month in expansion territory. The report was issued today by Steve Miller, CPSM, CSCP, Chair of the Institute for Supply Management® (ISM®) Services Business Survey Committee: \"In September, the Services PMI® registered 54.9 percent, a decrease of 0.5 percentage point compared to August's figure of 55.4 percent. The Business Activity Index remained in expansion territory in September, decreasing 5.2 percentage points to 56.5 percent from August's reading of 61.7 percent. The New Orders Index registered 59.8 percent, 1.1 percentage points below August's figure of 60.9 percent. The Employment Index moved into expansion territory for the first time in three months with a reading of 50.1 percent, a 2.3-percentage point increase from the 47.8 percent recorded in August. \"The Supplier Deliveries Index registered 53.2 percent, 1.9 percentage points higher than the 51.3 percent recorded in August. This is the 22nd consecutive month that the index has been in expansion territory, indicating slower supplier delivery performance. (Supplier Deliveries is the only ISM® PMI® Reports index that is inversed; a reading of above 50 percent indicates slower deliveries, which is typical as the economy improves and customer demand increases.)Us Sep Ism Services Pmi 54.9 (55.4 Aug) Us Sep Ism Services Employment 50.1 (47.8 Aug) Us Sep Ism Services Production 56.5 (61.7 Aug) Us Sep Ism Services New Orders 59.8 (60.9 Aug) Us Sep Ism Services Prices Paid 74.0 (72.6 Aug)",
