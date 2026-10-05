@@ -1,11 +1,22 @@
 {
   "date": "2026-10-05",
   "curseurs": {
-    "ff_news": "2026-10-05T00:00:00+00:00",
+    "ff_news": "2026-10-05T00:24:28.773411+00:00",
     "cb_articles": "2026-10-05T00:00:00+00:00",
     "il_articles": "2026-10-05T00:03:02.954430+00:00"
   },
-  "ff_news": [],
+  "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1429843-anz-commodity-price-index",
+      "date_publication": "2026-10-05T00:24:28.773411+00:00",
+      "titre": "ANZ Commodity Price Index",
+      "extrait": "The ANZ World Commodity Price Index rose 0.6% m/m in September. Commodity prices rose across most categories, with only beef and milk fat prices falling. The overall index is up 1.0% y/y. Strength in global commodity prices can largely be traced to oil and gas prices, which increased sharply in September. Skim milk powder prices have strengthened most ...",
+      "ignore": false,
+      "date_recuperation": "2026-10-05T00:25:28.773411+00:00",
+      "impact": "low",
+      "source": "anz.co.nz"
+    }
+  ],
   "cb_articles": [],
   "il_articles": [
     {
