@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-05T05:23:31.979719+00:00",
     "cb_articles": "2026-10-05T02:33:20.386096+00:00",
-    "il_articles": "2026-10-05T05:13:23.707127+00:00"
+    "il_articles": "2026-10-05T06:54:05.068573+00:00"
   },
   "ff_news": [
     {
@@ -75,6 +75,19 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "Market outlook for the week of 5th-9th October",
+      "ignore": false,
+      "categorie": "forex",
+      "date_publication": "2026-10-05T06:54:05.068573+00:00",
+      "url": "https://investinglive.com/forex/market-outlook-for-the-week-of-5th-9th-october/",
+      "tags": [
+        "CAD",
+        "USD"
+      ],
+      "date_recuperation": "2026-10-05T06:55:27.556664+00:00",
+      "contenu": "Summary\n\nThis week's highlight will be Canada's labor market data\n\nThere's a light week ahead, as is usually the case following the NFP. Monday starts with services PMI releases for the Eurozone, the U.K., and the U.S.\n\nOn Tuesday, BoJ Governor Ueda will speak at the National Securities Conference in Tokyo, while Australia will get the Westpac consumer sentiment report.\n\nOn Wednesday, Japan will release the average cash earnings y/y and the leading indicators. In the U.S., the focus will be on the FOMC meeting minutes and on Thursday, we'll get the unemployment claims figures.\n\nFinally, on Friday, Canada will publish the employment change data and the unemployment rate, while the U.S. will release the preliminary UoM consumer sentiment and preliminary UoM inflation expectations.\n\nSome FOMC members are expected to deliver remarks throughout the week.\n\nIn the U.S., the consensus for the final services PMI is 58.7 vs. the prior 58.7, while the ISM services PMI is expected at 55.1 vs. 55.4 previously. September's services figures are still expected to remain in expansionary territory, but will show some moderation following last month’s strong reading.\n\nRecent regional Federal Reserve surveys point to softer business conditions and the nearly four-point increase in new orders recorded in August will be difficult to repeat. The employment component could also weaken somewhat following September payroll data, which showed relatively modest job creation across service-providing industries.\n\nThe focus is likely to be on the prices paid component, which is expected to remain elevated. The latest ISM manufacturing report showed continued pressure on input costs and regional surveys have also pointed to firmer price measures across the services sector.\n\nThat said, higher input prices should not be viewed as a direct indication of where consumer inflation is headed. The services prices measure has historically been a more useful gauge of core inflation trends than its manufacturing counterpart, but higher costs do not necessarily translate fully into higher prices for consumers.\n\nRecent business commentary suggests that many firms are resisting price increases by absorbing at least part of the increase through narrower margins, Wells Fargo analysts said.\n\nIn Australia, consumer sentiment is expected to remain deeply pessimistic after the September report showed a major 5.2% decline to 84.4. The main drivers were renewed pressure on households from higher fuel costs and growing concerns about an imminent rise in interest rates. Weakness in the housing market has also added to consumer unease.\n\nSeveral developments during the survey period reinforced these concerns. The RBA raised the cash rate by 25 bps to 4.6% during the survey week, while average national petrol prices climbed above $2.36 per liter. With global supply disruptions showing little sign of easing, fuel costs remain a major source of concern.\n\nThe September FOMC minutes are likely to offer limited guidance on the Fed’s rate path, given the absence of explicit forward guidance. Policymakers remained primarily focused on inflation, with 15 participants seeing upside risks to core PCE, while the labor market was broadly viewed as near full employment.\n\nThe Summary of Economic Projections (SEP) showed a median expectation for one additional hike in 2026, followed by a hold through 2027, although views were divided. Since the meeting, softer inflation and a weak jobs report have shifted expectations in a more dovish direction.\n\nRecent comments from some FOMC members pointed to less urgency for further hikes, although these developments came after the meeting and therefore will not be reflected in the minutes. The key focus will be on whether this opinion was already evident during the September discussion.\n\nIn Canada, the consensus for employment change is 9.0K vs. the prior -41.7K, while the unemployment rate is expected to rise from 6.4% to 6.5%. The September jobs report will offer the first full-month read on labor-market conditions since U.S. Section 338 tariffs took effect on Aug. 22nd.\n\nAnalysts from RBC expect employment to have risen by just 5,000, suggesting that tariffs may have only stalled labor market progress without reversing it. They also expect the unemployment rate to remain unchanged at 6.4%, while recent population revisions are likely to make headline employment figures more volatile.\n\nWith most Canadian exports to the U.S. still tariff-free, the impact is expected to remain concentrated in the more exposed provinces. Despite the trade headwinds, solid domestic demand and recent GDP growth are expected to support a gradual labor market recovery through 2026."
+    },
     {
       "titre": "Bond yields remain the market’s pressure point even after soft US jobs report",
       "ignore": false,
