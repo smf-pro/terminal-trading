@@ -2,7 +2,7 @@
   "date": "2026-10-05",
   "curseurs": {
     "ff_news": "2026-10-05T08:01:25.822926+00:00",
-    "cb_articles": "2026-10-05T02:33:20.386096+00:00",
+    "cb_articles": "2026-10-05T08:27:56.387237+00:00",
     "il_articles": "2026-10-05T08:00:19.530441+00:00"
   },
   "ff_news": [
@@ -108,6 +108,19 @@
     }
   ],
   "cb_articles": [
+    {
+      "date_recuperation": "2026-10-05T08:28:28.412260+00:00",
+      "contenu": "Summary\n\nECB governing council member, Joachim Nagel, sees no inflation spiral yet, giving the ECB room to wait before tightening again\n\nECB policymaker Nagel is still worried about the inflation outlook, although his latest comments don't sound like a signal that the central bank needs to rush into another rate hike later this month.\n\nInflation risks remain tilted to the upside\n\nHigher energy prices could keep inflation elevated for longer\n\nThere are no clear signs of second-round effects taking hold just yet\n\nLonger-term inflation expectations remain broadly anchored around the ECB's 2% target\n\nThe ECB should remain flexible and respond to incoming data\n\nThe main takeaway here is that Nagel signalled that there is still an absence of \"inflation feeding through to price and wage setting\". That plays down concerns about second-round effects and is a hint that the ECB has more room to wait in October, even as policymakers keep the door open to another move later this year.\n\nAs things stand, the ECB continues to want to avoid seeing the temporary energy shock turning into something more persistent. And with euro area inflation already hitting 3.8% in September, the risks of that are growing. If companies start passing those costs through more aggressively and workers respond by demanding higher wages, inflation becomes much harder to bring back down.\n\nBut for now at least, Nagel maintains that we aren't there yet.\n\nThat fits with how markets are feeling, with roughly a 79% chance of no rate hike priced in October. However, December is a different story.\n\nMarkets are still pricing around a 66% chance of a rate hike by then and that is where Nagel's comments also can be read the other way. He maintained that inflation risks are still tilted to the upside and that the central ban should be flexible in responding to the latest economic developments.\n\nIn other words, there is a heavy suggestion there of sounding more like an argument for patience.\n\nI would frame it as being a hint that October looks more and more like a pause. Meanwhile, December remains very much in play.",
+      "ignore": false,
+      "url": "https://investinglive.com/central-banks/ecb-policymaker-nagel-keeps-december-rate-hike-in-play-despite-case-for-october-pause/",
+      "titre": "ECB policymaker Nagel keeps December rate hike in play despite case for October pause",
+      "date_publication": "2026-10-05T08:27:56.387237+00:00",
+      "tags": [
+        "ECB",
+        "EUR",
+        "interest rates"
+      ]
+    },
     {
       "date_publication": "2026-10-05T02:33:20.386096+00:00",
       "date_recuperation": "2026-10-05T02:34:24.305353+00:00",
