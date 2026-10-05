@@ -2,6 +2,16 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "ignore": false,
+      "extrait": "Economic activity in the services sector continued to expand in September, say the nation's purchasing and supply executives in the latest ISM® Services PMI® Report. The Services PMI® registered 54.9 percent, the 27th consecutive month in expansion territory. The report was issued today by Steve Miller, CPSM, CSCP, Chair of the Institute for Supply Management® (ISM®) Services Business Survey Committee: \"In September, the Services PMI® registered 54.9 percent, a decrease of 0.5 percentage point compared to August's figure of 55.4 percent. The Business Activity Index remained in expansion territory in September, decreasing 5.2 percentage points to 56.5 percent from August's reading of 61.7 percent. The New Orders Index registered 59.8 percent, 1.1 percentage points below August's figure of 60.9 percent. The Employment Index moved into expansion territory for the first time in three months with a reading of 50.1 percent, a 2.3-percentage point increase from the 47.8 percent recorded in August. \"The Supplier Deliveries Index registered 53.2 percent, 1.9 percentage points higher than the 51.3 percent recorded in August. This is the 22nd consecutive month that the index has been in expansion territory, indicating slower supplier delivery performance. (Supplier Deliveries is the only ISM® PMI® Reports index that is inversed; a reading of above 50 percent indicates slower deliveries, which is typical as the economy improves and customer demand increases.)Us Sep Ism Services Pmi 54.9 (55.4 Aug) Us Sep Ism Services Employment 50.1 (47.8 Aug) Us Sep Ism Services Production 56.5 (61.7 Aug) Us Sep Ism Services New Orders 59.8 (60.9 Aug) Us Sep Ism Services Prices Paid 74.0 (72.6 Aug)",
+      "titre": "US Services PMI at 54.9%; September 2026 ISM Services PMI Report",
+      "impact": "low",
+      "date_publication": "2026-10-05T14:01:28.822565+00:00",
+      "url": "https://www.forexfactory.com/news/1429978-us-services-pmi-at-549-september-2026-ism",
+      "date_recuperation": "2026-10-05T14:02:28.822565+00:00",
+      "source": "prnewswire.com"
+    },
+    {
       "source": "pmi.spglobal.com",
       "impact": "low",
       "date_publication": "2026-10-05T13:46:26.919004+00:00",
@@ -203,6 +213,18 @@
     }
   ],
   "il_articles": [
+    {
+      "ignore": false,
+      "titre": "ISM non- manufacturing PMI 54.9 versus 55.2 estimate",
+      "tags": [
+        "USD"
+      ],
+      "contenu": "Summary\n\nISM non manufacturing PMI for September 2026\n\nPrior month nonmanufacturing services PMI 55.4\n\nDetails from a ISM\n\nBusiness activity: 56.5 vs 61.7\n\nNew orders: 59.8 vs 60.9\n\nEmployment: 50.1 vs 47.8\n\nPrices: 74.0 vs 72.6\n\nSupplier deliveries: 53.2 vs 51.3\n\nBacklog of orders: 56.6 vs 55.6\n\nInventories: 57.8 vs 56.7\n\nNew export orders: 46.9 vs 56.3\n\nImports: 52.9 vs 56.3\n\nInventory sentiment: 51.7 vs 54.1\n\nThe US services sector continued to expand in September, although the pace eased. According to the Institute for Supply Management (ISM), theServices PMI slipped to 54.9 from 55.4, marking the27th consecutive month of expansion. The details were mixed: business activity slowed, employment returned to slight expansion, and price pressures intensified.\n\nBusiness activity fell5.2 points to 56.5, while new orders eased to59.8, still indicating solid demand. Employment edged above the50dividing line to50.1after two months of contraction. Backlogs increased to56.6, their highest reading since July 2022, suggesting businesses still have work to get through. Growth also broadened, with13 industries expanding versus 12 in August.\n\nThe inflation side remains a concern. The prices index increased to74.0, its highest level since July 2022. Fuel costs were the most frequently cited issue affecting respondents, with tariffs and supply constraints also putting pressure on costs and delivery times. Supplier deliveries slowed further, while new export orders dropped sharply into contraction at46.9.\n\nQuick analysis:Growth cooled, but the services sector continues to expand—and the inflation pressure is moving in the wrong direction. That combination could keep the Fed cautious about easing policy. Higher prices and improving employment could support US yields and the dollar, although the slowdown in activity and weaker export orders provide an offset. For stocks, continued demand is encouraging, but rising costs and higher yields could limit the benefit. The question going forward is whether businesses can work through rising backlogs without adding more price pressure.\n\nWhat this report measures:The ISM Services Purchasing Managers’ Index (PMI) is a monthly survey measuring changes in business conditions across service industries. Readings above 50 generally indicate expansion, while readings below 50 indicate contraction; these are index levels, not percentage growth rates. The supplier deliveries index works differently: above 50 indicates slower deliveries, which can reflect strong demand or supply disruptions.",
+      "url": "https://investinglive.com/news/ism-non-manufacturing-pmi-54-9-versus-55-2-estimate/",
+      "date_publication": "2026-10-05T14:04:17.140947+00:00",
+      "date_recuperation": "2026-10-05T14:05:28.104467+00:00",
+      "categorie": "news"
+    },
     {
       "tags": [
         "USD"
