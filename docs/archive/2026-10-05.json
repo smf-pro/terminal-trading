@@ -2,6 +2,36 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429878-business-activity-and-new-work-expand-but-inflationary",
+      "extrait": "September data pointed to a further upturn in UK service sector output, which confirmed a sustained rebound in business conditions during the third quarter of 2026. However, new order intakes increased only marginally and job cuts persisted. This partly reflected worries about rising inflationary pressures, as signalled by the fastest rise in input costs ...",
+      "date_recuperation": "2026-10-05T08:33:30.296557+00:00",
+      "titre": "Business activity and new work expand, but inflationary pressures intensify",
+      "date_publication": "2026-10-05T08:32:30.296557+00:00",
+      "impact": "low"
+    },
+    {
+      "source": "pmi.spglobal.com",
+      "titre": "UK: Business activity and new work expand, but inflationary pressures intensify",
+      "url": "https://www.forexfactory.com/news/1429878-uk-business-activity-and-new-work-expand-but",
+      "extrait": "September data pointed to a further upturn in UK service sector output, which confirmed a sustained rebound in business conditions during the third quarter of 2026. However, new order intakes increased only marginally and job cuts persisted. This partly reflected worries about rising inflationary pressures, as signalled by the fastest rise in input costs ...",
+      "date_recuperation": "2026-10-05T08:34:28.726056+00:00",
+      "ignore": false,
+      "date_publication": "2026-10-05T08:32:28.726056+00:00",
+      "impact": "low"
+    },
+    {
+      "source": "sentix.de",
+      "ignore": false,
+      "extrait": "The assessment of the global aggregate in the sentix Economic Sentiment Index rose once again in October 2026. This sixth consecutive rise, taking the index to 16.8 points, marks the highest level since February 2022. This is a surprising finding against the backdrop of rising global interest rates, but is largely attributable to the US econo-my and the ...",
+      "url": "https://www.forexfactory.com/news/1429876-global-economy-has-so-far-defied-rising-interest",
+      "date_recuperation": "2026-10-05T08:32:27.303137+00:00",
+      "titre": "Global economy has so far defied rising interest rates",
+      "date_publication": "2026-10-05T08:31:27.303137+00:00",
+      "impact": "low"
+    },
+    {
       "url": "https://www.forexfactory.com/news/1429875-euro-area-growth-hits-strongest-in-almost-three-and-a-half",
       "titre": "Euro area growth hits strongest in almost three-and-a-half years",
       "impact": "low",
