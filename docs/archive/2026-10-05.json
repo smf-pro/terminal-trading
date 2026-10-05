@@ -2,6 +2,16 @@
   "date": "2026-10-05",
   "ff_news": [
     {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1429879-saudi-east-west-pipeline-stopped-due-to-new-attack",
+      "extrait": "Saudi East-west Pipeline Stopped Due To New Attack.",
+      "date_recuperation": "2026-10-05T08:51:27.931840+00:00",
+      "impact": "low",
+      "date_publication": "2026-10-05T08:50:27.931840+00:00",
+      "titre": "Saudi East-West Pipeline Stopped Due To New Attack",
+      "source": "@FirstSquawk"
+    },
+    {
       "date_recuperation": "2026-10-05T08:33:30.296557+00:00",
       "source": "pmi.spglobal.com",
       "ignore": false,
@@ -173,6 +183,18 @@
     }
   ],
   "il_articles": [
+    {
+      "tags": [
+        "EUR"
+      ],
+      "url": "https://investinglive.com/news/eurozone-sentix-confidence-falls-in-october-as-recovery-optimism-starts-to-fade/",
+      "ignore": false,
+      "date_publication": "2026-10-05T08:53:40.645818+00:00",
+      "date_recuperation": "2026-10-05T08:55:33.813200+00:00",
+      "categorie": "news",
+      "contenu": "Summary\n\nInvestor sentiment slipped more than expected in October, with weaker expectations raising questions over the durability of the recovery\n\nEurozone October Sentix investor confidence 2.7 vs 5.0 expected\n\nPrior 5.1\n\nThe mood among euro area investors has taken a step back in October, with the details being slightly more telling than the headline drop itself.\n\nThe Sentix investor confidence index fell to 2.7 in October from 5.1 in the month before, missing expectations and pulling back from the more than four-year high in September.\n\nThat being said, investors aren't necessarily saying that conditions have suddenly deteriorated. The current situation index was unchanged at -3.3. Instead, it was expectations that took the hit - falling by 5 points to 8.8.\n\nThe readings here offer a more interesting mix to markets alongside thestronger Eurozone PMI figuresreleased earlier today. It is a suggestion that there is a bit of a disconnect starting to emerge.\n\nThere is a sense that the hard part of the recovery story is looking better, but investors are becoming less confident about where things go next from here.\n\nThe risks to the inflation outlook is one of the more obvious headwinds, with euro area inflation jumping bac to 3.8% in September. But there is also borrowing costs staying elevated and fiscal concerns in France are adding another layer of uncertainty.\n\nFor now, I wouldn't say that the Sentix survey deterioration is a signal that the recovery is falling apart. However, it does suggest that after several months of improving sentiment, investors are starting to question just how smooth that recovery will actually be.",
+      "titre": "Eurozone Sentix confidence falls in October as recovery optimism starts to fade"
+    },
     {
       "contenu": "Summary\n\nFinal data released by S&P Global - 5 October 2026\n\nPrior 52.5\n\nFinal Composite PMI 52.0 vs 51.7 prelim\n\nPrior 52.5\n\nService sector output rises for third month in a row\n\nInput cost inflation strongest since June amid surging fuel prices\n\nBusiness optimism moderates from August's six month high\n\n\"Moderate output growth was maintained across the UK service economy in September, albeit with a loss of momentum in comparison to August. Moreover, subdued demand conditions and rising inflationary pressures contributed to weaker business activity expectations for the year ahead.\n\n\"New order intakes increased only slightly in September and at the slowest pace for three months. Geopolitical tensions, squeezed consumer budgets and higher borrowing costs were cited as sales headwinds. Resilient demand for technology services remained the main bright spot, while some firms noted receding risk aversion among clients.\n\n\"September data marked two years of continuous cutbacks to employment numbers in the service sector amid ongoing efforts to reduce overheads. However, greater-than-expected business requirements seem to have helped to stem the jobs downturn in recent months, with the latest fall the slowest since October 2025.\n\n\"Surging fuel prices due to the Middle East conflict continued to drive up input cost inflation in September. This led to the sharpest increase in prices charged by service sector companies since May and therefore signalled a clear reversal of the slowdown seen in the middle of 2026.\"",
       "ignore": false,
