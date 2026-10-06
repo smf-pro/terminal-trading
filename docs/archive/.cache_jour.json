@@ -1,11 +1,31 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T06:47:36.230856+00:00",
+    "ff_news": "2026-10-06T07:17:28.188569+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
     "il_articles": "2026-10-06T07:06:29.270849+00:00"
   },
   "ff_news": [
+    {
+      "impact": "low",
+      "extrait": "EC Pres. von der Leyen: State aid to help households with energy bills must be targeted to those most in needEC Pres. von der Leyen: We will give exporters an extra year under the methane regulationEC Pres. von der Leyen: We will launch a strategic dialogue on European refineries to bring down costs and ensure we have suppliesEC Pres. von der Leyen: We will launch a task force to aggregate energy demand and task a market operator with joint purchasing",
+      "titre": "EC Pres. von der Leyen: State aid to help households with energy bills must be targeted to those most in need",
+      "date_recuperation": "2026-10-06T07:18:28.188569+00:00",
+      "date_publication": "2026-10-06T07:17:28.188569+00:00",
+      "ignore": false,
+      "source": "@financialjuice",
+      "url": "https://www.forexfactory.com/news/1430101-ec-pres-von-der-leyen-state-aid-to"
+    },
+    {
+      "ignore": false,
+      "extrait": "ECBs Lane: When we look forward to how much fiscal policy will support the economy in 2027 and 2028, that will be different from 2026ECBs Lane: The Resilience Of The Economy Means That So Far We Have Not Seen The Materialisation Of The Downside Risk To Activity That Could Have Happened.ECBs Lane: We have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisionsECBs Lane: Widespread fiscal expansion not helping with inflation",
+      "titre": "ECB's Lane: When we look forward to how much fiscal policy will support the economy in 2027 and 2028, that will be different from 2026",
+      "date_recuperation": "2026-10-06T07:17:24.301394+00:00",
+      "date_publication": "2026-10-06T07:16:24.301394+00:00",
+      "impact": "low",
+      "source": "@financialjuice",
+      "url": "https://www.forexfactory.com/news/1430100-ecbs-lane-when-we-look-forward-to-how"
+    },
     {
       "ignore": false,
       "titre": "In August 2026, French manufacturing output rebounded partially (+0.3%)",
