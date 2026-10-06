@@ -1,11 +1,21 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T14:46:31.537028+00:00",
+    "ff_news": "2026-10-06T15:12:28.210649+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
     "il_articles": "2026-10-06T14:24:46.066330+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1430190-bojs-sato-agrees-with-policy-of-adjusting-rates",
+      "extrait": "BoJ's Sato agrees with policy of adjusting rates in stages - KyodoBOJS SATO BACKS FURTHER RATE HIKES, BUT FLAGS WEAK CONSUMPTION BOJ board member Ayano Sato supports gradually raising interest rates, saying tighter policy can contribute to sustainable economic growth, but declined to specify the timing of the next hike. Sato, who opposed a rate hike at Septembers meeting, said the decision reflected concern that consumer spending lacked momentum. Her support for eventual tightening could reinforce the BOJs broader normalization path despite caution over domestic demand.",
+      "source": "@financialjuice",
+      "ignore": false,
+      "date_recuperation": "2026-10-06T15:13:28.210649+00:00",
+      "impact": "low",
+      "titre": "BoJ's Sato agrees with policy of adjusting rates in stages - Kyodo",
+      "date_publication": "2026-10-06T15:12:28.210649+00:00"
+    },
     {
       "date_publication": "2026-10-06T14:46:31.537028+00:00",
       "url": "https://www.forexfactory.com/news/1430180-bowman-modernizing-the-regulatory-and-supervisory-landscape",
