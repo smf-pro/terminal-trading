@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-06T08:48:03.372475+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
-    "il_articles": "2026-10-06T08:48:21.366966+00:00"
+    "il_articles": "2026-10-06T08:54:18.464376+00:00"
   },
   "ff_news": [
     {
@@ -166,6 +166,22 @@
     }
   ],
   "il_articles": [
+    {
+      "date_publication": "2026-10-06T08:54:18.464376+00:00",
+      "url": "https://investinglive.com/education/connecting-the-dots-how-france-s-budget-problems-are-turning-into-the-euro-s-problem/",
+      "titre": "Connecting the dots: How France’s budget problems are turning into the euro’s problem",
+      "ignore": false,
+      "date_recuperation": "2026-10-06T08:55:26.259769+00:00",
+      "contenu": "Summary\n\nFrance’s fiscal stress is no longer just a bond market story as the euro is now starting to feel the pressure too\n\nIn looking at the EUR/USD chart yesterday, it would be easy to write off the drop below 1.1200 as being simply another story about a stronger dollar. However, the euro's slide to a 17-month low around 1.1160 also tells us something about what is happening much closer to home.\n\nQuite simply, France's budget problems are starting to become the euro's problem too.\n\nNow, the concern itself is relatively straightforward. For years, France has been struggling to convince investors that it can meaningfully bring its budget deficit under control - particularly with a divided political backdrop, which makes fiscal tightening even harder to deliver. And that uncertainty has been showing up most clearly in the bond market.\n\nInvestors are currently demanding a bigger premium to hold French government debt over the much safer German bunds, pushing the French-German 10-year yield spread sharply wider. And this is where the story starts to move beyond France itself.\n\nAs the chart shows, EUR/USD fell sharply in early trading yesterday before recovering some ground. The drop saw the pair briefly touch its weakest level since May 2025.\n\nBut you might ask, why should problems with France's budget matter for the euro?\n\nThat is because markets aren't just asking the question of whether France can fix its finances anymore.They are also asking whether rising French borrowing costs could spill over into other parts of the euro area.\n\nIf that were to happen, then this stops being a purely French risk story and starts becoming one about euro area fragmentation risk.\n\nJust think of it as a chain reaction. To start, French fiscal concerns push French bond yields higher. Then, wider spreads will raise questions over whether that pressure could spread to countries such as Italy or Belgium. That in turn makes European assets less attractive at the margin and adds a fundamental reason for investors to reduce their exposure to the euro.\n\nBesides that, there is the ECB angle in looking at this as well.\n\nIf higher borrowing costs lead to tighter financial conditions and begin weighing on growth, the central bank may have less room to keep raising interest rates. And that becomes even more relevant when US Treasury yields remain elevated on the other side of EUR/USD, continuing to offer support to the dollar. It is a double whammy of sorts with more pressure on the euro at home, while higher yields in the US provide a tailwind for the dollar on the other side of the trade.\n\nNow, I wouldn't say that France alone is what caused the euro selloff yesterday. Dollar strength and elevated Treasury yields clearly played their part too. But in falling to a 17-month low, I would argue that French fiscal risk can no longer be treated as an isolated story confined to the bond market. If and when French spreads continue to widen, the euro is going to become one of the clearest places where that stress shows up.",
+      "tags": [
+        "Market wisdom",
+        "investing education",
+        "Market Sentiment",
+        "Bonds",
+        "EUR"
+      ],
+      "categorie": "education"
+    },
     {
       "date_publication": "2026-10-06T08:48:21.366966+00:00",
       "date_recuperation": "2026-10-06T08:50:34.441583+00:00",
