@@ -2,6 +2,16 @@
   "date": "2026-10-06",
   "ff_news": [
     {
+      "date_publication": "2026-10-06T10:09:35.450881+00:00",
+      "titre": "The US and China are discussing reciprocal nuclear site visits - CNN",
+      "ignore": false,
+      "date_recuperation": "2026-10-06T10:11:35.450881+00:00",
+      "url": "https://www.forexfactory.com/news/1430114-the-us-and-china-are-discussing-reciprocal-nuclear",
+      "source": "@financialjuice",
+      "extrait": "The US and China are discussing reciprocal nuclear site visits - CNN",
+      "impact": "low"
+    },
+    {
       "date_recuperation": "2026-10-06T09:17:28.179879+00:00",
       "titre": "BoE's Mann: UK economic demand is not strong, but it is positive",
       "url": "https://www.forexfactory.com/news/1430109-boes-mann-uk-economic-demand-is-not-strong",
