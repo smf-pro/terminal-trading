@@ -1,11 +1,31 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T12:26:36.734063+00:00",
+    "ff_news": "2026-10-06T12:30:35.439918+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
-    "il_articles": "2026-10-06T12:21:30.747744+00:00"
+    "il_articles": "2026-10-06T12:30:30.912708+00:00"
   },
   "ff_news": [
+    {
+      "impact": "low",
+      "titre": "Canadian international merchandise trade, August 2026",
+      "date_publication": "2026-10-06T12:30:35.439918+00:00",
+      "ignore": false,
+      "extrait": "In August, Canada's merchandise exports rose 2.5%, while imports were down 2.0%. As a result, Canada's merchandise trade surplus with the world widened from $787 million in July to $4.2 billion in August. This was the sixth consecutive monthly trade surplus. Consult the \"International trade monthly interactive dashboard\" to explore the most recent results ...",
+      "date_recuperation": "2026-10-06T12:31:35.439918+00:00",
+      "source": "statcan.gc.ca",
+      "url": "https://www.forexfactory.com/news/1430155-canadian-international-merchandise-trade-august-2026"
+    },
+    {
+      "impact": "low",
+      "titre": "U.S. International Trade in Goods and Services, August 2026",
+      "date_publication": "2026-10-06T12:30:35.439918+00:00",
+      "ignore": false,
+      "extrait": "The U.S. Census Bureau and the U.S. Bureau of Economic Analysis announced today that the goods and services deficit was $105.6 billion in August, up $12.7 billion from $92.8 billion in July, revised. August exports were $315.2 billion, $4.5 billion more than July exports. August imports were $420.8 billion, $17.2 billion more than July imports. The August ...",
+      "date_recuperation": "2026-10-06T12:31:35.439918+00:00",
+      "source": "bea.gov",
+      "url": "https://www.forexfactory.com/news/1430156-us-international-trade-in-goods-and-services-august"
+    },
     {
       "url": "https://www.forexfactory.com/news/1430154-china-mofcom-urges-france-germany-not-to-back",
       "source": "@FirstSquawk",
@@ -226,6 +246,42 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "US International Trade balance for August -105.6B vs -102.0B.",
+      "date_publication": "2026-10-06T12:30:30.912708+00:00",
+      "categorie": "news",
+      "ignore": false,
+      "contenu": "Summary\n\nThe US international trade balance details for August 2026\n\nPrior month -92.8 billion",
+      "date_recuperation": "2026-10-06T12:30:26.627756+00:00",
+      "url": "https://investinglive.com/news/us-international-trade-balance-for-august-105-6b-vs-102-0b/",
+      "tags": [
+        "USD"
+      ]
+    },
+    {
+      "titre": "Canada August trade balance $4.20 billion vs $1.55 billion expected",
+      "date_publication": "2026-10-06T12:30:28.943266+00:00",
+      "categorie": "news",
+      "ignore": false,
+      "contenu": "Summary\n\nCanadian August trade balance data - 6 October 2026\n\nPrior was +0.77 billion",
+      "date_recuperation": "2026-10-06T12:30:26.627756+00:00",
+      "url": "https://investinglive.com/news/canada-august-trade-balance-xx-billion-vs-1-55-billion-expected/",
+      "tags": [
+        "CAD"
+      ]
+    },
+    {
+      "titre": "Canada August trade balance $4.20 billion vs $1.55 billion expected",
+      "categorie": "news",
+      "date_publication": "2026-10-06T12:30:28.942963+00:00",
+      "ignore": false,
+      "date_recuperation": "2026-10-06T12:35:36.284048+00:00",
+      "url": "https://investinglive.com/news/canada-august-trade-balance-4-20-billion-vs-1-55-billion-expected/",
+      "contenu": "Summary\n\nCanadian August trade balance data - 6 October 2026\n\nPrior was +0.77 billion (revised to 0.79 billion)\n\nExports: +2.5% MoM. Prior -2.6%\n\nImports: -2.0% MoM. Prior +8.3%\n\nCanada's merchandise trade surplus widened sharply to C$4.2 billion in August, from C$787 million in July, as exports increased while imports declined. The result marked Canada's sixth consecutive monthly trade surplus, with merchandise exports rising 2.5% and imports falling 2.0%.\n\nExports increased across eight of 11 product categories, with energy exports rising 4.7%, their first increase since April. Exports of industrial machinery, equipment and parts jumped 10.1%, while electronic and electrical equipment exports increased 11.0%. Consumer goods exports also rose 6.6%. In real, or volume, terms, total exports increased 2.5%.\n\nImports fell for the first time in seven months, led by an 8.8% decline in motor vehicles and parts. Imports of metal and non-metallic mineral products also dropped 7.0%. Meanwhile, Canada's trade relationship with the United States strengthened notably: exports to the US rose 8.1%, while imports fell 2.5%, widening Canada's US trade surplus to C$11.2 billion, the largest positive monthly change ever recorded in that bilateral trade balance.\n\nThe sharp increase in exports to the United States is particularly notable given the new US tariffs announced in July and implemented toward the end of August. Statistics Canada notes that the tariff announcements may have encouraged businesses to accelerate shipments ahead of the new costs, meaning some of the strength in August exports could reflect trade-timing effects rather than a purely underlying improvement in demand.\n\nThe Canadian dollar's appreciation also affected the data: the currency rose 1.1 US cents on average against the US dollar in August. Measured in US dollars, Canadian exports actually increased 4.0%, while imports fell 0.6%.\n\nFor background, Canada's merchandise trade balance measures the difference between the value of goods exported and imported. A trade surplus means exports exceed imports, while a deficit means imports are larger. Traders monitor the report because trade flows affect economic growth, the Canadian dollar and the country's external position. The August figures also provide an important early indication of how new US tariffs may be changing Canada's trade patterns.",
+      "tags": [
+        "CAD"
+      ]
+    },
     {
       "tags": [
         "USD"
