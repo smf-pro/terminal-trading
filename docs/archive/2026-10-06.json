@@ -3,6 +3,16 @@
   "ff_news": [
     {
       "impact": "low",
+      "source": "ec.europa.eu",
+      "date_recuperation": "2026-10-06T09:03:28.737489+00:00",
+      "url": "https://www.forexfactory.com/news/1430106-volume-of-retail-trade-up-by-01-in",
+      "extrait": "In August 2026, compared with July 2026, the seasonally adjusted retail trade volume increased by 0.1% in both the euro area and the EU, according to first estimates from Eurostat, the statistical office of the European Union. In July 2026, retail trade volume fell by 0.6% in the euro area and by 0.5% in the EU. In August 2026, compared with August 2025, ...",
+      "date_publication": "2026-10-06T09:02:28.737489+00:00",
+      "titre": "Volume of retail trade up by 0.1% in both the euro area and the EU",
+      "ignore": false
+    },
+    {
+      "impact": "low",
       "extrait": "ECB's Rehn: Energy price pressure may persist for some time.ECB's Rehn: I don't see signs of second-round effects.",
       "date_publication": "2026-10-06T08:48:03.372475+00:00",
       "source": "@financialjuice",
