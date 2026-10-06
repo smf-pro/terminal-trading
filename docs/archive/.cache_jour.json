@@ -1,11 +1,21 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T07:17:28.188569+00:00",
+    "ff_news": "2026-10-06T08:31:23.223981+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
     "il_articles": "2026-10-06T07:57:24.421201+00:00"
   },
   "ff_news": [
+    {
+      "date_recuperation": "2026-10-06T08:32:23.223981+00:00",
+      "impact": "low",
+      "source": "pmi.spglobal.com",
+      "ignore": false,
+      "extrait": "The headline seasonally adjusted S&P Global UK Construction Purchasing Managers’ Index™ (PMI®) – an index tracking changes in total industry activity – picked up from 44.3 in August to 46.1 in September, which signalled the least marked downturn in output volumes for eight months. Slower rates of contraction were seen in the residential, commercial and ...",
+      "date_publication": "2026-10-06T08:31:23.223981+00:00",
+      "titre": "Slowest fall in UK construction output since January",
+      "url": "https://www.forexfactory.com/news/1430103-slowest-fall-in-uk-construction-output-since-january"
+    },
     {
       "date_recuperation": "2026-10-06T07:18:28.188569+00:00",
       "ignore": false,
