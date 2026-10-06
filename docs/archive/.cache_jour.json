@@ -1,11 +1,21 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T08:31:23.223981+00:00",
+    "ff_news": "2026-10-06T08:48:03.372475+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
     "il_articles": "2026-10-06T07:57:24.421201+00:00"
   },
   "ff_news": [
+    {
+      "ignore": false,
+      "date_recuperation": "2026-10-06T08:49:03.372475+00:00",
+      "url": "https://www.forexfactory.com/news/1430104-ecbs-rehn-energy-price-pressure-may-persist-for",
+      "extrait": "ECB's Rehn: Energy price pressure may persist for some time.ECB's Rehn: I don't see signs of second-round effects.",
+      "date_publication": "2026-10-06T08:48:03.372475+00:00",
+      "impact": "low",
+      "source": "@financialjuice",
+      "titre": "ECB's Rehn: Energy price pressure may persist for some time"
+    },
     {
       "url": "https://www.forexfactory.com/news/1430103-slowest-fall-in-uk-construction-output-since-january",
       "titre": "Slowest fall in UK construction output since January",
