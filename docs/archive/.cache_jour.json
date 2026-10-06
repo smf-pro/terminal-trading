@@ -1,11 +1,21 @@
 {
   "date": "2026-10-06",
   "curseurs": {
-    "ff_news": "2026-10-06T10:09:35.450881+00:00",
+    "ff_news": "2026-10-06T11:44:26.292387+00:00",
     "cb_articles": "2026-10-06T06:52:45.722131+00:00",
     "il_articles": "2026-10-06T11:19:17.959553+00:00"
   },
   "ff_news": [
+    {
+      "source": "@DeItaone",
+      "extrait": "*china Seeks Talks With Eu To Address Concerns",
+      "date_publication": "2026-10-06T11:44:26.292387+00:00",
+      "ignore": false,
+      "titre": "China Seeks Talks With EU To Address Concerns",
+      "url": "https://www.forexfactory.com/news/1430143-china-seeks-talks-with-eu-to-address-concerns",
+      "date_recuperation": "2026-10-06T11:45:26.292387+00:00",
+      "impact": "medium"
+    },
     {
       "ignore": false,
       "date_publication": "2026-10-06T10:09:35.450881+00:00",
