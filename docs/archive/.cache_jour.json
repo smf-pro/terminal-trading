@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-07T07:55:27.701351+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
-    "il_articles": "2026-10-07T07:49:06.225592+00:00"
+    "il_articles": "2026-10-07T08:22:18.809170+00:00"
   },
   "ff_news": [
     {
@@ -102,6 +102,22 @@
     }
   ],
   "il_articles": [
+    {
+      "date_recuperation": "2026-10-07T08:25:27.797979+00:00",
+      "date_publication": "2026-10-07T08:22:18.809170+00:00",
+      "titre": "Macro pulse: How a stronger US dollar could become part of the tightening cycle",
+      "ignore": false,
+      "tags": [
+        "Market wisdom",
+        "market overview",
+        "Bonds",
+        "forex",
+        "USD"
+      ],
+      "contenu": "Summary\n\nHigher Treasury yields are pushing up the dollar but that strength could end up tightening financial conditions far beyond the US\n\nAs Treasury yields threaten multi-decade highs, it is allowing the US dollar to start flexing its muscles again.\n\nThe dollar enjoyed a good September month, with the dollar index now trading up to its highest levels since April 2025. And if you want to argue from the perspective that the dollar index is largely skewed towards movement in EUR/USD, even the Bloomberg dollar index had rallied recently to its highest levels since June - which at the time was the highest since November last year.\n\nIn short, the connection to Treasury yields, which are continuing to threaten multi-decade highs at around 5.30% today, with a stronger dollar is rather evident. And that combination matters because a stronger dollar can effectively become another form of monetary tightening on its own.\n\nThe easiest way to think about it is to picture the situation from outside the US. For those overseas companies and even governments that borrow in dollars, they will suddenly find that debt to be more expensive to service in their own currencies. Meanwhile, dollar-priced commodities will also become more costly for overseas buyers and higher Treasury yields will make US assets more attractive and in turn pull capital away from emerging markets.\n\nAnd we're already seeing some of that pressure show up. India is one of the clearer examples as the rupee has fallen nearly 7% against the dollar this year. Meanwhile, foreign investors have pulled almost $29 billion from Indian equities as well. Looking across emerging Asia, there are other similar examples too with the rupiah, baht and peso also coming under pressure as high US yields and a stronger dollar reduce the appeal of domestic assets.\n\nAnd I would argue that the important point is that the Fed does not have to keep raising rates for financial conditions to become tighter.\n\nIf Treasury yields stay high, then borrowing costs will remain expensive. And if those higher yields keep underpinning the dollar, then that creates another layer of pressure outside the US.\n\nIn other words, markets can still do some of the tightening on the Fed's behalf even if the central bank decides to leave rates unchanged for now.\n\nThat is why I would not look at dollar strength as just being an FX story. If higher yields keep pushing the dollar higher, then the currency itself can become part of the mechanism through which tighter US financial conditions spread to the rest of the world.",
+      "categorie": "education",
+      "url": "https://investinglive.com/education/macro-pulse-how-a-stronger-us-dollar-could-become-part-of-the-tightening-cycle/"
+    },
     {
       "date_publication": "2026-10-07T07:49:06.225592+00:00",
       "categorie": "technical-analysis",
