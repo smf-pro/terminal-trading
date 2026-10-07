@@ -2,6 +2,16 @@
   "date": "2026-10-07",
   "ff_news": [
     {
+      "impact": "high",
+      "ignore": false,
+      "extrait": "EU states expect no new oil release obligations after G7 pact.",
+      "date_publication": "2026-10-07T07:55:27.701351+00:00",
+      "url": "https://www.forexfactory.com/news/1430331-eu-states-expect-no-new-oil-release-obligations",
+      "date_recuperation": "2026-10-07T07:56:27.701351+00:00",
+      "source": "@financialjuice",
+      "titre": "EU states expect no new oil release obligations after G7 pact"
+    },
+    {
       "date_recuperation": "2026-10-07T07:27:32.856210+00:00",
       "extrait": "Ukraines President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector",
       "ignore": false,
