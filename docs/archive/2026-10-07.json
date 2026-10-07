@@ -2,6 +2,16 @@
   "date": "2026-10-07",
   "ff_news": [
     {
+      "source": "treasurydirect.gov",
+      "titre": "US Treasury Auction Results",
+      "url": "https://www.forexfactory.com/news/1430433-us-treasury-auction-results",
+      "date_recuperation": "2026-10-07T17:03:55.216227+00:00",
+      "extrait": "table",
+      "impact": "low",
+      "date_publication": "2026-10-07T17:02:55.216227+00:00",
+      "ignore": false
+    },
+    {
       "source": "newyorkfed.org",
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1430419-us-short-and-medium-term-inflation-expectations-increase-labor",
@@ -157,6 +167,18 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "The US treasury sells $39 billion of 10 year notes at a high yield of 5.300% versus WI level of 5.317%",
+      "tags": [
+        "Bonds"
+      ],
+      "url": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/",
+      "contenu": "Summary\n\nThe 2nd of three coupon auctions for the week is the 10 year note auction\n\nWI level at the time of the auction: 5.317%\n\nWI level at the time of the auction: 5.317%\n\nHigh yield: 5.300%\n\nHigh yield: 5.300%\n\nWI level at the time of the auction: 5.317%\n\nWI level at the time of the auction: 5.317%\n\nStop-through: 1.7 basis points vs the average of 0.3 basis points\n\nStop-through: 1.7 basis points vs the average of 0.3 basis points\n\nBid to cover: 2.77X vs the average of 2.54X\n\nBid to cover: 2.77X vs the average of 2.54X\n\nDirects: 17.2% vs the average of 17.0%\n\nDirects: 17.2% vs the average of 17.0%\n\nIndirects: 80.34% vs the average of 74.1%\n\nIndirects: 80.34% vs the average of 74.1%\n\nDealers: 2.54% vs the average of 8.8%\n\nDealers: 2.54% vs the average of 8.8%\n\nAuction grade: A\n\nA strong auction across the board. The high yield came in 1.7 basis points below the WI level, showing buyers were willing to accept a lower yield than the market indicated ahead of the auction. Bid to cover was comfortably above average, while indirect bidders took 80.34% of the issue. Direct demand was marginally above average as well. That left dealers with just 2.54%, well below the 8.8% average. The sizable stop-through, strong overall demand and limited dealer takedown support the A grade.",
+      "date_recuperation": "2026-10-07T17:05:41.170206+00:00",
+      "categorie": "news",
+      "date_publication": "2026-10-07T17:03:28.068240+00:00",
+      "ignore": false
+    },
     {
       "titre": "The USD is mostly higher.  What are the technicals telling traders for the EURUSD, USDJPY & GBPUSD?",
       "ignore": false,
