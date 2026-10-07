@@ -1,11 +1,31 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T07:07:23.466998+00:00",
+    "ff_news": "2026-10-07T07:26:32.856210+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T07:14:05.056058+00:00"
   },
   "ff_news": [
+    {
+      "source": "@financialjuice",
+      "titre": "Ukraine President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector",
+      "date_recuperation": "2026-10-07T07:27:32.856210+00:00",
+      "date_publication": "2026-10-07T07:26:32.856210+00:00",
+      "impact": "low",
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1430328-ukraine-president-zelenskiy-russia-launched-one-of-its",
+      "extrait": "Ukraines President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector"
+    },
+    {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1430328-ukraine-president-zelenskiy-russia-launched-one-of-its",
+      "titre": "Ukraine President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector",
+      "date_publication": "2026-10-07T07:26:32.856210+00:00",
+      "extrait": "Ukraines President Zelenskiy: Russia launched one of its biggest strikes on Ukraine, targeting its energy sector",
+      "impact": "low",
+      "date_recuperation": "2026-10-07T07:27:32.856210+00:00",
+      "source": "@financialjuice"
+    },
     {
       "ignore": false,
       "impact": "low",
