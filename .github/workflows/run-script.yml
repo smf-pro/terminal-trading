@@ -1,5 +1,6 @@
 # Workflow reutilisable : recupere le code PRIVE, lance un script, sauvegarde
-# cache/ + docs/ dans le depot prive, puis publie uniquement docs/ ici (public).
+# cache/ + docs/ dans le depot PRIVE uniquement. Plus aucune publication vers
+# ce depot public (les articles du jour ne doivent pas etre publics).
 name: run-script
 
 on:
@@ -109,82 +110,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs cache
-          git diff --cached --name-only --diff-filter=ACMR -- docs > "$RUNNER_TEMP/docs_changed.txt"
-          git diff --cached --name-only --diff-filter=D -- docs > "$RUNNER_TEMP/docs_deleted.txt"
           git diff --cached --quiet && { echo "Rien a commiter."; exit 0; }
-          git commit -m "Update $LABEL [skip ci]"
-          for i in 1 2 3 4 5; do
-            git fetch origin main
-            git merge -X ours origin/main --no-edit
-            if git push; then exit 0; fi
-            sleep $((i*3))
-          done
-          exit 1
-
-      - name: Publier docs/ (depot PUBLIC) - archive limitee aux jours de plus de 7 jours
-        if: ${{ inputs.commit }}
-        env:
-          LABEL: ${{ inputs.label }}
-        run: |
-          # 1) Fichiers de docs/ hors archive : copie comme avant
-          if [ -s "$RUNNER_TEMP/docs_changed.txt" ]; then
-            while IFS= read -r f; do
-              case "$f" in docs/archive/*) continue ;; esac
-              mkdir -p "$(dirname "$f")"
-              cp "private/$f" "$f"
-            done < "$RUNNER_TEMP/docs_changed.txt"
-          fi
-          if [ -s "$RUNNER_TEMP/docs_deleted.txt" ]; then
-            while IFS= read -r f; do
-              case "$f" in docs/archive/*) continue ;; esac
-              rm -f "$f"
-            done < "$RUNNER_TEMP/docs_deleted.txt"
-          fi
-
-          # 2) Archive publique (racine ET sous-dossiers, ex : fx/) :
-          #    uniquement les jours de plus de 7 jours
-          LIMITE=$(date -u -d '8 days ago' +%F)
-          mkdir -p docs/archive
-
-          # 2a) Retirer du public tout ce qui est trop recent ou n'est pas un fichier-jour
-          #     (index.json et marqueurs caches inclus : l'index est regenere en 2c)
-          find docs/archive -type f | while IFS= read -r f; do
-            nom=$(basename "$f")
-            if [[ "$nom" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]]; then
-              if [[ "${BASH_REMATCH[1]}" > "$LIMITE" ]]; then rm -f "$f"; fi
-            else
-              rm -f "$f"
-            fi
-          done
-
-          # 2b) Copier depuis le prive les jours assez anciens (tous dossiers)
-          if [ -d private/docs/archive ]; then
-            find private/docs/archive -type f -name '*.json' | while IFS= read -r f; do
-              nom=$(basename "$f")
-              if [[ "$nom" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]] && ! [[ "${BASH_REMATCH[1]}" > "$LIMITE" ]]; then
-                dest="${f#private/}"
-                mkdir -p "$(dirname "$dest")"
-                cp "$f" "$dest"
-              fi
-            done
-          fi
-
-          # 2c) Regenerer un index.json public par dossier, limite aux dates publiees
-          python3 - <<'PY'
-          import os, re, json
-          base = "docs/archive"
-          for root, dirs, files in os.walk(base):
-              dates = sorted((n[:-5] for n in files if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", n)), reverse=True)
-              if dates or root == base:
-                  with open(os.path.join(root, "index.json"), "w", encoding="utf-8") as fh:
-                      json.dump(dates, fh, ensure_ascii=False, indent=2)
-          PY
-
-          [ -d docs ] || { echo "Pas de docs/ a publier."; exit 0; }
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A docs
-          git diff --cached --quiet && { echo "Rien a publier."; exit 0; }
           git commit -m "Update $LABEL [skip ci]"
           for i in 1 2 3 4 5; do
             git fetch origin main
