@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T12:41:26.576549+00:00",
+    "ff_news": "2026-10-07T14:39:32.319154+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T14:33:59.251448+00:00"
   },
   "ff_news": [
+    {
+      "url": "https://www.forexfactory.com/news/1430415-eia-us-crude-inventories-down-by-32-million",
+      "extrait": "Commercial crude oil inventories in the United States, excluding the Strategic Petroleum Reserve, fell by 3.2 million barrels to 424 million barrels in the week ending October 2, the Energy Information Administration (EIA) reported on Wednesday. The figure marked a bigger-than-expected draw. The country's inventories now stand 1% below the five-year average ...",
+      "date_publication": "2026-10-07T14:39:32.319154+00:00",
+      "titre": "EIA: US crude inventories down by 3.2 million barrels",
+      "ignore": false,
+      "source": "breakingthenews.net",
+      "impact": "low",
+      "date_recuperation": "2026-10-07T14:40:32.319154+00:00"
+    },
     {
       "extrait": "Spot Gold Extends Losses, Last Down Nearly 2% At $4,081.01/oz",
       "source": "@FirstSquawk",
