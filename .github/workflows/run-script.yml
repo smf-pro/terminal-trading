@@ -141,12 +141,14 @@ jobs:
             done < "$RUNNER_TEMP/docs_deleted.txt"
           fi
 
-          # 2) Archive publique : uniquement les jours de plus de 7 jours
+          # 2) Archive publique (racine ET sous-dossiers, ex : fx/) :
+          #    uniquement les jours de plus de 7 jours
           LIMITE=$(date -u -d '8 days ago' +%F)
           mkdir -p docs/archive
 
           # 2a) Retirer du public tout ce qui est trop recent ou n'est pas un fichier-jour
-          find docs/archive -maxdepth 1 -type f | while IFS= read -r f; do
+          #     (index.json et marqueurs caches inclus : l'index est regenere en 2c)
+          find docs/archive -type f | while IFS= read -r f; do
             nom=$(basename "$f")
             if [[ "$nom" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]]; then
               if [[ "${BASH_REMATCH[1]}" > "$LIMITE" ]]; then rm -f "$f"; fi
@@ -155,22 +157,27 @@ jobs:
             fi
           done
 
-          # 2b) Copier depuis le prive les jours assez anciens
-          for f in private/docs/archive/*.json; do
-            [ -e "$f" ] || continue
-            nom=$(basename "$f")
-            if [[ "$nom" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]] && ! [[ "${BASH_REMATCH[1]}" > "$LIMITE" ]]; then
-              cp "$f" "docs/archive/$nom"
-            fi
-          done
+          # 2b) Copier depuis le prive les jours assez anciens (tous dossiers)
+          if [ -d private/docs/archive ]; then
+            find private/docs/archive -type f -name '*.json' | while IFS= read -r f; do
+              nom=$(basename "$f")
+              if [[ "$nom" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]] && ! [[ "${BASH_REMATCH[1]}" > "$LIMITE" ]]; then
+                dest="${f#private/}"
+                mkdir -p "$(dirname "$dest")"
+                cp "$f" "$dest"
+              fi
+            done
+          fi
 
-          # 2c) Regenerer un index.json public, limite aux dates publiees
+          # 2c) Regenerer un index.json public par dossier, limite aux dates publiees
           python3 - <<'PY'
           import os, re, json
-          d = "docs/archive"
-          dates = sorted((n[:-5] for n in os.listdir(d) if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", n)), reverse=True)
-          with open(os.path.join(d, "index.json"), "w", encoding="utf-8") as fh:
-              json.dump(dates, fh, ensure_ascii=False, indent=2)
+          base = "docs/archive"
+          for root, dirs, files in os.walk(base):
+              dates = sorted((n[:-5] for n in files if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", n)), reverse=True)
+              if dates or root == base:
+                  with open(os.path.join(root, "index.json"), "w", encoding="utf-8") as fh:
+                      json.dump(dates, fh, ensure_ascii=False, indent=2)
           PY
 
           [ -d docs ] || { echo "Pas de docs/ a publier."; exit 0; }
