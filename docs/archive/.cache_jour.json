@@ -3,7 +3,7 @@
   "curseurs": {
     "ff_news": "2026-10-07T15:01:38.838321+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
-    "il_articles": "2026-10-07T14:33:59.251448+00:00"
+    "il_articles": "2026-10-07T15:02:08.752489+00:00"
   },
   "ff_news": [
     {
@@ -162,6 +162,18 @@
     }
   ],
   "il_articles": [
+    {
+      "titre": "New York Fed inflation expectations: One year inflation expectations hit the highest since 2023",
+      "tags": [
+        "USD"
+      ],
+      "contenu": "Summary\n\nThe latest consumer expectations survey from the New York Fed\n\nThe New York Fed survey of consumer expectations\n\nOne year inflation 3.9% vs 3.6% prior\n\nThree year inflation 3.3% vs 3.2% prior\n\nFive year inflation unchanged at %3%\n\nYear-ahead expected spending rose to the highest since May 2023\n\nLabor market expectations were mostly positive\n\nThe Fed won't be happy about this but will take some solace in the flat 5-year number. But like many of them are saying, longer-term inflation expectations are stable until they're not.\n\nFor background, the New York Fed’s Survey of Consumer Expectations is a monthly report tracking how US households view inflation, the labour market and their finances. Launched in June 2013, it surveys a nationally representative rotating panel of approximately 1,200 household heads. Participants remain for up to 12 months, allowing researchers to track how the same individuals’ views change over time.\n\nFor markets, the most closely watched figures are median inflation expectations at the one-, three- and five-year horizons. The longer horizons measure expected annual inflation at those future points, rather than cumulative price increases over the entire period.\n\nThese readings matter because expectations can influence wage demands, spending and saving decisions. Policymakers watch whether longer-term expectations remain anchored: a sustained rise could signal weakening confidence that inflation will return to low, stable levels, complicating the Federal Reserve’s policy choices. Conversely, stable longer-term readings can offer reassurance when near-term inflation expectations rise.\n\nThe report also provides detail on expected earnings, household income and spending growth, access to credit, and the perceived likelihood of missing debt payments. Labour-market measures include respondents’ estimated chances of losing their jobs and finding new employment if laid off. These can help identify emerging financial stress or weakening worker confidence.\n\nThe key caveat is that the survey measures beliefs, rather than actual inflation or spending. Its readings should be assessed alongside hard economic data and other surveys. For traders, persistent changes across several months generally carry more weight than a small move in a single release, particularly when judging potential implications for interest rates.",
+      "date_recuperation": "2026-10-07T15:20:25.333439+00:00",
+      "categorie": "news",
+      "date_publication": "2026-10-07T15:02:08.752489+00:00",
+      "url": "https://investinglive.com/news/new-york-fed-inflation-expectations-one-year-inflation-expectations-hit-the-highest-since-2023/",
+      "ignore": false
+    },
     {
       "url": "https://investinglive.com/commodities/eia-weekly-us-crude-oil-inventories-3186k-vs-1722k-expected/",
       "date_recuperation": "2026-10-07T14:35:36.576054+00:00",
