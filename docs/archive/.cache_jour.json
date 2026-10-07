@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T10:44:30.221793+00:00",
+    "ff_news": "2026-10-07T12:02:27.084482+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T10:13:49.057178+00:00"
   },
   "ff_news": [
+    {
+      "ignore": false,
+      "url": "https://www.forexfactory.com/news/1430383-iran-says-deal-not-out-of-reach-if",
+      "extrait": "Iran Says Deal Not Out Of Reach If Us Abides By Law: Isna",
+      "impact": "low",
+      "date_recuperation": "2026-10-07T12:03:27.084482+00:00",
+      "source": "@FirstSquawk",
+      "titre": "Iran Says Deal Not Out Of Reach If Us Abides By Law: Isna",
+      "date_publication": "2026-10-07T12:02:27.084482+00:00"
+    },
     {
       "date_publication": "2026-10-07T10:44:30.221793+00:00",
       "ignore": false,
