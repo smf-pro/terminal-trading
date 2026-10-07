@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T10:30:31.605434+00:00",
+    "ff_news": "2026-10-07T10:44:30.221793+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T10:13:49.057178+00:00"
   },
   "ff_news": [
+    {
+      "date_publication": "2026-10-07T10:44:30.221793+00:00",
+      "ignore": false,
+      "impact": "low",
+      "titre": "Iran to soon block 'illegal' routes in Hormuz",
+      "url": "https://www.forexfactory.com/news/1430369-iran-to-soon-block-illegal-routes-in-hormuz",
+      "source": "@DeItaone",
+      "extrait": "*iran Says It Will Soon Block 'illegal' Routes In HormuzIran Reiterates Hormuz To Stay Closed Until Demands Are Met",
+      "date_recuperation": "2026-10-07T10:45:30.221793+00:00"
+    },
     {
       "date_recuperation": "2026-10-07T10:31:31.605434+00:00",
       "extrait": "Iran President Says Country Is In All-out War: Fars*iran President Says Talking With Neighbors To Meet Needs: Fars *iran President Says Country Is In All-out War: Fars *iran President Reiterates Country Will Resist Enemy: Fars",
