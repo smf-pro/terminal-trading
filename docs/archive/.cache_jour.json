@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T07:55:27.701351+00:00",
+    "ff_news": "2026-10-07T10:30:31.605434+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T10:13:49.057178+00:00"
   },
   "ff_news": [
+    {
+      "extrait": "Iran President Says Country Is In All-out War: Fars*iran President Says Talking With Neighbors To Meet Needs: Fars *iran President Says Country Is In All-out War: Fars *iran President Reiterates Country Will Resist Enemy: Fars",
+      "titre": "Iran President Says Country Is In All-out War: Fars",
+      "date_recuperation": "2026-10-07T10:31:31.605434+00:00",
+      "impact": "low",
+      "url": "https://www.forexfactory.com/news/1430364-iran-president-says-country-is-in-all-out-war",
+      "source": "@FirstSquawk",
+      "ignore": false,
+      "date_publication": "2026-10-07T10:30:31.605434+00:00"
+    },
     {
       "impact": "high",
       "ignore": false,
