@@ -2,6 +2,16 @@
   "date": "2026-10-07",
   "ff_news": [
     {
+      "ignore": false,
+      "extrait": "table",
+      "date_publication": "2026-10-07T17:02:55.216227+00:00",
+      "date_recuperation": "2026-10-07T17:03:55.216227+00:00",
+      "impact": "low",
+      "source": "treasurydirect.gov",
+      "url": "https://www.forexfactory.com/news/1430433-us-treasury-auction-results",
+      "titre": "US Treasury Auction Results"
+    },
+    {
       "source": "newyorkfed.org",
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1430419-us-short-and-medium-term-inflation-expectations-increase-labor",

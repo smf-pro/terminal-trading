@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T15:01:38.838321+00:00",
+    "ff_news": "2026-10-07T17:02:55.216227+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T15:32:22.013495+00:00"
   },
   "ff_news": [
+    {
+      "ignore": false,
+      "extrait": "table",
+      "date_publication": "2026-10-07T17:02:55.216227+00:00",
+      "date_recuperation": "2026-10-07T17:03:55.216227+00:00",
+      "impact": "low",
+      "source": "treasurydirect.gov",
+      "url": "https://www.forexfactory.com/news/1430433-us-treasury-auction-results",
+      "titre": "US Treasury Auction Results"
+    },
     {
       "source": "newyorkfed.org",
       "ignore": false,
