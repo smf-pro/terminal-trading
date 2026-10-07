@@ -1,11 +1,21 @@
 {
   "date": "2026-10-07",
   "curseurs": {
-    "ff_news": "2026-10-07T12:02:27.084482+00:00",
+    "ff_news": "2026-10-07T12:41:26.576549+00:00",
     "cb_articles": "2026-10-07T02:28:57.545596+00:00",
     "il_articles": "2026-10-07T10:13:49.057178+00:00"
   },
   "ff_news": [
+    {
+      "extrait": "Spot Gold Extends Losses, Last Down Nearly 2% At $4,081.01/oz",
+      "source": "@FirstSquawk",
+      "date_publication": "2026-10-07T12:41:26.576549+00:00",
+      "url": "https://www.forexfactory.com/news/1430390-spot-gold-extends-losses-last-down-nearly-2",
+      "date_recuperation": "2026-10-07T12:42:26.576549+00:00",
+      "ignore": false,
+      "titre": "Spot Gold Extends Losses, Last Down Nearly 2% At $4,081.01/oz",
+      "impact": "high"
+    },
     {
       "ignore": false,
       "url": "https://www.forexfactory.com/news/1430383-iran-says-deal-not-out-of-reach-if",
