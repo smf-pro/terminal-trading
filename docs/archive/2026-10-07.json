@@ -1,10 +1,5 @@
 {
   "date": "2026-10-07",
-  "curseurs": {
-    "ff_news": "2026-10-07T06:14:30.621287+00:00",
-    "cb_articles": "2026-10-07T02:28:57.545596+00:00",
-    "il_articles": "2026-10-07T06:36:48.151139+00:00"
-  },
   "ff_news": [
     {
       "extrait": "“UK house prices were unchanged in September (0.0%), following a -0. 3% fall in August. The average property now costs £298,441, while annual growth also remained flat at 0.0%. While the market overall has been fairly subdued, property prices have so far proved resilient during a period of higher mortgage rates, which has been driven by changing ...",
