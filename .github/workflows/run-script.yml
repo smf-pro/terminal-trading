@@ -37,6 +37,11 @@ on:
         required: false
         type: string
         default: ""
+      destination:
+        description: "Destination d'ecriture (scripts migres) : vide ou 'principal' = projet principal ; 'double' = principal + 4e projet (R4) ; 'p4' = 4e projet seul"
+        required: false
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -79,6 +84,8 @@ jobs:
           FIREBASE_PROJET: ${{ inputs.firebase_projet }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_SERVICE_ACCOUNT_POLYMARKET: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_POLYMARKET }}
+          DESTINATION_INPUT: ${{ inputs.destination }}
+          FIREBASE_SERVICE_ACCOUNT_R4: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_R4 }}
         run: |
           if [ "$FIREBASE_PROJET" = "polymarket" ]; then
             # Second projet : si le secret manque, on S'ARRETE (jamais de repli
@@ -91,11 +98,22 @@ jobs:
           else
             echo "$FIREBASE_SERVICE_ACCOUNT" > service_account.json
           fi
+          # 4e projet (SMF-ROOM-04) : cle ecrite seulement si le script doit y ecrire.
+          # Secret absent/vide = ARRET (jamais de repli silencieux).
+          if [ "$DESTINATION_INPUT" = "double" ] || [ "$DESTINATION_INPUT" = "p4" ]; then
+            if [ -z "$FIREBASE_SERVICE_ACCOUNT_R4" ]; then
+              echo "Secret FIREBASE_SERVICE_ACCOUNT_R4 absent ou vide."
+              exit 1
+            fi
+            printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_R4" > service_account_p4.json
+          fi
 
       - name: Lancer le script
         working-directory: private
         env:
           GOOGLE_APPLICATION_CREDENTIALS: service_account.json
+          GOOGLE_APPLICATION_CREDENTIALS_P4: service_account_p4.json
+          DESTINATION: ${{ inputs.destination || 'principal' }}
           JOURS_HISTORIQUE: ${{ inputs.jours_historique }}
           SCRIPT: ${{ inputs.script }}
         run: python "$SCRIPT"
