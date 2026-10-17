@@ -3,16 +3,16 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch: {}
+permissions:
+  contents: write
 concurrency:
   group: data-eur
   cancel-in-progress: false
-permissions:
-  contents: write
 jobs:
-  run:
+  scrape:
     uses: ./.github/workflows/run-script.yml
     with:
       script: data-eur.py
       label: data-eur
-      timeout_minutes: 10
+      destination: ${{ vars.DEST_EUR }}
     secrets: inherit
