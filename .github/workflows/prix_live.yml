@@ -1,8 +1,7 @@
 name: Prix Live ACTIFS-LIVE
 on:
-  # Lancement MANUEL seulement pour l'instant. La cadence de 5 minutes sera ajoutee apres validation :
-  #   schedule:
-  #     - cron: "*/5 * * * *"
+  schedule:
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 concurrency:
   group: prix_live
