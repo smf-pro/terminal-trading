@@ -1,0 +1,19 @@
+name: COT Banks ECB Projection
+on:
+  schedule:
+    - cron: "35 13 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: cot-banks-ecb-projection
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_banks_ecb_projection.py
+      label: cot-banks-ecb-projection
+      timeout_minutes: 10
+      firebase_projet: cot
+    secrets: inherit

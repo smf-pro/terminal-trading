@@ -1,0 +1,19 @@
+name: COT Banks BoC Projection
+on:
+  schedule:
+    - cron: "35 14 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: cot-banks-boc-projection
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_banks_boc_projection.py
+      label: cot-banks-boc-projection
+      timeout_minutes: 10
+      firebase_projet: cot
+    secrets: inherit

@@ -1,0 +1,19 @@
+name: COT Banks SNB Projection
+on:
+  schedule:
+    - cron: "35 15 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: cot-banks-snb-projection
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_banks_snb_projection.py
+      label: cot-banks-snb-projection
+      timeout_minutes: 10
+      firebase_projet: cot
+    secrets: inherit

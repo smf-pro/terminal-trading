@@ -1,0 +1,19 @@
+name: COT Banks RBA Projection
+on:
+  schedule:
+    - cron: "5 16 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: cot-banks-rba-projection
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_banks_rba_projection.py
+      label: cot-banks-rba-projection
+      timeout_minutes: 10
+      firebase_projet: cot
+    secrets: inherit
