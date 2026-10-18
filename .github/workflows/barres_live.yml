@@ -1,0 +1,22 @@
+name: Barres Live ACTIFS-LIVE
+on:
+  # Lancement MANUEL seulement pour l'instant. La cadence horaire sera ajoutee apres validation :
+  #   schedule:
+  #     - cron: "5 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: barres_live
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: Barres_Active_Live.py
+      label: barres_live
+      timeout_minutes: 15
+      commit: false
+      pip_packages: "requests websocket-client firebase-admin"
+      firebase_projet: actifs
+    secrets: inherit
