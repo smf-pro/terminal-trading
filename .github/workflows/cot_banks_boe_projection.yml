@@ -1,0 +1,19 @@
+name: COT Banks BoE Projection
+on:
+  schedule:
+    - cron: "5 14 * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: cot-banks-boe-projection
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: cot_banks_boe_projection.py
+      label: cot-banks-boe-projection
+      timeout_minutes: 10
+      firebase_projet: cot
+    secrets: inherit
