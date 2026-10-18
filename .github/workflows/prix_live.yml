@@ -1,0 +1,22 @@
+name: Prix Live ACTIFS-LIVE
+on:
+  # Lancement MANUEL seulement pour l'instant. La cadence de 5 minutes sera ajoutee apres validation :
+  #   schedule:
+  #     - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: prix_live
+  cancel-in-progress: true
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: Prix_Active_Live.py
+      label: prix_live
+      timeout_minutes: 4
+      commit: false
+      pip_packages: "requests websocket-client firebase-admin"
+      firebase_projet: actifs
+    secrets: inherit
