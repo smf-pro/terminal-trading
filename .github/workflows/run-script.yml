@@ -33,7 +33,7 @@ on:
         type: string
         default: ""
       firebase_projet:
-        description: "Projet Firebase cible : vide = projet principal ; 'polymarket' = second projet ; 'actifs' = projet ACTIFS-LIVE (nouveaux prix)"
+        description: "Projet Firebase cible : vide = projet principal ; 'polymarket' = second projet ; 'actifs' = projet ACTIFS-LIVE (nouveaux prix) ; 'cot' = projet COT (Cot-Banks)"
         required: false
         type: string
         default: ""
@@ -85,6 +85,7 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_SERVICE_ACCOUNT_POLYMARKET: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_POLYMARKET }}
           FIREBASE_SERVICE_ACCOUNT_ACTIFS: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ACTIFS }}
+          FIREBASE_SERVICE_ACCOUNT_COT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_COT }}
           DESTINATION_INPUT: ${{ inputs.destination }}
           FIREBASE_SERVICE_ACCOUNT_R4: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_R4 }}
         run: |
@@ -103,6 +104,13 @@ jobs:
               exit 1
             fi
             printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_ACTIFS" > service_account.json
+          elif [ "$FIREBASE_PROJET" = "cot" ]; then
+            # Projet COT (Cot-Banks) : meme regle, jamais de repli sur le principal.
+            if [ -z "$FIREBASE_SERVICE_ACCOUNT_COT" ]; then
+              echo "Secret FIREBASE_SERVICE_ACCOUNT_COT absent ou vide."
+              exit 1
+            fi
+            printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_COT" > service_account.json
           else
             echo "$FIREBASE_SERVICE_ACCOUNT" > service_account.json
           fi
