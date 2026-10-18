@@ -33,7 +33,7 @@ on:
         type: string
         default: ""
       firebase_projet:
-        description: "Projet Firebase cible : vide = projet principal ; 'polymarket' = second projet"
+        description: "Projet Firebase cible : vide = projet principal ; 'polymarket' = second projet ; 'actifs' = projet ACTIFS-LIVE (nouveaux prix)"
         required: false
         type: string
         default: ""
@@ -84,6 +84,7 @@ jobs:
           FIREBASE_PROJET: ${{ inputs.firebase_projet }}
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_SERVICE_ACCOUNT_POLYMARKET: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_POLYMARKET }}
+          FIREBASE_SERVICE_ACCOUNT_ACTIFS: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ACTIFS }}
           DESTINATION_INPUT: ${{ inputs.destination }}
           FIREBASE_SERVICE_ACCOUNT_R4: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_R4 }}
         run: |
@@ -95,6 +96,13 @@ jobs:
               exit 1
             fi
             printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_POLYMARKET" > service_account.json
+          elif [ "$FIREBASE_PROJET" = "actifs" ]; then
+            # Projet ACTIFS-LIVE (nouveaux prix) : meme regle, jamais de repli sur le principal.
+            if [ -z "$FIREBASE_SERVICE_ACCOUNT_ACTIFS" ]; then
+              echo "Secret FIREBASE_SERVICE_ACCOUNT_ACTIFS absent ou vide."
+              exit 1
+            fi
+            printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_ACTIFS" > service_account.json
           else
             echo "$FIREBASE_SERVICE_ACCOUNT" > service_account.json
           fi
