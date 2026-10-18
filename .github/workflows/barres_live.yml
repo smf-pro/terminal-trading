@@ -1,8 +1,7 @@
 name: Barres Live ACTIFS-LIVE
 on:
-  # Lancement MANUEL seulement pour l'instant. La cadence horaire sera ajoutee apres validation :
-  #   schedule:
-  #     - cron: "5 * * * *"
+  schedule:
+    - cron: "5 * * * *"
   workflow_dispatch: {}
 concurrency:
   group: barres_live
