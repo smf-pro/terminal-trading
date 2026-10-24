@@ -1,0 +1,21 @@
+name: Calendrier FXStreet Scraper
+on:
+  schedule:
+    # Decale de 2 min par rapport aux autres scripts (*/5) pour eviter
+    # que plusieurs runs poussent le dossier cache/ au meme moment.
+    - cron: "2-59/5 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: calendrier-fxstreet
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: calendrier_fxstreet_cloud.py
+      label: calendrier-fxstreet
+      timeout_minutes: 10
+      destination: p4
+    secrets: inherit
