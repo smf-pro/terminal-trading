@@ -38,7 +38,7 @@ on:
         type: string
         default: ""
       destination:
-        description: "Destination d'ecriture (scripts migres) : vide ou 'principal' = projet principal ; 'double' = principal + 4e projet (R4) ; 'p4' = 4e projet seul"
+        description: "Destination d'ecriture (scripts migres) : vide ou 'principal' = projet principal ; 'double' = principal + 4e projet (R4) ; 'p4' = 4e projet seul ; 'eco' = projet DATA-ECO-FX (Data eco V2, cle ecrite en plus du principal)"
         required: false
         type: string
         default: ""
@@ -88,6 +88,7 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT_COT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_COT }}
           DESTINATION_INPUT: ${{ inputs.destination }}
           FIREBASE_SERVICE_ACCOUNT_R4: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_R4 }}
+          FIREBASE_SERVICE_ACCOUNT_ECO: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ECO }}
         run: |
           if [ "$FIREBASE_PROJET" = "polymarket" ]; then
             # Second projet : si le secret manque, on S'ARRETE (jamais de repli
@@ -123,12 +124,23 @@ jobs:
             fi
             printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_R4" > service_account_p4.json
           fi
+          # Projet DATA-ECO-FX (Data eco V2) : cle ecrite seulement si le script doit y ecrire,
+          # dans service_account_eco.json (le principal reste dans service_account.json pour le
+          # battement de coeur). Secret absent/vide = ARRET (jamais de repli silencieux).
+          if [ "$DESTINATION_INPUT" = "eco" ]; then
+            if [ -z "$FIREBASE_SERVICE_ACCOUNT_ECO" ]; then
+              echo "Secret FIREBASE_SERVICE_ACCOUNT_ECO absent ou vide."
+              exit 1
+            fi
+            printf '%s\n' "$FIREBASE_SERVICE_ACCOUNT_ECO" > service_account_eco.json
+          fi
 
       - name: Lancer le script
         working-directory: private
         env:
           GOOGLE_APPLICATION_CREDENTIALS: service_account.json
           GOOGLE_APPLICATION_CREDENTIALS_P4: service_account_p4.json
+          GOOGLE_APPLICATION_CREDENTIALS_ECO: service_account_eco.json
           DESTINATION: ${{ inputs.destination || 'principal' }}
           JOURS_HISTORIQUE: ${{ inputs.jours_historique }}
           SCRIPT: ${{ inputs.script }}
