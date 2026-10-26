@@ -1,0 +1,14 @@
+name: Diagnostic FXStreet (temporaire)
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: diag_fxstreet.py
+      label: diag-fxstreet
+      timeout_minutes: 5
+      commit: false
+    secrets: inherit
