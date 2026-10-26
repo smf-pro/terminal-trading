@@ -1,0 +1,21 @@
+name: Data Eco FXStreet Scraper
+on:
+  schedule:
+    # Toutes les 10 min, decale de 3 min. Le script ne relit que les pages qui en ont besoin
+    # (publication passee, archive a finir, controle quotidien) et respecte le quota du jour.
+    - cron: "3-59/10 * * * *"
+  workflow_dispatch: {}
+concurrency:
+  group: data-eco-fx
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    uses: ./.github/workflows/run-script.yml
+    with:
+      script: data_eco_fxstreet_cloud.py
+      label: data-eco-fx
+      timeout_minutes: 10
+      destination: eco
+    secrets: inherit
